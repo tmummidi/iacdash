@@ -95,7 +95,7 @@ def update_output_for_keywords(input_keyword):
         if not input_keyword.empty:
             # Convert the result to a string
             input_keyword = str(input_keyword.iloc[0])
-            print(input_keyword)
+            print("keyword extracted")
         else:
             print("No matching description found for the given SIC Code.")
             return []
@@ -103,7 +103,7 @@ def update_output_for_keywords(input_keyword):
     print(input_keyword)
     if input_keyword is None:
         return []
-
+    print("keyword not null")
     # Preprocess the data
     def preprocess_text(text):
         # Tokenize the text
