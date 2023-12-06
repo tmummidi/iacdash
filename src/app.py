@@ -17,6 +17,8 @@ ASSESS_df=ASSESS_df[ASSESS_df['FY']>=2000]
 RECC_df=pd.read_csv('RECC_df.csv')
 ISADS=pd.read_csv('ISAD.csv')
 options_df= None
+
+
 # Dash app
 app = dash.Dash(__name__)
 server=app.server
@@ -82,10 +84,11 @@ def update_output_div(n_clicks, keyword):
     if n_clicks > 0:
         return update_output_for_keywords(keyword)
 def update_output_for_keywords(input_keyword):
-    print(input_keyword)
+    
     # Read the CSV file
     df=pd.read_csv('sic_desc.csv')
     df=df[df['SIC Code']>1000]
+    print(type(input_keyword))
     if input_keyword.isdigit():
         print(int(input_keyword))
         input_keyword=df[df['SIC Code']==int(input_keyword)]['Description']
@@ -96,6 +99,8 @@ def update_output_for_keywords(input_keyword):
         else:
             print("No matching description found for the given SIC Code.")
             return []
+        
+    print(input_keyword)
     if input_keyword is None:
         return []
 
@@ -320,7 +325,6 @@ def update_output_for_sic(sic_input):
     table_data = filtered_df_4.to_dict('records')
     print(filtered_df_4)
     return fig_1, fig_2, table_data1, table_data
-
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
