@@ -131,6 +131,7 @@ def update_output_for_keywords(input_keyword):
     df_matches = df.loc[df['SIC Code'].isin(matching_info['SIC Code'])].copy()
     df_matches = df_matches.drop(['Link','processed_description'], axis=1)
     print(df_matches)
+    print(len(df_matches))
 #     print("Matching SIC Numbers:")
 #     print(df_matches)
     table_data = df_matches.to_dict('records')
