@@ -1,24 +1,121 @@
 Link,SIC Code,Description,Assessments,Recommendations,Recommended $ Savings
-https://iac.university/indexSic/20,20,Food and Kindred Products,"2,641","20,225","$383,139,724"
+https://iac.university/indexSic/01,1,Agricultural Production Crops,9,42,"$2,019,442"
+https://iac.university/indexSic/02,2,Agricultural Productionlivestock,1,1,"$1,327"
+https://iac.university/indexSic/07,7,Agricultural Services,9,54,"$1,238,914"
+https://iac.university/indexSic/08,8,Forestry,-,-,-
+https://iac.university/indexSic/09,9,"Fishing, Hunting, And Trapping",1,3,"$120,914"
+https://iac.university/indexSic/10,10,Mining,7,49,"$22,161,941"
+https://iac.university/indexSic/12,12,Coal Mining,2,13,"$55,291"
+https://iac.university/indexSic/13,13,Oil And Gas Extraction,4,29,"$1,195,084"
+https://iac.university/indexSic/14,14,"Nonmetallic Minerals, Except Fuels",31,189,"$11,944,409"
+https://iac.university/indexSic/15,15,General Building Contractors,-,-,-
+https://iac.university/indexSic/16,16,"Heavy Construction, Ex. Building",6,38,"$472,489"
+https://iac.university/indexSic/17,17,Special Trade Contractors,5,37,"$730,178"
+https://iac.university/indexSic/20,20,Food and Kindred Products,"2,642","20,230","$383,286,423"
 https://iac.university/indexSic/21,21,Tobacco Products,19,163,"$5,334,574"
 https://iac.university/indexSic/22,22,Textile Mill Products,573,"4,164","$79,414,034"
 https://iac.university/indexSic/23,23,Apparel And Other Textile Products,347,"2,383","$18,915,428"
-https://iac.university/indexSic/24,24,Lumber And Wood Products,"1,003","7,052","$174,717,455"
+https://iac.university/indexSic/24,24,Lumber And Wood Products,"1,004","7,063","$174,868,043"
 https://iac.university/indexSic/25,25,Furniture And Fixtures,478,"3,472","$41,044,025"
 https://iac.university/indexSic/26,26,Paper And Allied Products,999,"7,854","$170,711,194"
 https://iac.university/indexSic/27,27,Printing And Publishing,751,"5,634","$64,932,611"
-https://iac.university/indexSic/28,28,Chemicals And Allied Products,"1,114","8,361","$266,814,549"
+https://iac.university/indexSic/28,28,Chemicals And Allied Products,"1,115","8,370","$266,835,749"
 https://iac.university/indexSic/29,29,Petroleum And Coal Products,190,"1,353","$51,832,768"
 https://iac.university/indexSic/30,30,Rubber And Miscellaneous Plastics Products,"2,146","16,677","$259,524,203"
 https://iac.university/indexSic/31,31,Leather And Leather Products,89,631,"$6,447,084"
 https://iac.university/indexSic/32,32,"Stone, Clay, And Glass Products",775,"5,593","$201,701,430"
-https://iac.university/indexSic/33,33,Primary Metal Industries,"1,317","10,150","$266,338,507"
-https://iac.university/indexSic/34,34,Fabricated Metal Products,"2,589","19,652","$246,402,125"
-https://iac.university/indexSic/35,35,Industrial Machinery And Equipment,"2,009","14,840","$153,295,526"
-https://iac.university/indexSic/36,36,Electronic & Other Electric Equipment,"1,118","8,272","$127,862,205"
-https://iac.university/indexSic/37,37,Transportation Equipment,"1,184","9,102","$160,698,752"
-https://iac.university/indexSic/38,38,Instruments And Related Products,542,"3,942","$56,128,762"
+https://iac.university/indexSic/33,33,Primary Metal Industries,"1,320","10,165","$267,244,543"
+https://iac.university/indexSic/34,34,Fabricated Metal Products,"2,592","19,678","$246,560,359"
+https://iac.university/indexSic/35,35,Industrial Machinery And Equipment,"2,010","14,846","$153,425,087"
+https://iac.university/indexSic/36,36,Electronic & Other Electric Equipment,"1,120","8,287","$128,082,538"
+https://iac.university/indexSic/37,37,Transportation Equipment,"1,186","9,121","$161,122,741"
+https://iac.university/indexSic/38,38,Instruments And Related Products,543,"3,953","$56,255,778"
 https://iac.university/indexSic/39,39,Miscellaneous Manufacturing Industries,336,"2,497","$33,883,394"
+https://iac.university/indexSic/40,40,"Transportation, Communications, Electric, Gas, And Sanitary Services",-,-,-
+https://iac.university/indexSic/41,41,Local And Interurban Passenger Transit,1,8,"$528,893"
+https://iac.university/indexSic/42,42,Trucking And Warehousing,18,129,"$2,024,865"
+https://iac.university/indexSic/43,43,U.s. Postal Service,1,8,"$15,202"
+https://iac.university/indexSic/44,44,Water Transportation,1,7,"$100,835"
+https://iac.university/indexSic/45,45,Transportation By Air,6,40,"$128,526"
+https://iac.university/indexSic/46,46,"Pipelines, Except Natural Gas",1,4,"$65,998"
+https://iac.university/indexSic/47,47,Transportation Services,9,70,"$1,130,148"
+https://iac.university/indexSic/48,48,Communication,-,-,-
+https://iac.university/indexSic/49,49,"Electric, Gas, And Sanitary Services",378,"2,147","$86,435,877"
+https://iac.university/indexSic/50,50,Wholesale Trade,29,221,"$2,500,146"
+https://iac.university/indexSic/51,51,Wholesale Tradenondurable Goods,31,229,"$4,899,754"
+https://iac.university/indexSic/52,52,Building Materials & Garden Supplies,2,9,"$6,247"
+https://iac.university/indexSic/53,53,General Merchandise Stores,2,8,"$26,554"
+https://iac.university/indexSic/54,54,Food Stores,4,24,"$123,452"
+https://iac.university/indexSic/55,55,Automotive Dealers & Service Stations,3,21,"$109,339"
+https://iac.university/indexSic/56,56,Apparel And Accessory Stores,-,-,-
+https://iac.university/indexSic/57,57,Furniture And Homefurnishings Stores,-,-,-
+https://iac.university/indexSic/58,58,Eating And Drinking Places,1,4,"$10,437"
+https://iac.university/indexSic/59,59,Miscellaneous Retail,11,80,"$722,745"
+https://iac.university/indexSic/60,60,Retail Trade,1,4,"$25,902"
+https://iac.university/indexSic/61,61,Nondepository Institutions,-,-,-
+https://iac.university/indexSic/62,62,Security And Commodity Brokers,-,-,-
+https://iac.university/indexSic/63,63,Insurance Carriers,-,-,-
+https://iac.university/indexSic/64,64,"Insurance Agents, Brokers, & Service",-,-,-
+https://iac.university/indexSic/65,65,Real Estate,11,62,"$649,784"
+https://iac.university/indexSic/67,67,Holding And Other Investment Offices,-,-,-
+https://iac.university/indexSic/70,70,"Finance, Insurance, And Real Estate",11,62,"$1,021,391"
+https://iac.university/indexSic/72,72,Personal Services,14,106,"$2,031,671"
+https://iac.university/indexSic/73,73,Business Services,9,68,"$379,827"
+https://iac.university/indexSic/75,75,"Auto Repair, Services, And Parking",6,42,"$276,847"
+https://iac.university/indexSic/76,76,Miscellaneous Repair Services,7,59,"$467,265"
+https://iac.university/indexSic/78,78,Motion Pictures,-,-,-
+https://iac.university/indexSic/79,79,Amusement & Recreation Services,11,59,"$552,236"
+https://iac.university/indexSic/80,80,Health Services,17,111,"$2,137,063"
+https://iac.university/indexSic/81,81,Legal Services,3,18,"$28,148"
+https://iac.university/indexSic/82,82,Educational Services,49,275,"$1,921,943"
+https://iac.university/indexSic/83,83,Social Services,9,50,"$414,280"
+https://iac.university/indexSic/84,84,"Museums, Botanical, Zoological Gardens",13,76,"$383,065"
+https://iac.university/indexSic/86,86,Membership Organizations,3,12,"$62,117"
+https://iac.university/indexSic/87,87,Engineering & Management Services,18,102,"$1,894,382"
+https://iac.university/indexSic/88,88,Private Households,-,-,-
+https://iac.university/indexSic/89,89,"Services, Nec",5,23,"$43,061"
+https://iac.university/indexSic/018,18,Horticultural Specialties,3,20,"$884,667"
+https://iac.university/indexSic/019,19,"General Farms, Primarily Crop",-,-,-
+https://iac.university/indexSic/071,71,Soil Preparation Services,-,-,-
+https://iac.university/indexSic/074,74,Veterinary Services,-,-,-
+https://iac.university/indexSic/085,85,Forestry Services,-,-,-
+https://iac.university/indexSic/091,91,Commercial Fishing,-,-,-
+https://iac.university/indexSic/092,92,Fish Hatcheries And Preserves,1,3,"$120,914"
+https://iac.university/indexSic/097,97,"Hunting, Trapping, Game Propagation",-,-,-
+https://iac.university/indexSic/101,101,Iron Ores,-,-,-
+https://iac.university/indexSic/102,102,Copper Ores,3,20,"$10,765,862"
+https://iac.university/indexSic/103,103,Lead And Zinc Ores,-,-,-
+https://iac.university/indexSic/104,104,Gold And Silver Ores,4,29,"$11,396,079"
+https://iac.university/indexSic/106,106,"Ferroalloy Ores, Except Vanadium",-,-,-
+https://iac.university/indexSic/108,108,Metal Mining Services,-,-,-
+https://iac.university/indexSic/109,109,Miscellaneous Metal Ores,-,-,-
+https://iac.university/indexSic/122,122,Bituminous Coal And Lignite Mining,2,13,"$55,291"
+https://iac.university/indexSic/123,123,Anthracite Mining,-,-,-
+https://iac.university/indexSic/124,124,Coal Mining Services,-,-,-
+https://iac.university/indexSic/131,131,Crude Petroleum And Natural Gas,3,22,"$1,185,833"
+https://iac.university/indexSic/132,132,Natural Gas Liquids,-,-,-
+https://iac.university/indexSic/138,138,Oil And Gas Field Services,1,7,"$9,251"
+https://iac.university/indexSic/141,141,Dimension Stone,1,6,"$17,368"
+https://iac.university/indexSic/142,142,Crushed And Broken Stone,5,24,"$949,374"
+https://iac.university/indexSic/144,144,Sand And Gravel,18,115,"$3,525,083"
+https://iac.university/indexSic/145,145,"Clay, Ceramic, & Refractory Minerals",1,7,"$101,716"
+https://iac.university/indexSic/147,147,Chemical And Fertilizer Minerals,6,37,"$7,350,868"
+https://iac.university/indexSic/148,148,Nonmetallic Minerals Services,-,-,-
+https://iac.university/indexSic/149,149,Miscellaneous Nonmetallic Minerals,-,-,-
+https://iac.university/indexSic/152,152,Residential Building Construction,-,-,-
+https://iac.university/indexSic/153,153,Operative Builders,-,-,-
+https://iac.university/indexSic/154,154,Nonresidential Building Construction,-,-,-
+https://iac.university/indexSic/161,161,Highway And Street Construction,-,-,-
+https://iac.university/indexSic/162,162,"Heavy Construction, Except Highway",6,38,"$472,489"
+https://iac.university/indexSic/171,171,"Plumbing, Heating, Air-conditioning",-,-,-
+https://iac.university/indexSic/172,172,Painting And Paper Hanging,2,17,"$106,023"
+https://iac.university/indexSic/173,173,Electrical Work,1,4,"$18,673"
+https://iac.university/indexSic/174,174,"Masonry, Stonework, And Plastering",-,-,-
+https://iac.university/indexSic/175,175,Carpentry And Floor Work,-,-,-
+https://iac.university/indexSic/176,176,"Roofing, Siding, And Sheet Metal Work",2,16,"$605,482"
+https://iac.university/indexSic/177,177,Concrete Work,-,-,-
+https://iac.university/indexSic/178,178,Water Well Drilling,-,-,-
+https://iac.university/indexSic/179,179,Misc. Special Trade Contractors,-,-,-
 https://iac.university/indexSic/201,201,Meat Products,369,"2,907","$45,852,002"
 https://iac.university/indexSic/202,202,Dairy Products,342,"2,694","$51,629,964"
 https://iac.university/indexSic/203,203,Preserved Fruits And Vegetables,355,"2,860","$65,728,439"
@@ -27,7 +124,7 @@ https://iac.university/indexSic/205,205,Bakery Products,311,"2,369","$36,923,067
 https://iac.university/indexSic/206,206,Sugar And Confectionery Products,126,973,"$17,759,613"
 https://iac.university/indexSic/207,207,Fats And Oils,52,377,"$19,656,303"
 https://iac.university/indexSic/208,208,Beverages,418,"3,155","$66,687,503"
-https://iac.university/indexSic/209,209,Misc. Food And Kindred Products,396,"2,835","$49,891,410"
+https://iac.university/indexSic/209,209,Misc. Food And Kindred Products,397,"2,840","$50,038,109"
 https://iac.university/indexSic/211,211,Cigarettes,5,53,"$3,198,410"
 https://iac.university/indexSic/212,212,Cigars,2,12,"$262,744"
 https://iac.university/indexSic/213,213,Chewing And Smoking Tobacco,7,52,"$910,566"
@@ -51,7 +148,7 @@ https://iac.university/indexSic/237,237,Fur Goods,1,17,"$146,909"
 https://iac.university/indexSic/238,238,Miscellaneous Apparel And Accessories,31,197,"$1,452,082"
 https://iac.university/indexSic/239,239,Misc. Fabricated Textile Products,118,832,"$10,661,238"
 https://iac.university/indexSic/241,241,Logging,6,36,"$1,402,047"
-https://iac.university/indexSic/242,242,Sawmills And Planing Mills,338,"2,398","$80,040,469"
+https://iac.university/indexSic/242,242,Sawmills And Planing Mills,339,"2,409","$80,191,057"
 https://iac.university/indexSic/243,243,"Millwork, Plywood & Structural",354,"2,455","$47,553,117"
 https://iac.university/indexSic/244,244,Wood Containers,37,256,"$2,476,983"
 https://iac.university/indexSic/245,245,Wood Buildings And Mobile Homes,76,504,"$10,014,754"
@@ -78,7 +175,7 @@ https://iac.university/indexSic/279,279,Printing Trade Services,12,79,"$614,224"
 https://iac.university/indexSic/281,281,Industrial Inorganic Chemicals,147,"1,054","$35,898,116"
 https://iac.university/indexSic/282,282,Plastics Materials And Synthetics,181,"1,398","$32,849,188"
 https://iac.university/indexSic/283,283,Drugs,208,"1,541","$48,460,376"
-https://iac.university/indexSic/284,284,"Soap, Cleaners, And Toilet Goods",125,948,"$15,434,741"
+https://iac.university/indexSic/284,284,"Soap, Cleaners, And Toilet Goods",126,957,"$15,455,941"
 https://iac.university/indexSic/285,285,Paints And Allied Products,92,741,"$7,775,416"
 https://iac.university/indexSic/286,286,Industrial Organic Chemicals,125,920,"$76,616,698"
 https://iac.university/indexSic/287,287,Agricultural Chemicals,40,254,"$19,525,179"
@@ -108,32 +205,32 @@ https://iac.university/indexSic/327,327,"Concrete, Gypsum, And Plaster Products"
 https://iac.university/indexSic/328,328,Cut Stone And Stone Products,29,177,"$2,503,439"
 https://iac.university/indexSic/329,329,Misc. Nonmetallic Mineral Products,166,"1,261","$47,471,576"
 https://iac.university/indexSic/331,331,Blast Furnace And Basic Steel Products,263,"2,029","$53,610,102"
-https://iac.university/indexSic/332,332,Iron And Steel Foundries,270,"2,016","$61,396,238"
-https://iac.university/indexSic/333,333,Primary Nonferrous Metals,32,245,"$7,658,285"
+https://iac.university/indexSic/332,332,Iron And Steel Foundries,271,"2,021","$61,439,999"
+https://iac.university/indexSic/333,333,Primary Nonferrous Metals,33,252,"$8,474,602"
 https://iac.university/indexSic/334,334,Secondary Nonferrous Metals,59,469,"$14,379,035"
 https://iac.university/indexSic/335,335,Nonferrous Rolling And Drawing,249,"2,014","$58,678,362"
 https://iac.university/indexSic/336,336,Nonferrous Foundries (castings),302,"2,368","$56,090,163"
-https://iac.university/indexSic/339,339,Miscellaneous Primary Metal Products,141,997,"$14,454,662"
+https://iac.university/indexSic/339,339,Miscellaneous Primary Metal Products,142,"1,000","$14,500,621"
 https://iac.university/indexSic/341,341,Metal Cans And Shipping Containers,116,932,"$13,856,240"
 https://iac.university/indexSic/342,342,"Cutlery, Handtools, And Hardware",161,"1,176","$14,921,547"
 https://iac.university/indexSic/343,343,"Plumbing And Heating, Except Electric",87,701,"$8,681,300"
-https://iac.university/indexSic/344,344,Fabricated Structural Metal Products,748,"5,344","$54,422,241"
+https://iac.university/indexSic/344,344,Fabricated Structural Metal Products,749,"5,351","$54,475,242"
 https://iac.university/indexSic/345,345,"Screw Machine Products, Bolts, Etc.",130,"1,020","$10,898,733"
 https://iac.university/indexSic/346,346,Metal Forgings And Stampings,323,"2,574","$48,273,949"
 https://iac.university/indexSic/347,347,"Metal Services, Nec",332,"2,486","$25,543,492"
 https://iac.university/indexSic/348,348,"Ordnance And Accessories, Nec",48,364,"$5,807,372"
-https://iac.university/indexSic/349,349,Misc. Fabricated Metal Products,638,"5,003","$61,302,279"
+https://iac.university/indexSic/349,349,Misc. Fabricated Metal Products,640,"5,022","$61,407,511"
 https://iac.university/indexSic/351,351,Engines And Turbines,61,482,"$7,087,626"
 https://iac.university/indexSic/352,352,Farm And Garden Machinery,113,853,"$7,535,601"
 https://iac.university/indexSic/353,353,Construction And Related Machinery,355,"2,717","$31,405,033"
 https://iac.university/indexSic/354,354,Metalworking Machinery,273,"1,899","$18,060,570"
 https://iac.university/indexSic/355,355,Special Industry Machinery,205,"1,497","$10,398,619"
-https://iac.university/indexSic/356,356,General Industrial Machinery,424,"3,238","$33,251,109"
+https://iac.university/indexSic/356,356,General Industrial Machinery,425,"3,244","$33,380,670"
 https://iac.university/indexSic/357,357,Computer And Office Equipment,61,426,"$5,349,143"
 https://iac.university/indexSic/358,358,Refrigeration And Service Machinery,215,"1,610","$17,801,821"
 https://iac.university/indexSic/359,359,"Industrial Machinery, Nec",300,"2,103","$22,233,681"
-https://iac.university/indexSic/361,361,Electric Distribution Equipment,93,707,"$7,446,686"
-https://iac.university/indexSic/362,362,Electrical Industrial Apparatus,168,"1,272","$19,051,679"
+https://iac.university/indexSic/361,361,Electric Distribution Equipment,94,715,"$7,625,987"
+https://iac.university/indexSic/362,362,Electrical Industrial Apparatus,169,"1,279","$19,092,712"
 https://iac.university/indexSic/363,363,Household Appliances,54,403,"$6,863,442"
 https://iac.university/indexSic/364,364,Electric Lighting And Wiring Equipment,170,"1,229","$14,266,941"
 https://iac.university/indexSic/365,365,Household Audio And Video Equipment,27,184,"$2,943,295"
@@ -141,8 +238,8 @@ https://iac.university/indexSic/366,366,Communications Equipment,62,436,"$3,569,
 https://iac.university/indexSic/367,367,Electronic Components And Accessories,414,"3,066","$54,815,871"
 https://iac.university/indexSic/369,369,Misc. Electrical Equipment & Supplies,129,965,"$18,827,377"
 https://iac.university/indexSic/371,371,Motor Vehicles And Equipment,653,"5,182","$94,961,041"
-https://iac.university/indexSic/372,372,Aircraft And Parts,320,"2,339","$32,380,681"
-https://iac.university/indexSic/373,373,Ship And Boat Building And Repairing,104,767,"$10,691,759"
+https://iac.university/indexSic/372,372,Aircraft And Parts,321,"2,346","$32,638,990"
+https://iac.university/indexSic/373,373,Ship And Boat Building And Repairing,105,779,"$10,857,438"
 https://iac.university/indexSic/374,374,Railroad Equipment,32,260,"$3,339,198"
 https://iac.university/indexSic/375,375,"Motorcycles, Bicycles, And Parts",9,61,"$533,482"
 https://iac.university/indexSic/376,376,"Guided Missiles, Space Vehicles, Parts",19,139,"$4,847,181"
@@ -151,7 +248,7 @@ https://iac.university/indexSic/381,381,Search And Navigation Equipment,27,181,"
 https://iac.university/indexSic/382,382,Measuring And Controlling Devices,231,"1,656","$20,248,481"
 https://iac.university/indexSic/384,384,Medical Instruments And Supplies,239,"1,738","$27,287,965"
 https://iac.university/indexSic/385,385,Ophthalmic Goods,17,169,"$2,321,375"
-https://iac.university/indexSic/386,386,Photographic Equipment And Supplies,22,159,"$1,918,329"
+https://iac.university/indexSic/386,386,Photographic Equipment And Supplies,23,170,"$2,045,344"
 https://iac.university/indexSic/387,387,"Watches, Clocks, Watchcases & Parts",5,35,"$287,184"
 https://iac.university/indexSic/391,391,"Jewelry, Silverware, And Plated Ware",9,65,"$478,113"
 https://iac.university/indexSic/393,393,Musical Instruments,17,112,"$975,537"
@@ -159,6 +256,268 @@ https://iac.university/indexSic/394,394,Toys And Sporting Goods,85,626,"$6,748,1
 https://iac.university/indexSic/395,395,"Pens, Pencils, Office, & Art Supplies",30,226,"$3,203,873"
 https://iac.university/indexSic/396,396,Costume Jewelry And Notions,10,82,"$1,977,984"
 https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","$20,499,711"
+https://iac.university/indexSic/401,401,Railroads,-,-,-
+https://iac.university/indexSic/411,411,Local And Suburban Transportation,1,8,"$528,893"
+https://iac.university/indexSic/412,412,Taxicabs,-,-,-
+https://iac.university/indexSic/413,413,Intercity And Rural Bus Transportation,-,-,-
+https://iac.university/indexSic/414,414,Bus Charter Service,-,-,-
+https://iac.university/indexSic/415,415,School Buses,-,-,-
+https://iac.university/indexSic/417,417,Bus Terminal And Service Facilities,-,-,-
+https://iac.university/indexSic/421,421,"Trucking & Courier Services, Ex. Air",-,-,-
+https://iac.university/indexSic/422,422,Public Warehousing And Storage,18,129,"$2,024,865"
+https://iac.university/indexSic/423,423,Trucking Terminal Facilities,-,-,-
+https://iac.university/indexSic/431,431,U.s. Postal Service,-,-,-
+https://iac.university/indexSic/441,441,Deep Sea Foreign Trans. Of Freight,-,-,-
+https://iac.university/indexSic/442,442,Deep Sea Domestic Trans. Of Freight,-,-,-
+https://iac.university/indexSic/443,443,Freight Trans. On The Great Lakes,-,-,-
+https://iac.university/indexSic/444,444,"Water Transportation Of Freight, Nec",-,-,-
+https://iac.university/indexSic/448,448,Water Transportation Of Passengers,-,-,-
+https://iac.university/indexSic/449,449,Water Transportation Services,1,7,"$100,835"
+https://iac.university/indexSic/451,451,"Air Transportation, Scheduled",-,-,-
+https://iac.university/indexSic/452,452,"Air Transportation, Nonscheduled",-,-,-
+https://iac.university/indexSic/458,458,"Airports, Flying Fields, & Services",6,40,"$128,526"
+https://iac.university/indexSic/461,461,"Pipelines, Except Natural Gas",1,4,"$65,998"
+https://iac.university/indexSic/472,472,Passenger Transportation Arrangement,-,-,-
+https://iac.university/indexSic/473,473,Freight Transportation Arrangement,4,34,"$703,293"
+https://iac.university/indexSic/474,474,Rental Of Railroad Cars,-,-,-
+https://iac.university/indexSic/478,478,Miscellaneous Transportation Services,5,36,"$426,855"
+https://iac.university/indexSic/481,481,Telephone Communication,-,-,-
+https://iac.university/indexSic/482,482,Telegraph & Other Communications,-,-,-
+https://iac.university/indexSic/483,483,Radio And Television Broadcasting,-,-,-
+https://iac.university/indexSic/484,484,Cable And Other Pay Tv Services,-,-,-
+https://iac.university/indexSic/489,489,"Communication Services, Nec",-,-,-
+https://iac.university/indexSic/491,491,Electric Services,3,18,"$1,234,805"
+https://iac.university/indexSic/492,492,Gas Production And Distribution,-,-,-
+https://iac.university/indexSic/493,493,Combination Utility Services,1,4,"$1,308,571"
+https://iac.university/indexSic/494,494,Water Supply,102,537,"$11,454,626"
+https://iac.university/indexSic/495,495,Sanitary Services,268,"1,568","$72,151,848"
+https://iac.university/indexSic/496,496,Steam And Air-conditioning Supply,4,20,"$286,028"
+https://iac.university/indexSic/497,497,Irrigation Systems,-,-,-
+https://iac.university/indexSic/501,501,"Motor Vehicles, Parts, And Supplies",2,15,"$53,018"
+https://iac.university/indexSic/502,502,Furniture And Homefurnishings,-,-,-
+https://iac.university/indexSic/503,503,Lumber And Construction Materials,5,36,"$536,364"
+https://iac.university/indexSic/504,504,Professional & Commercial Equipment,3,26,"$281,469"
+https://iac.university/indexSic/505,505,"Metals And Minerals, Except Petroleum",5,34,"$201,353"
+https://iac.university/indexSic/506,506,Electrical Goods,2,15,"$271,744"
+https://iac.university/indexSic/507,507,"Hardware, Plumbing & Heating Equipment",3,23,"$338,702"
+https://iac.university/indexSic/508,508,"Machinery, Equipment, And Supplies",4,44,"$422,462"
+https://iac.university/indexSic/509,509,Miscellaneous Durable Goods,5,28,"$395,034"
+https://iac.university/indexSic/511,511,Paper And Paper Products,-,-,-
+https://iac.university/indexSic/512,512,"Drugs, Proprietaries, And Sundries",2,11,"$270,380"
+https://iac.university/indexSic/513,513,"Apparel, Piece Goods, And Notions",-,-,-
+https://iac.university/indexSic/514,514,Groceries And Related Products,15,109,"$2,041,082"
+https://iac.university/indexSic/515,515,Farm-product Raw Materials,3,12,"$136,056"
+https://iac.university/indexSic/516,516,Chemicals And Allied Products,3,42,"$1,239,384"
+https://iac.university/indexSic/517,517,Petroleum And Petroleum Products,1,9,"$373,372"
+https://iac.university/indexSic/518,518,"Beer, Wine, And Distilled Beverages",5,36,"$815,512"
+https://iac.university/indexSic/519,519,Misc. Nondurable Goods,2,10,"$23,968"
+https://iac.university/indexSic/521,521,Lumber And Other Building Materials,-,-,-
+https://iac.university/indexSic/523,523,"Paint, Glass, And Wallpaper Stores",-,-,-
+https://iac.university/indexSic/525,525,Hardware Stores,1,5,"$5,158"
+https://iac.university/indexSic/526,526,Retail Nurseries And Garden Stores,1,4,"$1,089"
+https://iac.university/indexSic/527,527,Mobile Home Dealers,-,-,-
+https://iac.university/indexSic/531,531,Department Stores,2,8,"$26,554"
+https://iac.university/indexSic/533,533,Variety Stores,-,-,-
+https://iac.university/indexSic/539,539,Misc. General Merchandise Stores,-,-,-
+https://iac.university/indexSic/541,541,Grocery Stores,2,10,"$11,612"
+https://iac.university/indexSic/542,542,Meat And Fish Markets,-,-,-
+https://iac.university/indexSic/543,543,Fruit And Vegetable Markets,-,-,-
+https://iac.university/indexSic/544,544,"Candy, Nut, And Confectionery Stores",1,8,"$20,213"
+https://iac.university/indexSic/545,545,Dairy Products Stores,-,-,-
+https://iac.university/indexSic/546,546,Retail Bakeries,1,6,"$91,628"
+https://iac.university/indexSic/549,549,Miscellaneous Food Stores,-,-,-
+https://iac.university/indexSic/551,551,New And Used Car Dealers,2,16,"$93,867"
+https://iac.university/indexSic/552,552,Used Car Dealers,-,-,-
+https://iac.university/indexSic/553,553,Auto And Home Supply Stores,-,-,-
+https://iac.university/indexSic/554,554,Gasoline Service Stations,-,-,-
+https://iac.university/indexSic/555,555,Boat Dealers,1,5,"$15,472"
+https://iac.university/indexSic/556,556,Recreational Vehicle Dealers,-,-,-
+https://iac.university/indexSic/557,557,Motorcycle Dealers,-,-,-
+https://iac.university/indexSic/559,559,"Automotive Dealers, Nec",-,-,-
+https://iac.university/indexSic/565,565,Family Clothing Stores,-,-,-
+https://iac.university/indexSic/566,566,Shoe Stores,-,-,-
+https://iac.university/indexSic/569,569,Misc. Apparel & Accessory Stores,-,-,-
+https://iac.university/indexSic/571,571,Furniture And Homefurnishings Stores,-,-,-
+https://iac.university/indexSic/572,572,Household Appliance Stores,-,-,-
+https://iac.university/indexSic/573,573,"Radio, Television, & Computer Stores",-,-,-
+https://iac.university/indexSic/581,581,Eating And Drinking Places,1,4,"$10,437"
+https://iac.university/indexSic/591,591,Drug Stores And Proprietary Stores,-,-,-
+https://iac.university/indexSic/592,592,Liquor Stores,-,-,-
+https://iac.university/indexSic/593,593,Used Merchandise Stores,1,7,"$15,124"
+https://iac.university/indexSic/594,594,Miscellaneous Shopping Goods Stores,9,53,"$487,962"
+https://iac.university/indexSic/596,596,Nonstore Retailers,-,-,-
+https://iac.university/indexSic/598,598,Fuel Dealers,-,-,-
+https://iac.university/indexSic/599,599,"Retail Stores, Nec",1,20,"$219,658"
+https://iac.university/indexSic/601,601,Central Reserve Depository,-,-,-
+https://iac.university/indexSic/602,602,Commercial Banks,1,4,"$25,902"
+https://iac.university/indexSic/603,603,Savings Institutions,-,-,-
+https://iac.university/indexSic/606,606,Credit Unions,-,-,-
+https://iac.university/indexSic/608,608,Foreign Bank & Branches + Agencies,-,-,-
+https://iac.university/indexSic/609,609,Functions Closely Related To Banking,-,-,-
+https://iac.university/indexSic/611,611,Federal & Fed.-sponsored Credit,-,-,-
+https://iac.university/indexSic/614,614,Personal Credit Institutions,-,-,-
+https://iac.university/indexSic/615,615,Business Credit Institutions,-,-,-
+https://iac.university/indexSic/616,616,Mortgage Bankers And Brokers,-,-,-
+https://iac.university/indexSic/621,621,Security Brokers And Dealers,-,-,-
+https://iac.university/indexSic/622,622,"Commodity Contracts Brokers, Dealers",-,-,-
+https://iac.university/indexSic/623,623,Security And Commodity Exchanges,-,-,-
+https://iac.university/indexSic/628,628,Security And Commodity Services,-,-,-
+https://iac.university/indexSic/631,631,Life Insurance,-,-,-
+https://iac.university/indexSic/632,632,Medical Service And Health Insurance,-,-,-
+https://iac.university/indexSic/633,633,"Fire, Marine, And Casualty Insurance",-,-,-
+https://iac.university/indexSic/635,635,Surety Insurance,-,-,-
+https://iac.university/indexSic/636,636,Title Insurance,-,-,-
+https://iac.university/indexSic/637,637,"Pension, Health, And Welfare Funds",-,-,-
+https://iac.university/indexSic/639,639,"Insurance Carriers, Nec",-,-,-
+https://iac.university/indexSic/641,641,"Insurance Agents, Brokers, & Service",-,-,-
+https://iac.university/indexSic/651,651,Real Estate Operators And Lessors,2,15,"$98,780"
+https://iac.university/indexSic/653,653,Real Estate Agents And Managers,-,-,-
+https://iac.university/indexSic/654,654,Title Abstract Offices,9,47,"$551,004"
+https://iac.university/indexSic/655,655,Subdividers And Developers,-,-,-
+https://iac.university/indexSic/671,671,Holding Offices,-,-,-
+https://iac.university/indexSic/672,672,Investment Offices,-,-,-
+https://iac.university/indexSic/673,673,Trusts,-,-,-
+https://iac.university/indexSic/679,679,Miscellaneous Investing,-,-,-
+https://iac.university/indexSic/701,701,Hotels And Motels,11,62,"$1,021,391"
+https://iac.university/indexSic/702,702,Rooming And Boarding Houses,-,-,-
+https://iac.university/indexSic/703,703,Camps And Recreational Vehicle Parks,-,-,-
+https://iac.university/indexSic/704,704,Membership-basis Organization Hotels,-,-,-
+https://iac.university/indexSic/721,721,"Laundry, Cleaning, & Garment Services",10,69,"$1,064,574"
+https://iac.university/indexSic/722,722,"Photographic Studios, Portrait",-,-,-
+https://iac.university/indexSic/723,723,Beauty Shops,4,37,"$967,097"
+https://iac.university/indexSic/724,724,Barber Shops,-,-,-
+https://iac.university/indexSic/725,725,Shoe Repair And Shoeshine Parlors,-,-,-
+https://iac.university/indexSic/726,726,Funeral Service And Crematories,-,-,-
+https://iac.university/indexSic/729,729,Miscellaneous Personal Services,-,-,-
+https://iac.university/indexSic/731,731,Advertising,-,-,-
+https://iac.university/indexSic/732,732,Credit Reporting And Collection,-,-,-
+https://iac.university/indexSic/733,733,"Mailing, Reproduction, Stenographic",2,20,"$38,688"
+https://iac.university/indexSic/734,734,Services To Buildings,-,-,-
+https://iac.university/indexSic/735,735,Misc. Equipment Rental & Leasing,-,-,-
+https://iac.university/indexSic/736,736,Personnel Supply Services,-,-,-
+https://iac.university/indexSic/737,737,Computer And Data Processing Services,1,5,"$30,214"
+https://iac.university/indexSic/738,738,Miscellaneous Business Services,6,43,"$310,925"
+https://iac.university/indexSic/751,751,"Automotive Rentals, No Drivers",-,-,-
+https://iac.university/indexSic/752,752,Automobile Parking,-,-,-
+https://iac.university/indexSic/753,753,Automotive Repair Shops,6,42,"$276,847"
+https://iac.university/indexSic/754,754,"Automotive Services, Except Repair",-,-,-
+https://iac.university/indexSic/762,762,Electrical Repair Shops,-,-,-
+https://iac.university/indexSic/763,763,"Watch, Clock, And Jewelry Repair",-,-,-
+https://iac.university/indexSic/764,764,Reupholstery And Furniture Repair,-,-,-
+https://iac.university/indexSic/769,769,Miscellaneous Repair Shops,7,59,"$467,265"
+https://iac.university/indexSic/781,781,Motion Picture Production & Services,-,-,-
+https://iac.university/indexSic/782,782,Motion Picture Distribution & Services,-,-,-
+https://iac.university/indexSic/783,783,Motion Picture Theaters,-,-,-
+https://iac.university/indexSic/784,784,Video Tape Rental,-,-,-
+https://iac.university/indexSic/791,791,"Dance Studios, Schools, And Halls",-,-,-
+https://iac.university/indexSic/792,792,"Producers, Orchestras, Entertainers",2,9,"$37,636"
+https://iac.university/indexSic/793,793,Bowling Centers,1,4,"$13,250"
+https://iac.university/indexSic/794,794,Commercial Sports,-,-,-
+https://iac.university/indexSic/799,799,"Misc. Amusement, Recreation Services",8,46,"$501,350"
+https://iac.university/indexSic/801,801,Offices & Clinics Of Medical Doctors,2,9,"$50,435"
+https://iac.university/indexSic/802,802,Offices And Clinics Of Dentists,-,-,-
+https://iac.university/indexSic/803,803,Offices Of Osteopathic Physicians,-,-,-
+https://iac.university/indexSic/804,804,Offices Of Other Health Practitioners,-,-,-
+https://iac.university/indexSic/805,805,Nursing And Personal Care Facilities,2,11,"$130,243"
+https://iac.university/indexSic/806,806,Hospitals,9,69,"$1,766,998"
+https://iac.university/indexSic/807,807,Medical And Dental Laboratories,1,3,"$58,734"
+https://iac.university/indexSic/808,808,Home Health Care Services,-,-,-
+https://iac.university/indexSic/809,809,"Health And Allied Services, Nec",3,19,"$130,654"
+https://iac.university/indexSic/811,811,Legal Services,3,18,"$28,148"
+https://iac.university/indexSic/821,821,Elementary And Secondary Schools,28,171,"$1,099,232"
+https://iac.university/indexSic/822,822,Colleges And Universities,15,73,"$661,030"
+https://iac.university/indexSic/823,823,Libraries,3,12,"$77,104"
+https://iac.university/indexSic/824,824,Vocational Schools,1,6,"$49,772"
+https://iac.university/indexSic/829,829,"Schools & Educational Services, Nec",2,13,"$34,805"
+https://iac.university/indexSic/832,832,Individual And Family Services,4,23,"$303,183"
+https://iac.university/indexSic/833,833,Job Training And Related Services,-,-,-
+https://iac.university/indexSic/835,835,Child Day Care Services,2,7,"$24,437"
+https://iac.university/indexSic/836,836,Residential Care,-,-,-
+https://iac.university/indexSic/839,839,"Social Services, Nec",3,20,"$86,660"
+https://iac.university/indexSic/841,841,Museums And Art Galleries,8,42,"$251,644"
+https://iac.university/indexSic/842,842,Botanical And Zoological Gardens,5,34,"$131,421"
+https://iac.university/indexSic/861,861,Business Associations,1,4,"$44,288"
+https://iac.university/indexSic/862,862,Professional Organizations,-,-,-
+https://iac.university/indexSic/863,863,Labor Organizations,-,-,-
+https://iac.university/indexSic/864,864,Civic And Social Associations,-,-,-
+https://iac.university/indexSic/865,865,Political Organizations,-,-,-
+https://iac.university/indexSic/866,866,Religious Organizations,2,8,"$17,829"
+https://iac.university/indexSic/869,869,"Membership Organizations, Nec",-,-,-
+https://iac.university/indexSic/871,871,Engineering & Architectural Services,7,38,"$812,538"
+https://iac.university/indexSic/872,872,"Accounting, Auditing, & Bookkeeping",-,-,-
+https://iac.university/indexSic/873,873,Research And Testing Services,8,52,"$962,204"
+https://iac.university/indexSic/874,874,Management And Public Relations,3,12,"$119,639"
+https://iac.university/indexSic/881,881,Private Households,-,-,-
+https://iac.university/indexSic/899,899,"Services, Nec",5,23,"$43,061"
+,181,Ornamental Nursery Products,1,5,"$135,793"
+,182,Food Crops Grown Under Cover,2,15,"$748,874"
+,191,"General Farms, Primarily Crop",-,-,-
+,711,Soil Preparation Services,-,-,-
+,741,Veterinary Services For Livestock,-,-,-
+,742,"Veterinary Services, Specialties",-,-,-
+,851,Forestry Services,-,-,-
+,912,Finfish,-,-,-
+,913,Shellfish,-,-,-
+,919,Miscellaneous Marine Products,-,-,-
+,921,Fish Hatcheries And Preserves,1,3,"$120,914"
+,971,"Hunting, Trapping, Game Propagation",-,-,-
+,1011,Iron Ores,-,-,-
+,1021,Copper Ores,3,20,"$10,765,862"
+,1031,Lead And Zinc Ores,-,-,-
+,1041,Gold Ores,4,29,"$11,396,079"
+,1044,Silver Ores,-,-,-
+,1061,"Ferroalloy Ores, Except Vanadium",-,-,-
+,1081,Metal Mining Services,-,-,-
+,1094,Uranium-radium-vanadium Ores,-,-,-
+,1099,"Metal Ores, Nec",-,-,-
+,1221,Bituminous Coal And Lignitesurface,2,13,"$55,291"
+,1222,Bituminous Coalunderground,-,-,-
+,1231,Anthracite Mining,-,-,-
+,1241,Coal Mining Services,-,-,-
+,1311,Crude Petroleum And Natural Gas,3,22,"$1,185,833"
+,1321,Natural Gas Liquids,-,-,-
+,1381,Drilling Oil And Gas Wells,-,-,-
+,1382,Oil And Gas Exploration Services,-,-,-
+,1389,"Oil And Gas Field Services, Nec",1,7,"$9,251"
+,1411,Dimension Stone,1,6,"$17,368"
+,1422,Crushed And Broken Limestone,3,12,"$677,368"
+,1423,Crushed And Broken Granite,1,7,"$59,359"
+,1429,"Crushed And Broken Stone, Nec",1,5,"$212,647"
+,1442,Construction Sand And Gravel,9,45,"$2,336,351"
+,1446,Industrial Sand,9,70,"$1,188,732"
+,1455,Kaolin And Ball Clay,-,-,-
+,1459,"Clay And Related Minerals, Nec",1,7,"$101,716"
+,1474,"Potash, Soda, And Borate Minerals",1,7,"$1,939,600"
+,1475,Phosphate Rock,1,6,"$5,062,757"
+,1479,"Chemical And Fertilizer Mining, Nec",4,24,"$348,511"
+,1481,Nonmetallic Minerals Services,-,-,-
+,1499,Miscellaneous Nonmetallic Minerals,-,-,-
+,1521,Single-family Housing Construction,-,-,-
+,1522,"Residential Construction, Nec",-,-,-
+,1531,Operative Builders,-,-,-
+,1541,Industrial Buildings And Warehouses,-,-,-
+,1542,"Nonresidential Construction, Nec",-,-,-
+,1611,Highway And Street Construction,-,-,-
+,1622,"Bridge, Tunnel, & Elevated Highway",-,-,-
+,1623,"Water, Sewer, And Utility Lines",6,38,"$472,489"
+,1629,"Heavy Construction, Nec",-,-,-
+,1711,"Plumbing, Heating, Air-conditioning",-,-,-
+,1721,Painting And Paper Hanging,2,17,"$106,023"
+,1731,Electrical Work,1,4,"$18,673"
+,1741,Masonry And Other Stonework,-,-,-
+,1742,"Plastering, Drywall, And Insulation",-,-,-
+,1743,"Terrazzo, Tile, Marble, Mosaic Work",-,-,-
+,1751,Carpentry Work,-,-,-
+,1752,"Floor Laying And Floor Work, Nec",-,-,-
+,1761,"Roofing, Siding, And Sheet Metal Work",2,16,"$605,482"
+,1771,Concrete Work,-,-,-
+,1781,Water Well Drilling,-,-,-
+,1791,Structural Steel Erection,-,-,-
+,1793,Glass And Glazing Work,-,-,-
+,1794,Excavation Work,-,-,-
+,1795,Wrecking And Demolition Work,-,-,-
+,1796,"Installing Building Equipment, Nec",-,-,-
+,1799,"Special Trade Contractors, Nec",-,-,-
 ,2011,Meat Packing Plants,97,765,"$9,092,716"
 ,2013,Sausages And Other Prepared Meats,180,"1,399","$19,963,025"
 ,2015,Poultry Slaughtering And Processing,88,710,"$16,670,042"
@@ -204,7 +563,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,2091,Canned And Cured Fish And Seafoods,16,135,"$3,204,559"
 ,2092,Fresh Or Frozen Prepared Fish,70,468,"$9,414,829"
 ,2095,Roasted Coffee,27,186,"$1,583,166"
-,2096,Potato Chips And Similar Snacks,61,451,"$6,441,721"
+,2096,Potato Chips And Similar Snacks,62,456,"$6,588,420"
 ,2097,Manufactured Ice,12,64,"$1,625,753"
 ,2098,Macaroni And Spaghetti,13,113,"$1,279,058"
 ,2099,"Food Preparations, Nec",194,"1,400","$26,244,835"
@@ -268,7 +627,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,2399,"Fabricated Textile Products, Nec",24,149,"$4,971,236"
 ,2411,Logging,-,-,-
 ,2421,"Sawmills And Planing Mills, General",271,"1,856","$70,826,410"
-,2426,Hardwood Dimension & Flooring Mills,62,504,"$8,360,334"
+,2426,Hardwood Dimension & Flooring Mills,63,515,"$8,510,922"
 ,2429,"Special Product Sawmills, Nec",1,6,"$88,560"
 ,2431,Millwork,158,"1,150","$14,326,957"
 ,2434,Wood Kitchen Cabinets,58,421,"$4,220,615"
@@ -342,7 +701,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,2841,Soap And Other Detergents,28,225,"$4,475,011"
 ,2842,Polishes And Sanitation Goods,26,161,"$779,539"
 ,2843,Surface Active Agents,12,97,"$3,014,875"
-,2844,Toilet Preparations,58,453,"$7,064,871"
+,2844,Toilet Preparations,59,462,"$7,086,071"
 ,2851,Paints And Allied Products,91,734,"$7,743,077"
 ,2861,Gum And Wood Chemicals,9,61,"$3,197,817"
 ,2865,Cyclic Crudes And Intermediates,17,119,"$2,737,106"
@@ -421,9 +780,9 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3321,Gray  And Ductile Iron Foundries,149,"1,076","$29,693,917"
 ,3322,Malleable Iron Foundries,12,75,"$2,928,810"
 ,3324,Steel Investment Foundries,34,267,"$5,964,145"
-,3325,"Steel Foundries, Nec",72,584,"$22,616,403"
+,3325,"Steel Foundries, Nec",73,589,"$22,660,163"
 ,3331,Primary Copper,2,25,"$2,408,345"
-,3334,Primary Aluminum,12,81,"$2,562,508"
+,3334,Primary Aluminum,13,88,"$3,378,825"
 ,3339,"Primary Nonferrous Metals, Nec",17,131,"$2,676,484"
 ,3341,Secondary Nonferrous Metals,55,438,"$14,082,358"
 ,3351,Copper Rolling And Drawing,32,247,"$6,400,894"
@@ -437,7 +796,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3365,Aluminum Foundries,82,635,"$11,692,148"
 ,3366,Copper Foundries,22,208,"$7,009,171"
 ,3369,"Nonferrous Foundries, Nec",28,227,"$3,019,506"
-,3398,Metal Heat Treating,80,556,"$7,946,815"
+,3398,Metal Heat Treating,81,559,"$7,992,774"
 ,3399,"Primary Metal Products, Nec",59,428,"$6,463,538"
 ,3411,Metal Cans,84,694,"$10,318,932"
 ,3412,"Metal Barrels, Drums, And Pails",29,211,"$2,830,996"
@@ -449,7 +808,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3432,Plumbing Fixture Fittings And Trim,32,248,"$2,342,825"
 ,3433,"Heating Equipment, Except Electric",48,382,"$4,475,942"
 ,3441,Fabricated Structural Metal,153,"1,075","$11,276,731"
-,3442,"Metal Doors, Sash, And Trim",111,842,"$11,595,973"
+,3442,"Metal Doors, Sash, And Trim",112,849,"$11,648,974"
 ,3443,Fabricated Plate Work (boiler Shops),179,"1,211","$10,352,474"
 ,3444,Sheet Metalwork,195,"1,432","$12,337,808"
 ,3446,Architectural Metal Work,21,147,"$972,270"
@@ -476,7 +835,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3496,Misc. Fabricated Wire Products,83,655,"$8,443,670"
 ,3497,Metal Foil And Leaf,6,39,"$518,112"
 ,3498,Fabricated Pipe And Fittings,68,519,"$5,529,956"
-,3499,"Fabricated Metal Products, Nec",257,"2,056","$25,291,602"
+,3499,"Fabricated Metal Products, Nec",259,"2,075","$25,396,834"
 ,3511,Turbines And Turbine Generator Sets,25,212,"$2,495,964"
 ,3519,"Internal Combustion Engines, Nec",33,246,"$4,396,549"
 ,3523,Farm Machinery And Equipment,84,625,"$4,911,977"
@@ -506,7 +865,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3561,Pumps And Pumping Equipment,83,617,"$5,291,452"
 ,3562,Ball And Roller Bearings,56,432,"$6,921,291"
 ,3563,Air And Gas Compressors,28,168,"$1,562,716"
-,3564,Blowers And Fans,80,662,"$5,398,514"
+,3564,Blowers And Fans,81,668,"$5,528,075"
 ,3565,Packaging Machinery,24,175,"$2,615,154"
 ,3566,"Speed Changers, Drives, And Gears",32,261,"$3,662,396"
 ,3567,Industrial Furnaces And Ovens,22,179,"$1,078,788"
@@ -529,10 +888,10 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3596,"Scales And Balances, Exc. Laboratory",7,47,"$264,187"
 ,3599,"Industrial Machinery, Nec",226,"1,584","$17,210,134"
 ,3612,"Transformers, Except Electronic",48,353,"$4,016,488"
-,3613,Switchgear And Switchboard Apparatus,45,354,"$3,430,198"
+,3613,Switchgear And Switchboard Apparatus,46,362,"$3,609,499"
 ,3621,Motors And Generators,72,553,"$4,505,039"
 ,3624,Carbon And Graphite Products,24,184,"$6,952,399"
-,3625,Relays And Industrial Controls,44,329,"$1,474,217"
+,3625,Relays And Industrial Controls,45,336,"$1,515,249"
 ,3629,"Electrical Industrial Apparatus, Nec",28,206,"$6,120,024"
 ,3631,Household Cooking Equipment,8,56,"$808,966"
 ,3632,Household Refrigerators And Freezers,5,46,"$1,850,103"
@@ -572,9 +931,9 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3716,Motor Homes,9,86,"$556,409"
 ,3721,Aircraft,26,210,"$3,442,511"
 ,3724,Aircraft Engines And Engine Parts,81,582,"$7,963,538"
-,3728,"Aircraft Parts And Equipment, Nec",212,"1,539","$20,947,459"
+,3728,"Aircraft Parts And Equipment, Nec",213,"1,546","$21,205,768"
 ,3731,Ship Building And Repairing,33,245,"$2,773,846"
-,3732,Boat Building And Repairing,71,522,"$7,917,913"
+,3732,Boat Building And Repairing,72,534,"$8,083,592"
 ,3743,Railroad Equipment,31,251,"$3,203,755"
 ,3751,"Motorcycles, Bicycles, And Parts",8,55,"$383,159"
 ,3761,Guided Missiles And Space Vehicles,1,9,"$42,674"
@@ -598,7 +957,7 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3844,X-ray Apparatus And Tubes,5,38,"$175,389"
 ,3845,Electromedical Equipment,18,114,"$1,894,491"
 ,3851,Ophthalmic Goods,17,169,"$2,321,375"
-,3861,Photographic Equipment And Supplies,22,159,"$1,918,329"
+,3861,Photographic Equipment And Supplies,23,170,"$2,045,344"
 ,3873,"Watches, Clocks, Watchcases & Parts",5,35,"$287,184"
 ,3911,"Jewelry, Precious Metal",4,27,"$241,737"
 ,3914,Silverware And Plated Ware,4,30,"$213,120"
@@ -618,3 +977,398 @@ https://iac.university/indexSic/399,399,Miscellaneous Manufactures,185,"1,386","
 ,3995,Burial Caskets,11,81,"$1,035,149"
 ,3996,"Hard Surface Floor Coverings, Nec",15,129,"$3,484,520"
 ,3999,"Manufacturing Industries, Nec",91,681,"$12,865,486"
+,4011,"Railroads, Line-haul Operating",-,-,-
+,4013,Switching And Terminal Services,-,-,-
+,4111,Local And Suburban Transit,1,8,"$528,893"
+,4119,"Local Passenger Transportation, Nec",-,-,-
+,4121,Taxicabs,-,-,-
+,4131,Intercity & Rural Bus Transportation,-,-,-
+,4141,Local Bus Charter Service,-,-,-
+,4142,"Bus Charter Service, Except Local",-,-,-
+,4151,School Buses,-,-,-
+,4173,Bus Terminal And Service Facilities,-,-,-
+,4212,"Local Trucking, Without Storage",-,-,-
+,4213,"Trucking, Except Local",-,-,-
+,4214,Local Trucking With Storage,-,-,-
+,4215,"Courier Services, Except By Air",-,-,-
+,4221,Farm Product Warehousing And Storage,-,-,-
+,4222,Refrigerated Warehousing And Storage,7,46,"$592,735"
+,4225,General Warehousing And Storage,9,67,"$609,099"
+,4226,"Special Warehousing And Storage, Nec",2,16,"$823,032"
+,4231,Trucking Terminal Facilities,-,-,-
+,4311,U.s. Postal Service,-,-,-
+,4412,Deep Sea Foreign Trans. Of Freight,-,-,-
+,4424,Deep Sea Domestic Trans. Of Freight,-,-,-
+,4432,Freight Trans. On The Great Lakes,-,-,-
+,4449,"Water Transportation Of Freight, Nec",-,-,-
+,4481,"Deep Sea Passenger Trans., Ex. Ferry",-,-,-
+,4482,Ferries,-,-,-
+,4489,"Water Passenger Transportation, Nec",-,-,-
+,4491,Marine Cargo Handling,1,7,"$100,835"
+,4492,Towing And Tugboat Service,-,-,-
+,4493,Marinas,-,-,-
+,4499,"Water Transportation Services, Nec",-,-,-
+,4512,"Air Transportation, Scheduled",-,-,-
+,4513,Air Courier Services,-,-,-
+,4522,"Air Transportation, Nonscheduled",-,-,-
+,4581,"Airports, Flying Fields, & Services",6,40,"$128,526"
+,4612,Crude Petroleum Pipelines,1,4,"$65,998"
+,4613,Refined Petroleum Pipelines,-,-,-
+,4619,"Pipelines, Nec",-,-,-
+,4724,Travel Agencies,-,-,-
+,4725,Tour Operators,-,-,-
+,4729,"Passenger Transport Arrangement, Nec",-,-,-
+,4731,Freight Transportation Arrangement,4,34,"$703,293"
+,4741,Rental Of Railroad Cars,-,-,-
+,4783,Packing And Crating,3,27,"$119,822"
+,4785,Inspection & Fixed Facilities,-,-,-
+,4789,"Transportation Services, Nec",2,9,"$307,033"
+,4812,Radiotelephone Communications,-,-,-
+,4813,"Telephone Communications, Exc. Radio",-,-,-
+,4822,Telegraph & Other Communications,-,-,-
+,4832,Radio Broadcasting Stations,-,-,-
+,4833,Television Broadcasting Stations,-,-,-
+,4841,Cable And Other Pay Tv Services,-,-,-
+,4899,"Communication Services, Nec",-,-,-
+,4911,Electric Services,3,18,"$1,234,805"
+,4922,Natural Gas Transmission,-,-,-
+,4923,Gas Transmission And Distribution,-,-,-
+,4924,Natural Gas Distribution,-,-,-
+,4925,Gas Production And/or Distribution,-,-,-
+,4931,Electric And Other Services Combined,-,-,-
+,4932,Gas And Other Services Combined,-,-,-
+,4939,"Combination Utilities, Nec",1,4,"$1,308,571"
+,4941,Water Supply,102,537,"$11,454,626"
+,4952,Sewerage Systems,254,"1,487","$69,618,671"
+,4953,Refuse Systems,14,81,"$2,533,176"
+,4959,"Sanitary Services, Nec",-,-,-
+,4961,Steam And Air-conditioning Supply,4,20,"$286,028"
+,4971,Irrigation Systems,-,-,-
+,5012,Automobiles And Other Motor Vehicles,1,9,"$37,541"
+,5013,Motor Vehicle Supplies And New Parts,1,6,"$15,477"
+,5014,Tires And Tubes,-,-,-
+,5015,"Motor Vehicle Parts, Used",-,-,-
+,5021,Furniture,-,-,-
+,5023,Homefurnishings,-,-,-
+,5031,"Lumber, Plywood, And Millwork",2,9,"$301,129"
+,5032,"Brick, Stone, & Related Materials",-,-,-
+,5033,"Roofing, Siding, & Insulation",1,7,"$31,119"
+,5039,"Construction Materials, Nec",2,20,"$204,116"
+,5043,Photographic Equipment And Supplies,-,-,-
+,5044,Office Equipment,1,9,"$47,200"
+,5045,"Computers, Peripherals & Software",1,9,"$212,549"
+,5046,"Commercial Equipment, Nec",-,-,-
+,5047,Medical And Hospital Equipment,1,8,"$21,720"
+,5048,Ophthalmic Goods,-,-,-
+,5049,"Professional Equipment, Nec",-,-,-
+,5051,Metals Service Centers And Offices,5,34,"$201,353"
+,5052,Coal And Other Minerals And Ores,-,-,-
+,5063,Electrical Apparatus And Equipment,1,8,"$18,856"
+,5064,"Electrical Appliances, Tv & Radios",-,-,-
+,5065,Electronic Parts And Equipment,1,7,"$252,888"
+,5072,Hardware,1,6,"$86,036"
+,5074,Plumbing & Hydronic Heating Supplies,-,-,-
+,5075,Warm Air Heating & Air-conditioning,1,9,"$152,766"
+,5078,Refrigeration Equipment And Supplies,1,8,"$99,900"
+,5082,Construction And Mining Machinery,1,11,"$158,526"
+,5083,Farm And Garden Machinery,-,-,-
+,5084,Industrial Machinery And Equipment,3,33,"$263,936"
+,5085,Industrial Supplies,-,-,-
+,5087,Service Establishment Equipment,-,-,-
+,5088,Transportation Equipment & Supplies,-,-,-
+,5091,Sporting & Recreational Goods,1,3,"$135,660"
+,5092,Toys And Hobby Goods And Supplies,-,-,-
+,5093,Scrap And Waste Materials,2,16,"$218,404"
+,5094,Jewelry & Precious Stones,-,-,-
+,5099,"Durable Goods, Nec",2,9,"$40,971"
+,5111,Printing And Writing Paper,-,-,-
+,5112,Stationery And Office Supplies,-,-,-
+,5113,Industrial & Personal Service Paper,-,-,-
+,5122,"Drugs, Proprietaries, And Sundries",2,11,"$270,380"
+,5131,Piece Goods & Notions,-,-,-
+,5139,Footwear,-,-,-
+,5141,"Groceries, General Line",4,29,"$159,175"
+,5142,Packaged Frozen Foods,5,42,"$1,516,372"
+,5143,"Dairy Products, Exc. Dried Or Canned",1,6,"$12,779"
+,5144,Poultry And Poultry Products,-,-,-
+,5145,Confectionery,-,-,-
+,5146,Fish And Seafoods,-,-,-
+,5147,Meats And Meat Products,2,12,"$178,107"
+,5148,Fresh Fruits And Vegetables,2,16,"$155,236"
+,5149,"Groceries And Related Products, Nec",1,4,"$19,413"
+,5153,Grain And Field Beans,3,12,"$136,056"
+,5154,Livestock,-,-,-
+,5159,"Farm-product Raw Materials, Nec",-,-,-
+,5162,Plastics Materials & Basic Shapes,1,17,"$568,738"
+,5169,"Chemicals & Allied Products, Nec",2,25,"$670,646"
+,5171,Petroleum Bulk Stations & Terminals,1,9,"$373,372"
+,5172,"Petroleum Products, Nec",-,-,-
+,5181,Beer And Ale,4,25,"$692,707"
+,5182,Wine And Distilled Beverages,1,11,"$122,805"
+,5191,Farm Supplies,1,3,"$7,459"
+,5192,"Books, Periodicals, & Newspapers",-,-,-
+,5194,Tobacco And Tobacco Products,-,-,-
+,5198,"Paints, Varnishes, And Supplies",-,-,-
+,5199,"Nondurable Goods, Nec",1,7,"$16,509"
+,5211,Lumber And Other Building Materials,-,-,-
+,5231,"Paint, Glass, And Wallpaper Stores",-,-,-
+,5251,Hardware Stores,1,5,"$5,158"
+,5261,Retail Nurseries And Garden Stores,1,4,"$1,089"
+,5271,Mobile Home Dealers,-,-,-
+,5311,Department Stores,2,8,"$26,554"
+,5331,Variety Stores,-,-,-
+,5399,Misc. General Merchandise Stores,-,-,-
+,5411,Grocery Stores,2,10,"$11,612"
+,5421,Meat And Fish Markets,-,-,-
+,5431,Fruit And Vegetable Markets,-,-,-
+,5441,"Candy, Nut, And Confectionery Stores",1,8,"$20,213"
+,5451,Dairy Products Stores,-,-,-
+,5461,Retail Bakeries,1,6,"$91,628"
+,5499,Miscellaneous Food Stores,-,-,-
+,5511,New And Used Car Dealers,2,16,"$93,867"
+,5521,Used Car Dealers,-,-,-
+,5531,Auto And Home Supply Stores,-,-,-
+,5541,Gasoline Service Stations,-,-,-
+,5551,Boat Dealers,1,5,"$15,472"
+,5561,Recreational Vehicle Dealers,-,-,-
+,5571,Motorcycle Dealers,-,-,-
+,5599,"Automotive Dealers, Nec",-,-,-
+,5651,Family Clothing Stores,-,-,-
+,5661,Shoe Stores,-,-,-
+,5699,Misc. Apparel & Accessory Stores,-,-,-
+,5712,Furniture Stores,-,-,-
+,5713,Floor Covering Stores,-,-,-
+,5714,Drapery And Upholstery Stores,-,-,-
+,5719,Misc. Homefurnishings Stores,-,-,-
+,5722,Household Appliance Stores,-,-,-
+,5731,"Radio, Tv, & Electronic Stores",-,-,-
+,5734,Computer And Software Stores,-,-,-
+,5735,Record & Prerecorded Tape Stores,-,-,-
+,5736,Musical Instrument Stores,-,-,-
+,5812,Eating Places,-,-,-
+,5813,Drinking Places,1,4,"$10,437"
+,5912,Drug Stores And Proprietary Stores,-,-,-
+,5921,Liquor Stores,-,-,-
+,5932,Used Merchandise Stores,1,7,"$15,124"
+,5941,Sporting Goods And Bicycle Shops,9,53,"$487,962"
+,5942,Book Stores,-,-,-
+,5943,Stationery Stores,-,-,-
+,5944,Jewelry Stores,-,-,-
+,5945,"Hobby, Toy, And Game Shops",-,-,-
+,5946,Camera & Photographic Supply Stores,-,-,-
+,5947,"Gift, Novelty, And Souvenir Shops",-,-,-
+,5948,Luggage And Leather Goods Stores,-,-,-
+,5949,"Sewing, Needlework, And Piece Goods",-,-,-
+,5961,Catalog And Mail-order Houses,-,-,-
+,5962,Merchandising Machine Operators,-,-,-
+,5963,Direct Selling Establishments,-,-,-
+,5983,Fuel Oil Dealers,-,-,-
+,5984,Liquefied Petroleum Gas Dealers,-,-,-
+,5989,"Fuel Dealers, Nec",-,-,-
+,5992,Florists,1,20,"$219,658"
+,5993,Tobacco Stores And Stands,-,-,-
+,5994,News Dealers And Newsstands,-,-,-
+,5995,Optical Goods Stores,-,-,-
+,5999,"Miscellaneous Retail Stores, Nec",-,-,-
+,6011,Federal Reserve Banks,-,-,-
+,6019,"Central Reserve Depository, Nec",-,-,-
+,6021,National Commercial Banks,1,4,"$25,902"
+,6022,State Commercial Banks,-,-,-
+,6029,"Commercial Banks, Nec",-,-,-
+,6035,Federal Savings Institutions,-,-,-
+,6036,"Savings Institutions, Except Federal",-,-,-
+,6061,Federal Credit Unions,-,-,-
+,6062,State Credit Unions,-,-,-
+,6081,Foreign Bank & Branches & Agencies,-,-,-
+,6082,Foreign Trade & International Banks,-,-,-
+,6091,Nondeposit Trust Facilities,-,-,-
+,6099,Functions Related To Deposit Banking,-,-,-
+,6111,Federal & Fed.-sponsored Credit,-,-,-
+,6141,Personal Credit Institutions,-,-,-
+,6153,Short-term Business Credit,-,-,-
+,6159,Misc. Business Credit Institutions,-,-,-
+,6162,Mortgage Bankers And Correspondents,-,-,-
+,6163,Loan Brokers,-,-,-
+,6211,Security Brokers And Dealers,-,-,-
+,6221,"Commodity Contracts Brokers, Dealers",-,-,-
+,6231,Security And Commodity Exchanges,-,-,-
+,6282,Investment Advice,-,-,-
+,6289,"Security & Commodity Services, Nec",-,-,-
+,6311,Life Insurance,-,-,-
+,6321,Accident And Health Insurance,-,-,-
+,6324,Hospital And Medical Service Plans,-,-,-
+,6331,"Fire, Marine, And Casualty Insurance",-,-,-
+,6351,Surety Insurance,-,-,-
+,6361,Title Insurance,-,-,-
+,6371,"Pension, Health, And Welfare Funds",-,-,-
+,6399,"Insurance Carriers, Nec",-,-,-
+,6411,"Insurance Agents, Brokers, & Service",-,-,-
+,6512,Nonresidential Building Operators,-,-,-
+,6513,Apartment Building Operators,-,-,-
+,6514,"Dwelling Operators, Exc. Apartments",-,-,-
+,6515,Mobile Home Site Operators,-,-,-
+,6517,Railroad Property Lessors,-,-,-
+,6519,"Real Property Lessors, Nec",2,15,"$98,780"
+,6531,Real Estate Agents And Managers,-,-,-
+,6541,Title Abstract Offices,9,47,"$551,004"
+,6552,"Subdividers And Developers, Nec",-,-,-
+,6553,Cemetery Subdividers And Developers,-,-,-
+,6712,Bank Holding Companies,-,-,-
+,6719,"Holding Companies, Nec",-,-,-
+,6722,"Management Investment, Open-end",-,-,-
+,6726,"Investment Offices, Nec",-,-,-
+,6732,"Educational, Religious, Etc. Trusts",-,-,-
+,6733,"Trusts, Nec",-,-,-
+,6792,Oil Royalty Traders,-,-,-
+,6794,Patent Owners And Lessors,-,-,-
+,6798,Real Estate Investment Trusts,-,-,-
+,6799,"Investors, Nec",-,-,-
+,7011,Hotels And Motels,11,62,"$1,021,391"
+,7021,Rooming And Boarding Houses,-,-,-
+,7032,Sporting And Recreational Camps,-,-,-
+,7033,Trailer Parks And Campsites,-,-,-
+,7041,Membership-basis Organization Hotels,-,-,-
+,7211,"Power Laundries, Family & Commercial",3,17,"$328,730"
+,7213,Linen Supply,1,9,"$268,682"
+,7215,Coin-operated Laundries And Cleaning,-,-,-
+,7216,"Drycleaning Plants, Except Rug",-,-,-
+,7217,Carpet And Upholstery Cleaning,-,-,-
+,7218,Industrial Launderers,6,43,"$467,162"
+,7219,"Laundry And Garment Services, Nec",-,-,-
+,7221,"Photographic Studios, Portrait",-,-,-
+,7231,Beauty Shops,-,-,-
+,7241,Barber Shops,-,-,-
+,7251,Shoe Repair And Shoeshine Parlors,-,-,-
+,7261,Funeral Service And Crematories,-,-,-
+,7291,Tax Return Preparation Services,-,-,-
+,7299,"Miscellaneous Personal Services, Nec",-,-,-
+,7311,Advertising Agencies,-,-,-
+,7312,Outdoor Advertising Services,-,-,-
+,7313,"Radio, Tv, Publisher Representatives",-,-,-
+,7319,"Advertising, Nec",-,-,-
+,7322,Adjustment & Collection Services,-,-,-
+,7323,Credit Reporting Services,-,-,-
+,7331,Direct Mail Advertising Services,2,20,"$38,688"
+,7334,Photocopying & Duplicating Services,-,-,-
+,7335,Commercial Photography,-,-,-
+,7336,Commercial Art And Graphic Design,-,-,-
+,7338,Secretarial & Court Reporting,-,-,-
+,7342,Disinfecting & Pest Control Services,-,-,-
+,7349,"Building Maintenance Services, Nec",-,-,-
+,7352,Medical Equipment Rental,-,-,-
+,7353,Heavy Construction Equipment Rental,-,-,-
+,7359,"Equipment Rental & Leasing, Nec",-,-,-
+,7361,Employment Agencies,-,-,-
+,7363,Help Supply Services,-,-,-
+,7371,Computer Programming Services,-,-,-
+,7372,Prepackaged Software,-,-,-
+,7373,Computer Integrated Systems Design,-,-,-
+,7374,Data Processing And Preparation,-,-,-
+,7375,Information Retrieval Services,-,-,-
+,7376,Computer Facilities Management,1,5,"$30,214"
+,7377,Computer Rental & Leasing,-,-,-
+,7378,Computer Maintenance & Repair,-,-,-
+,7379,"Computer Related Services, Nec",-,-,-
+,7381,Detective & Armored Car Services,-,-,-
+,7382,Security Systems Services,-,-,-
+,7383,News Syndicates,-,-,-
+,7384,Photofinishing Laboratories,-,-,-
+,7389,"Business Services, Nec",6,43,"$310,925"
+,7513,"Truck Rental And Leasing, No Drivers",-,-,-
+,7514,Passenger Car Rental,-,-,-
+,7515,Passenger Car Leasing,-,-,-
+,7519,Utility Trailer Rental,-,-,-
+,7521,Automobile Parking,-,-,-
+,7532,Top & Body Repair & Paint Shops,-,-,-
+,7533,Auto Exhaust System Repair Shops,-,-,-
+,7534,Tire Retreading And Repair Shops,3,23,"$187,946"
+,7536,Automotive Glass Replacement Shops,1,8,"$39,044"
+,7537,Automotive Transmission Repair Shops,1,3,"$11,023"
+,7538,General Automotive Repair Shops,-,-,-
+,7539,"Automotive Repair Shops, Nec",1,8,"$38,834"
+,7542,Carwashes,-,-,-
+,7549,"Automotive Services, Nec",-,-,-
+,7622,Radio And Television Repair,-,-,-
+,7623,Refrigeration Service And Repair,-,-,-
+,7629,"Electrical Repair Shops, Nec",-,-,-
+,7631,"Watch, Clock, And Jewelry Repair",-,-,-
+,7641,Reupholstery And Furniture Repair,-,-,-
+,7692,Welding Repair,1,4,"$23,092"
+,7694,Armature Rewinding Shops,-,-,-
+,7699,"Repair Services, Nec",6,55,"$444,173"
+,7812,Motion Picture & Video Production,-,-,-
+,7819,Services Allied To Motion Pictures,-,-,-
+,7822,Motion Picture And Tape Distribution,-,-,-
+,7829,Motion Picture Distribution Services,-,-,-
+,7832,"Motion Picture Theaters, Ex Drive-in",-,-,-
+,7833,Drive-in Motion Picture Theaters,-,-,-
+,7841,Video Tape Rental,-,-,-
+,7911,"Dance Studios, Schools, And Halls",-,-,-
+,7922,Theatrical Producers And Services,2,9,"$37,636"
+,7929,Entertainers & Entertainment Groups,-,-,-
+,7933,Bowling Centers,1,4,"$13,250"
+,7941,"Sports Clubs, Managers, & Promoters",-,-,-
+,7948,"Racing, Including Track Operation",-,-,-
+,7991,Physical Fitness Facilities,-,-,-
+,7992,Public Golf Courses,-,-,-
+,7993,Coin-operated Amusement Devices,-,-,-
+,7996,Amusement Parks,-,-,-
+,7997,Membership Sports & Recreation Clubs,-,-,-
+,7999,"Amusement And Recreation, Nec",8,46,"$501,350"
+,8011,Offices & Clinics Of Medical Doctors,2,9,"$50,435"
+,8021,Offices And Clinics Of Dentists,-,-,-
+,8031,Offices Of Osteopathic Physicians,-,-,-
+,8041,Offices And Clinics Of Chiropractors,-,-,-
+,8042,Offices And Clinics Of Optometrists,-,-,-
+,8043,Offices And Clinics Of Podiatrists,-,-,-
+,8049,"Offices Of Health Practitioners, Nec",-,-,-
+,8051,Skilled Nursing Care Facilities,1,6,"$55,704"
+,8052,Intermediate Care Facilities,-,-,-
+,8059,"Nursing And Personal Care, Nec",1,5,"$74,539"
+,8062,General Medical & Surgical Hospitals,9,69,"$1,766,998"
+,8063,Psychiatric Hospitals,-,-,-
+,8069,Specialty Hospitals Exc. Psychiatric,-,-,-
+,8071,Medical Laboratories,1,3,"$58,734"
+,8072,Dental Laboratories,-,-,-
+,8082,Home Health Care Services,-,-,-
+,8092,Kidney Dialysis Centers,-,-,-
+,8093,"Specialty Outpatient Clinics, Nec",2,9,"$78,570"
+,8099,"Health And Allied Services, Nec",1,10,"$52,084"
+,8111,Legal Services,3,18,"$28,148"
+,8211,Elementary And Secondary Schools,28,171,"$1,099,232"
+,8221,Colleges And Universities,9,45,"$519,451"
+,8222,Junior Colleges,6,28,"$141,579"
+,8231,Libraries,3,12,"$77,104"
+,8243,Data Processing Schools,-,-,-
+,8244,Business And Secretarial Schools,-,-,-
+,8249,"Vocational Schools, Nec",1,6,"$49,772"
+,8299,"Schools & Educational Services, Nec",2,13,"$34,805"
+,8322,Individual And Family Services,4,23,"$303,183"
+,8331,Job Training And Related Services,-,-,-
+,8351,Child Day Care Services,2,7,"$24,437"
+,8361,Residential Care,-,-,-
+,8399,"Social Services, Nec",3,20,"$86,660"
+,8412,Museums And Art Galleries,8,42,"$251,644"
+,8422,Botanical And Zoological Gardens,5,34,"$131,421"
+,8611,Business Associations,1,4,"$44,288"
+,8621,Professional Organizations,-,-,-
+,8631,Labor Organizations,-,-,-
+,8641,Civic And Social Associations,-,-,-
+,8651,Political Organizations,-,-,-
+,8661,Religious Organizations,2,8,"$17,829"
+,8699,"Membership Organizations, Nec",-,-,-
+,8711,Engineering Services,7,38,"$812,538"
+,8712,Architectural Services,-,-,-
+,8713,Surveying Services,-,-,-
+,8721,"Accounting, Auditing, & Bookkeeping",-,-,-
+,8731,Commercial Physical Research,1,7,"$231,093"
+,8732,Commercial Nonphysical Research,-,-,-
+,8733,Noncommercial Research Organizations,-,-,-
+,8734,Testing Laboratories,7,45,"$731,111"
+,8741,Management Services,1,3,"$9,575"
+,8742,Management Consulting Services,-,-,-
+,8743,Public Relations Services,-,-,-
+,8744,Facilities Support Services,-,-,-
+,8748,"Business Consulting, Nec",2,9,"$110,064"
+,8811,Private Households,-,-,-
+,8999,"Services, Nec",5,23,"$43,061"
