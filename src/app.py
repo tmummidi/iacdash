@@ -86,6 +86,16 @@ def update_output_for_keywords(input_keyword):
     # Read the CSV file
     df=pd.read_csv('sic_desc.csv')
     df=df[df['SIC Code']>1000]
+    if input_keyword.isdigit():
+        print(int(input_keyword))
+        input_keyword=df[df['SIC Code']==int(input_keyword)]['Description']
+        if not input_keyword.empty:
+            # Convert the result to a string
+            input_keyword = str(input_keyword.iloc[0])
+            print(input_keyword)
+        else:
+            print("No matching description found for the given SIC Code.")
+            return []
     if input_keyword is None:
         return []
 
