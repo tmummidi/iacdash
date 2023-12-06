@@ -313,5 +313,5 @@ def update_output_for_sic(sic_input):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8090)
-    print('Dash is running on http://127.0.0.1:8090/')
+    app.run_server(debug=True)
+    print('Dash is running on http://127.0.0.1:8050/')
