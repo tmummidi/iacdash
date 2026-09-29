@@ -1,0 +1,37 @@
+[
+  {
+    "case": "layout",
+    "status": "passed",
+    "result": 200
+  },
+  {
+    "case": "empty SIC",
+    "status": "passed",
+    "result": 4
+  },
+  {
+    "case": "None keyword",
+    "status": "passed",
+    "result": []
+  },
+  {
+    "case": "keyword food",
+    "status": "passed",
+    "result": 9
+  },
+  {
+    "case": "real SIC",
+    "status": "passed",
+    "result": 4
+  },
+  {
+    "case": "invalid SIC",
+    "status": "passed",
+    "result": 4
+  },
+  {
+    "case": "regex literal",
+    "status": "passed",
+    "result": 911
+  }
+]

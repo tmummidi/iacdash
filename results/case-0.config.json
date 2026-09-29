@@ -1,0 +1,13 @@
+{
+  "n": 25,
+  "train_scenarios": 32,
+  "test_scenarios": 1000,
+  "budget_fraction": 0.2,
+  "hours_fraction": 0.25,
+  "risk_aversion": 0.5,
+  "alpha": 0.1,
+  "discount": 0.07,
+  "time_limit": 5,
+  "seed": 20260929,
+  "csv_path": null
+}

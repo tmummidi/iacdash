@@ -1,0 +1,330 @@
+{
+  "project": "energyplan",
+  "data": "synthetic industrial measures; no empirical savings claims",
+  "seeds": {
+    "data": 470115297,
+    "training": 331731721,
+    "evaluation": 1895186004
+  },
+  "measures": [
+    {
+      "id": 0,
+      "facility": 0,
+      "alternative_group": 0,
+      "cost": 37557.0,
+      "annual_saving": 9525.26468815573,
+      "life_years": 9,
+      "labor_hours": 51.0
+    },
+    {
+      "id": 1,
+      "facility": 0,
+      "alternative_group": 0,
+      "cost": 9098.0,
+      "annual_saving": 6015.323632929208,
+      "life_years": 11,
+      "labor_hours": 30.0
+    },
+    {
+      "id": 2,
+      "facility": 0,
+      "alternative_group": 1,
+      "cost": 8442.0,
+      "annual_saving": 13398.298516798824,
+      "life_years": 9,
+      "labor_hours": 23.0
+    },
+    {
+      "id": 3,
+      "facility": 0,
+      "alternative_group": 1,
+      "cost": 35782.0,
+      "annual_saving": 6258.497819804357,
+      "life_years": 10,
+      "labor_hours": 97.0
+    },
+    {
+      "id": 4,
+      "facility": 0,
+      "alternative_group": 2,
+      "cost": 35283.0,
+      "annual_saving": 15300.48539324438,
+      "life_years": 12,
+      "labor_hours": 8.0
+    },
+    {
+      "id": 5,
+      "facility": 0,
+      "alternative_group": 2,
+      "cost": 30179.0,
+      "annual_saving": 14198.942643551141,
+      "life_years": 10,
+      "labor_hours": 75.0
+    },
+    {
+      "id": 6,
+      "facility": 0,
+      "alternative_group": 3,
+      "cost": 31041.0,
+      "annual_saving": 14297.082648785186,
+      "life_years": 5,
+      "labor_hours": 49.0
+    },
+    {
+      "id": 7,
+      "facility": 0,
+      "alternative_group": 3,
+      "cost": 25052.0,
+      "annual_saving": 13608.513953198744,
+      "life_years": 12,
+      "labor_hours": 88.0
+    },
+    {
+      "id": 8,
+      "facility": 0,
+      "alternative_group": 4,
+      "cost": 19075.0,
+      "annual_saving": 12118.56136452421,
+      "life_years": 11,
+      "labor_hours": 75.0
+    },
+    {
+      "id": 9,
+      "facility": 0,
+      "alternative_group": 4,
+      "cost": 28674.0,
+      "annual_saving": 12556.512891267312,
+      "life_years": 11,
+      "labor_hours": 22.0
+    },
+    {
+      "id": 10,
+      "facility": 1,
+      "alternative_group": 0,
+      "cost": 23900.0,
+      "annual_saving": 9309.141018921207,
+      "life_years": 7,
+      "labor_hours": 72.0
+    },
+    {
+      "id": 11,
+      "facility": 1,
+      "alternative_group": 0,
+      "cost": 37054.0,
+      "annual_saving": 6459.356202692599,
+      "life_years": 10,
+      "labor_hours": 36.0
+    },
+    {
+      "id": 12,
+      "facility": 1,
+      "alternative_group": 1,
+      "cost": 36962.0,
+      "annual_saving": 2571.050150017587,
+      "life_years": 9,
+      "labor_hours": 21.0
+    },
+    {
+      "id": 13,
+      "facility": 1,
+      "alternative_group": 1,
+      "cost": 17872.0,
+      "annual_saving": 15921.903369639133,
+      "life_years": 9,
+      "labor_hours": 92.0
+    },
+    {
+      "id": 14,
+      "facility": 1,
+      "alternative_group": 2,
+      "cost": 21169.0,
+      "annual_saving": 2630.874569701492,
+      "life_years": 12,
+      "labor_hours": 46.0
+    },
+    {
+      "id": 15,
+      "facility": 1,
+      "alternative_group": 2,
+      "cost": 35814.0,
+      "annual_saving": 11075.232304707324,
+      "life_years": 11,
+      "labor_hours": 27.0
+    },
+    {
+      "id": 16,
+      "facility": 1,
+      "alternative_group": 3,
+      "cost": 38018.0,
+      "annual_saving": 12873.63565428963,
+      "life_years": 5,
+      "labor_hours": 73.0
+    },
+    {
+      "id": 17,
+      "facility": 1,
+      "alternative_group": 3,
+      "cost": 32833.0,
+      "annual_saving": 2203.2320009109685,
+      "life_years": 7,
+      "labor_hours": 35.0
+    },
+    {
+      "id": 18,
+      "facility": 1,
+      "alternative_group": 4,
+      "cost": 36483.0,
+      "annual_saving": 4375.511231203991,
+      "life_years": 5,
+      "labor_hours": 51.0
+    },
+    {
+      "id": 19,
+      "facility": 1,
+      "alternative_group": 4,
+      "cost": 30703.0,
+      "annual_saving": 5806.302253095617,
+      "life_years": 7,
+      "labor_hours": 63.0
+    },
+    {
+      "id": 20,
+      "facility": 2,
+      "alternative_group": 0,
+      "cost": 11999.0,
+      "annual_saving": 8065.473553675944,
+      "life_years": 9,
+      "labor_hours": 45.0
+    },
+    {
+      "id": 21,
+      "facility": 2,
+      "alternative_group": 0,
+      "cost": 28580.0,
+      "annual_saving": 9921.343949162017,
+      "life_years": 12,
+      "labor_hours": 34.0
+    },
+    {
+      "id": 22,
+      "facility": 2,
+      "alternative_group": 1,
+      "cost": 33533.0,
+      "annual_saving": 2257.0699755275764,
+      "life_years": 12,
+      "labor_hours": 80.0
+    },
+    {
+      "id": 23,
+      "facility": 2,
+      "alternative_group": 1,
+      "cost": 12685.0,
+      "annual_saving": 10583.351837175032,
+      "life_years": 8,
+      "labor_hours": 34.0
+    },
+    {
+      "id": 24,
+      "facility": 2,
+      "alternative_group": 2,
+      "cost": 13834.0,
+      "annual_saving": 12312.208666148916,
+      "life_years": 11,
+      "labor_hours": 73.0
+    }
+  ],
+  "budget": 134324.4,
+  "labor_budget": 325.0,
+  "solver": {
+    "status": "optimal",
+    "solver_status": 0,
+    "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "mip_gap": 0.0,
+    "variables": 58,
+    "constraints": 47,
+    "selected_ids": [
+      1,
+      2,
+      4,
+      9,
+      13,
+      23,
+      24
+    ],
+    "cost": 125888.0,
+    "labor_hours": 282.0,
+    "training_mean_npv": 498347.2227030833,
+    "training_lower_cvar": 322164.8250922487,
+    "training_utility": 659429.6352492076
+  },
+  "baseline_selected_ids": [
+    1,
+    2,
+    4,
+    13,
+    20,
+    23,
+    24
+  ],
+  "heldout": {
+    "baseline_mean_npv": 457366.6774857235,
+    "optimized_mean_npv": 483056.02181211044,
+    "baseline_lower_cvar": 278919.1437254216,
+    "optimized_lower_cvar": 286949.28709437925,
+    "optimized_minus_baseline_npv": {
+      "mean": 25689.34432638686,
+      "lower_95": 23829.681278549517,
+      "upper_95": 27549.007374224206,
+      "n": 1000,
+      "method": "paired replication Student-t"
+    },
+    "optimized_probability_negative_npv": 0.0
+  },
+  "evaluated_measure_scenarios": 25000,
+  "evidence": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+    "logical_cpus": 9,
+    "cpu_affinity_count": 9,
+    "cgroup_limits": {
+      "cpu.max": "800000 100000",
+      "memory.max": "8589934592"
+    },
+    "versions": {
+      "numpy": "1.26.4",
+      "scipy": "1.13.1",
+      "simpy": "4.1.1"
+    },
+    "thread_environment": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    },
+    "config": {
+      "n": 25,
+      "train_scenarios": 32,
+      "test_scenarios": 1000,
+      "budget_fraction": 0.2,
+      "hours_fraction": 0.25,
+      "risk_aversion": 0.5,
+      "alpha": 0.1,
+      "discount": 0.07,
+      "time_limit": 5,
+      "seed": 20260929,
+      "csv_path": null
+    },
+    "config_sha256": "bfa3b9b50bd7793d88217e7c5d8d255364551ace0cc9cced863d1d48f9f51167",
+    "status": "executed",
+    "runtime_seconds": 0.0104368769998473,
+    "peak_rss_mib": 88.93359375,
+    "memory_method": "process peak RSS via getrusage; unavailable on Windows",
+    "throughput_per_second": 2395352.5561684566,
+    "throughput_unit": "heldout measure-scenario pairs",
+    "throughput_note": "Derived from executed runtime; numerator is a project-specific work count, not solver-only speed"
+  },
+  "work_units": {
+    "count": 25000,
+    "unit": "heldout measure-scenario pairs"
+  }
+}
