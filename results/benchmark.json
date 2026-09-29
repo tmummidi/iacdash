@@ -1,0 +1,5336 @@
+{
+  "status": "executed",
+  "measurement": "Fresh process per scale case; runtime includes data generation, fit/solve and evaluation; RSS includes imports",
+  "cases": [
+    {
+      "case": 0,
+      "cold_process_seconds": 0.39018156099973567,
+      "exit_code": 0,
+      "config": {
+        "n": 25,
+        "train_scenarios": 32,
+        "test_scenarios": 1000,
+        "budget_fraction": 0.2,
+        "hours_fraction": 0.25,
+        "risk_aversion": 0.5,
+        "alpha": 0.1,
+        "discount": 0.07,
+        "time_limit": 5,
+        "seed": 20260929,
+        "csv_path": null
+      },
+      "result": {
+        "project": "energyplan",
+        "data": "synthetic industrial measures; no empirical savings claims",
+        "seeds": {
+          "data": 470115297,
+          "training": 331731721,
+          "evaluation": 1895186004
+        },
+        "measures": [
+          {
+            "id": 0,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 37557.0,
+            "annual_saving": 9525.26468815573,
+            "life_years": 9,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 1,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 9098.0,
+            "annual_saving": 6015.323632929208,
+            "life_years": 11,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 2,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 8442.0,
+            "annual_saving": 13398.298516798824,
+            "life_years": 9,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 3,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 35782.0,
+            "annual_saving": 6258.497819804357,
+            "life_years": 10,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 4,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 35283.0,
+            "annual_saving": 15300.48539324438,
+            "life_years": 12,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 5,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 30179.0,
+            "annual_saving": 14198.942643551141,
+            "life_years": 10,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 6,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 31041.0,
+            "annual_saving": 14297.082648785186,
+            "life_years": 5,
+            "labor_hours": 49.0
+          },
+          {
+            "id": 7,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 25052.0,
+            "annual_saving": 13608.513953198744,
+            "life_years": 12,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 8,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 19075.0,
+            "annual_saving": 12118.56136452421,
+            "life_years": 11,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 9,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 28674.0,
+            "annual_saving": 12556.512891267312,
+            "life_years": 11,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 10,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 23900.0,
+            "annual_saving": 9309.141018921207,
+            "life_years": 7,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 11,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 37054.0,
+            "annual_saving": 6459.356202692599,
+            "life_years": 10,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 12,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 36962.0,
+            "annual_saving": 2571.050150017587,
+            "life_years": 9,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 13,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 17872.0,
+            "annual_saving": 15921.903369639133,
+            "life_years": 9,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 14,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 21169.0,
+            "annual_saving": 2630.874569701492,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 15,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 35814.0,
+            "annual_saving": 11075.232304707324,
+            "life_years": 11,
+            "labor_hours": 27.0
+          },
+          {
+            "id": 16,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 38018.0,
+            "annual_saving": 12873.63565428963,
+            "life_years": 5,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 17,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 32833.0,
+            "annual_saving": 2203.2320009109685,
+            "life_years": 7,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 18,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 36483.0,
+            "annual_saving": 4375.511231203991,
+            "life_years": 5,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 19,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 30703.0,
+            "annual_saving": 5806.302253095617,
+            "life_years": 7,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 20,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 11999.0,
+            "annual_saving": 8065.473553675944,
+            "life_years": 9,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 21,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 28580.0,
+            "annual_saving": 9921.343949162017,
+            "life_years": 12,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 22,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 33533.0,
+            "annual_saving": 2257.0699755275764,
+            "life_years": 12,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 23,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 12685.0,
+            "annual_saving": 10583.351837175032,
+            "life_years": 8,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 24,
+            "facility": 2,
+            "alternative_group": 2,
+            "cost": 13834.0,
+            "annual_saving": 12312.208666148916,
+            "life_years": 11,
+            "labor_hours": 73.0
+          }
+        ],
+        "budget": 134324.4,
+        "labor_budget": 325.0,
+        "solver": {
+          "status": "optimal",
+          "solver_status": 0,
+          "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+          "mip_gap": 0.0,
+          "variables": 58,
+          "constraints": 47,
+          "selected_ids": [
+            1,
+            2,
+            4,
+            9,
+            13,
+            23,
+            24
+          ],
+          "cost": 125888.0,
+          "labor_hours": 282.0,
+          "training_mean_npv": 498347.2227030833,
+          "training_lower_cvar": 322164.8250922487,
+          "training_utility": 659429.6352492076
+        },
+        "baseline_selected_ids": [
+          1,
+          2,
+          4,
+          13,
+          20,
+          23,
+          24
+        ],
+        "heldout": {
+          "baseline_mean_npv": 457366.6774857235,
+          "optimized_mean_npv": 483056.02181211044,
+          "baseline_lower_cvar": 278919.1437254216,
+          "optimized_lower_cvar": 286949.28709437925,
+          "optimized_minus_baseline_npv": {
+            "mean": 25689.34432638686,
+            "lower_95": 23829.681278549517,
+            "upper_95": 27549.007374224206,
+            "n": 1000,
+            "method": "paired replication Student-t"
+          },
+          "optimized_probability_negative_npv": 0.0
+        },
+        "evaluated_measure_scenarios": 25000,
+        "evidence": {
+          "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+          "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+          "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+          "logical_cpus": 9,
+          "cpu_affinity_count": 9,
+          "cgroup_limits": {
+            "cpu.max": "800000 100000",
+            "memory.max": "8589934592"
+          },
+          "versions": {
+            "numpy": "1.26.4",
+            "scipy": "1.13.1",
+            "simpy": "4.1.1"
+          },
+          "thread_environment": {
+            "OMP_NUM_THREADS": "1",
+            "OPENBLAS_NUM_THREADS": "1",
+            "MKL_NUM_THREADS": "1"
+          },
+          "config": {
+            "n": 25,
+            "train_scenarios": 32,
+            "test_scenarios": 1000,
+            "budget_fraction": 0.2,
+            "hours_fraction": 0.25,
+            "risk_aversion": 0.5,
+            "alpha": 0.1,
+            "discount": 0.07,
+            "time_limit": 5,
+            "seed": 20260929,
+            "csv_path": null
+          },
+          "config_sha256": "bfa3b9b50bd7793d88217e7c5d8d255364551ace0cc9cced863d1d48f9f51167",
+          "status": "executed",
+          "runtime_seconds": 0.0104368769998473,
+          "peak_rss_mib": 88.93359375,
+          "memory_method": "process peak RSS via getrusage; unavailable on Windows",
+          "throughput_per_second": 2395352.5561684566,
+          "throughput_unit": "heldout measure-scenario pairs",
+          "throughput_note": "Derived from executed runtime; numerator is a project-specific work count, not solver-only speed"
+        },
+        "work_units": {
+          "count": 25000,
+          "unit": "heldout measure-scenario pairs"
+        }
+      }
+    },
+    {
+      "case": 1,
+      "cold_process_seconds": 0.3771843270001227,
+      "exit_code": 0,
+      "config": {
+        "n": 100,
+        "train_scenarios": 32,
+        "test_scenarios": 1000,
+        "budget_fraction": 0.2,
+        "hours_fraction": 0.25,
+        "risk_aversion": 0.5,
+        "alpha": 0.1,
+        "discount": 0.07,
+        "time_limit": 5,
+        "seed": 20260929,
+        "csv_path": null
+      },
+      "result": {
+        "project": "energyplan",
+        "data": "synthetic industrial measures; no empirical savings claims",
+        "seeds": {
+          "data": 470115297,
+          "training": 331731721,
+          "evaluation": 1895186004
+        },
+        "measures": [
+          {
+            "id": 0,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 37557.0,
+            "annual_saving": 9525.26468815573,
+            "life_years": 9,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 1,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 9098.0,
+            "annual_saving": 6015.323632929208,
+            "life_years": 11,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 2,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 8442.0,
+            "annual_saving": 13398.298516798824,
+            "life_years": 9,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 3,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 35782.0,
+            "annual_saving": 6258.497819804357,
+            "life_years": 10,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 4,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 35283.0,
+            "annual_saving": 15300.48539324438,
+            "life_years": 12,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 5,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 30179.0,
+            "annual_saving": 14198.942643551141,
+            "life_years": 10,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 6,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 31041.0,
+            "annual_saving": 14297.082648785186,
+            "life_years": 5,
+            "labor_hours": 49.0
+          },
+          {
+            "id": 7,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 25052.0,
+            "annual_saving": 13608.513953198744,
+            "life_years": 12,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 8,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 19075.0,
+            "annual_saving": 12118.56136452421,
+            "life_years": 11,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 9,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 28674.0,
+            "annual_saving": 12556.512891267312,
+            "life_years": 11,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 10,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 23900.0,
+            "annual_saving": 9309.141018921207,
+            "life_years": 7,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 11,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 37054.0,
+            "annual_saving": 6459.356202692599,
+            "life_years": 10,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 12,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 36962.0,
+            "annual_saving": 2571.050150017587,
+            "life_years": 9,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 13,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 17872.0,
+            "annual_saving": 15921.903369639133,
+            "life_years": 9,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 14,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 21169.0,
+            "annual_saving": 2630.874569701492,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 15,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 35814.0,
+            "annual_saving": 11075.232304707324,
+            "life_years": 11,
+            "labor_hours": 27.0
+          },
+          {
+            "id": 16,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 38018.0,
+            "annual_saving": 12873.63565428963,
+            "life_years": 5,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 17,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 32833.0,
+            "annual_saving": 2203.2320009109685,
+            "life_years": 7,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 18,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 36483.0,
+            "annual_saving": 4375.511231203991,
+            "life_years": 5,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 19,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 30703.0,
+            "annual_saving": 5806.302253095617,
+            "life_years": 7,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 20,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 11999.0,
+            "annual_saving": 8065.473553675944,
+            "life_years": 9,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 21,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 28580.0,
+            "annual_saving": 9921.343949162017,
+            "life_years": 12,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 22,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 33533.0,
+            "annual_saving": 2257.0699755275764,
+            "life_years": 12,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 23,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 12685.0,
+            "annual_saving": 10583.351837175032,
+            "life_years": 8,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 24,
+            "facility": 2,
+            "alternative_group": 2,
+            "cost": 13834.0,
+            "annual_saving": 12312.208666148916,
+            "life_years": 11,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 25,
+            "facility": 2,
+            "alternative_group": 2,
+            "cost": 34246.0,
+            "annual_saving": 6690.607449716949,
+            "life_years": 11,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 26,
+            "facility": 2,
+            "alternative_group": 3,
+            "cost": 23160.0,
+            "annual_saving": 11895.474839366958,
+            "life_years": 5,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 27,
+            "facility": 2,
+            "alternative_group": 3,
+            "cost": 37270.0,
+            "annual_saving": 12941.72706143599,
+            "life_years": 11,
+            "labor_hours": 64.0
+          },
+          {
+            "id": 28,
+            "facility": 2,
+            "alternative_group": 4,
+            "cost": 21600.0,
+            "annual_saving": 2248.275533377214,
+            "life_years": 8,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 29,
+            "facility": 2,
+            "alternative_group": 4,
+            "cost": 10742.0,
+            "annual_saving": 9757.164430537578,
+            "life_years": 11,
+            "labor_hours": 69.0
+          },
+          {
+            "id": 30,
+            "facility": 3,
+            "alternative_group": 0,
+            "cost": 10626.0,
+            "annual_saving": 10760.264533988084,
+            "life_years": 7,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 31,
+            "facility": 3,
+            "alternative_group": 0,
+            "cost": 27667.0,
+            "annual_saving": 7644.438288397289,
+            "life_years": 11,
+            "labor_hours": 25.0
+          },
+          {
+            "id": 32,
+            "facility": 3,
+            "alternative_group": 1,
+            "cost": 6949.0,
+            "annual_saving": 12955.297007412402,
+            "life_years": 8,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 33,
+            "facility": 3,
+            "alternative_group": 1,
+            "cost": 7705.0,
+            "annual_saving": 14493.782230025807,
+            "life_years": 11,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 34,
+            "facility": 3,
+            "alternative_group": 2,
+            "cost": 9501.0,
+            "annual_saving": 8992.86514654561,
+            "life_years": 6,
+            "labor_hours": 66.0
+          },
+          {
+            "id": 35,
+            "facility": 3,
+            "alternative_group": 2,
+            "cost": 33692.0,
+            "annual_saving": 13346.500649872785,
+            "life_years": 7,
+            "labor_hours": 39.0
+          },
+          {
+            "id": 36,
+            "facility": 3,
+            "alternative_group": 3,
+            "cost": 39391.0,
+            "annual_saving": 3217.702678485277,
+            "life_years": 11,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 37,
+            "facility": 3,
+            "alternative_group": 3,
+            "cost": 20235.0,
+            "annual_saving": 8243.844863365315,
+            "life_years": 8,
+            "labor_hours": 94.0
+          },
+          {
+            "id": 38,
+            "facility": 3,
+            "alternative_group": 4,
+            "cost": 26837.0,
+            "annual_saving": 4252.580438029033,
+            "life_years": 7,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 39,
+            "facility": 3,
+            "alternative_group": 4,
+            "cost": 8433.0,
+            "annual_saving": 3309.9946314725603,
+            "life_years": 8,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 40,
+            "facility": 4,
+            "alternative_group": 0,
+            "cost": 17000.0,
+            "annual_saving": 15283.56960683497,
+            "life_years": 11,
+            "labor_hours": 94.0
+          },
+          {
+            "id": 41,
+            "facility": 4,
+            "alternative_group": 0,
+            "cost": 35873.0,
+            "annual_saving": 4066.40330064321,
+            "life_years": 8,
+            "labor_hours": 38.0
+          },
+          {
+            "id": 42,
+            "facility": 4,
+            "alternative_group": 1,
+            "cost": 11520.0,
+            "annual_saving": 3496.0359721575505,
+            "life_years": 6,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 43,
+            "facility": 4,
+            "alternative_group": 1,
+            "cost": 23289.0,
+            "annual_saving": 2648.267543934626,
+            "life_years": 5,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 44,
+            "facility": 4,
+            "alternative_group": 2,
+            "cost": 37164.0,
+            "annual_saving": 8487.22693017235,
+            "life_years": 8,
+            "labor_hours": 89.0
+          },
+          {
+            "id": 45,
+            "facility": 4,
+            "alternative_group": 2,
+            "cost": 23407.0,
+            "annual_saving": 14655.117917035976,
+            "life_years": 10,
+            "labor_hours": 39.0
+          },
+          {
+            "id": 46,
+            "facility": 4,
+            "alternative_group": 3,
+            "cost": 28250.0,
+            "annual_saving": 15252.237462591309,
+            "life_years": 7,
+            "labor_hours": 84.0
+          },
+          {
+            "id": 47,
+            "facility": 4,
+            "alternative_group": 3,
+            "cost": 28486.0,
+            "annual_saving": 7534.648535682132,
+            "life_years": 7,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 48,
+            "facility": 4,
+            "alternative_group": 4,
+            "cost": 18852.0,
+            "annual_saving": 14879.150219984529,
+            "life_years": 6,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 49,
+            "facility": 4,
+            "alternative_group": 4,
+            "cost": 33336.0,
+            "annual_saving": 10958.761090097434,
+            "life_years": 8,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 50,
+            "facility": 5,
+            "alternative_group": 0,
+            "cost": 23831.0,
+            "annual_saving": 8441.020080392449,
+            "life_years": 9,
+            "labor_hours": 74.0
+          },
+          {
+            "id": 51,
+            "facility": 5,
+            "alternative_group": 0,
+            "cost": 38463.0,
+            "annual_saving": 7685.507126502919,
+            "life_years": 6,
+            "labor_hours": 14.0
+          },
+          {
+            "id": 52,
+            "facility": 5,
+            "alternative_group": 1,
+            "cost": 12131.0,
+            "annual_saving": 2865.2665991451563,
+            "life_years": 12,
+            "labor_hours": 79.0
+          },
+          {
+            "id": 53,
+            "facility": 5,
+            "alternative_group": 1,
+            "cost": 18484.0,
+            "annual_saving": 14559.139611229357,
+            "life_years": 12,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 54,
+            "facility": 5,
+            "alternative_group": 2,
+            "cost": 35675.0,
+            "annual_saving": 9232.048119785855,
+            "life_years": 6,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 55,
+            "facility": 5,
+            "alternative_group": 2,
+            "cost": 25267.0,
+            "annual_saving": 4820.652174969709,
+            "life_years": 11,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 56,
+            "facility": 5,
+            "alternative_group": 3,
+            "cost": 20354.0,
+            "annual_saving": 9549.103972753508,
+            "life_years": 6,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 57,
+            "facility": 5,
+            "alternative_group": 3,
+            "cost": 33981.0,
+            "annual_saving": 5529.4448354447,
+            "life_years": 6,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 58,
+            "facility": 5,
+            "alternative_group": 4,
+            "cost": 17930.0,
+            "annual_saving": 4997.473018198098,
+            "life_years": 12,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 59,
+            "facility": 5,
+            "alternative_group": 4,
+            "cost": 11811.0,
+            "annual_saving": 12645.803232676688,
+            "life_years": 11,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 60,
+            "facility": 6,
+            "alternative_group": 0,
+            "cost": 6252.0,
+            "annual_saving": 13976.702157416681,
+            "life_years": 11,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 61,
+            "facility": 6,
+            "alternative_group": 0,
+            "cost": 28407.0,
+            "annual_saving": 9867.021821305032,
+            "life_years": 12,
+            "labor_hours": 47.0
+          },
+          {
+            "id": 62,
+            "facility": 6,
+            "alternative_group": 1,
+            "cost": 5907.0,
+            "annual_saving": 3589.7013064815014,
+            "life_years": 7,
+            "labor_hours": 48.0
+          },
+          {
+            "id": 63,
+            "facility": 6,
+            "alternative_group": 1,
+            "cost": 37288.0,
+            "annual_saving": 5698.9125895334,
+            "life_years": 5,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 64,
+            "facility": 6,
+            "alternative_group": 2,
+            "cost": 18128.0,
+            "annual_saving": 7078.403427319574,
+            "life_years": 12,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 65,
+            "facility": 6,
+            "alternative_group": 2,
+            "cost": 17229.0,
+            "annual_saving": 3615.1579497840485,
+            "life_years": 12,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 66,
+            "facility": 6,
+            "alternative_group": 3,
+            "cost": 20194.0,
+            "annual_saving": 12562.913118615726,
+            "life_years": 11,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 67,
+            "facility": 6,
+            "alternative_group": 3,
+            "cost": 9189.0,
+            "annual_saving": 7429.532362112702,
+            "life_years": 10,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 68,
+            "facility": 6,
+            "alternative_group": 4,
+            "cost": 39128.0,
+            "annual_saving": 6172.6512394035635,
+            "life_years": 12,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 69,
+            "facility": 6,
+            "alternative_group": 4,
+            "cost": 22590.0,
+            "annual_saving": 14059.924871489007,
+            "life_years": 9,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 70,
+            "facility": 7,
+            "alternative_group": 0,
+            "cost": 21228.0,
+            "annual_saving": 14968.724996983818,
+            "life_years": 9,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 71,
+            "facility": 7,
+            "alternative_group": 0,
+            "cost": 37348.0,
+            "annual_saving": 6028.736941187935,
+            "life_years": 9,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 72,
+            "facility": 7,
+            "alternative_group": 1,
+            "cost": 26898.0,
+            "annual_saving": 15302.650180172584,
+            "life_years": 9,
+            "labor_hours": 25.0
+          },
+          {
+            "id": 73,
+            "facility": 7,
+            "alternative_group": 1,
+            "cost": 34324.0,
+            "annual_saving": 2486.4123298897784,
+            "life_years": 11,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 74,
+            "facility": 7,
+            "alternative_group": 2,
+            "cost": 39476.0,
+            "annual_saving": 10811.248859526162,
+            "life_years": 10,
+            "labor_hours": 10.0
+          },
+          {
+            "id": 75,
+            "facility": 7,
+            "alternative_group": 2,
+            "cost": 7361.0,
+            "annual_saving": 8631.38819658929,
+            "life_years": 5,
+            "labor_hours": 91.0
+          },
+          {
+            "id": 76,
+            "facility": 7,
+            "alternative_group": 3,
+            "cost": 26397.0,
+            "annual_saving": 3611.308755100562,
+            "life_years": 12,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 77,
+            "facility": 7,
+            "alternative_group": 3,
+            "cost": 26093.0,
+            "annual_saving": 4443.909673248127,
+            "life_years": 10,
+            "labor_hours": 24.0
+          },
+          {
+            "id": 78,
+            "facility": 7,
+            "alternative_group": 4,
+            "cost": 32758.0,
+            "annual_saving": 7457.277891848179,
+            "life_years": 11,
+            "labor_hours": 10.0
+          },
+          {
+            "id": 79,
+            "facility": 7,
+            "alternative_group": 4,
+            "cost": 13915.0,
+            "annual_saving": 13069.798736735656,
+            "life_years": 9,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 80,
+            "facility": 8,
+            "alternative_group": 0,
+            "cost": 19229.0,
+            "annual_saving": 3335.4452188697323,
+            "life_years": 12,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 81,
+            "facility": 8,
+            "alternative_group": 0,
+            "cost": 18680.0,
+            "annual_saving": 9847.451602986464,
+            "life_years": 6,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 82,
+            "facility": 8,
+            "alternative_group": 1,
+            "cost": 15932.0,
+            "annual_saving": 9549.970524517641,
+            "life_years": 8,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 83,
+            "facility": 8,
+            "alternative_group": 1,
+            "cost": 24412.0,
+            "annual_saving": 14248.113822035572,
+            "life_years": 6,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 84,
+            "facility": 8,
+            "alternative_group": 2,
+            "cost": 12761.0,
+            "annual_saving": 11424.098434377082,
+            "life_years": 11,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 85,
+            "facility": 8,
+            "alternative_group": 2,
+            "cost": 39665.0,
+            "annual_saving": 9469.661389948504,
+            "life_years": 8,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 86,
+            "facility": 8,
+            "alternative_group": 3,
+            "cost": 22382.0,
+            "annual_saving": 2343.718937813662,
+            "life_years": 10,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 87,
+            "facility": 8,
+            "alternative_group": 3,
+            "cost": 5336.0,
+            "annual_saving": 5512.337244037377,
+            "life_years": 7,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 88,
+            "facility": 8,
+            "alternative_group": 4,
+            "cost": 25678.0,
+            "annual_saving": 3077.868337323578,
+            "life_years": 7,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 89,
+            "facility": 8,
+            "alternative_group": 4,
+            "cost": 11268.0,
+            "annual_saving": 10512.07444350938,
+            "life_years": 10,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 90,
+            "facility": 9,
+            "alternative_group": 0,
+            "cost": 24749.0,
+            "annual_saving": 8914.961130786232,
+            "life_years": 5,
+            "labor_hours": 42.0
+          },
+          {
+            "id": 91,
+            "facility": 9,
+            "alternative_group": 0,
+            "cost": 13569.0,
+            "annual_saving": 7418.473947157506,
+            "life_years": 12,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 92,
+            "facility": 9,
+            "alternative_group": 1,
+            "cost": 6172.0,
+            "annual_saving": 3666.6313996172757,
+            "life_years": 6,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 93,
+            "facility": 9,
+            "alternative_group": 1,
+            "cost": 25871.0,
+            "annual_saving": 4947.9238334801985,
+            "life_years": 8,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 94,
+            "facility": 9,
+            "alternative_group": 2,
+            "cost": 7959.0,
+            "annual_saving": 12809.6235346463,
+            "life_years": 9,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 95,
+            "facility": 9,
+            "alternative_group": 2,
+            "cost": 10386.0,
+            "annual_saving": 4355.051195991557,
+            "life_years": 6,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 96,
+            "facility": 9,
+            "alternative_group": 3,
+            "cost": 25268.0,
+            "annual_saving": 4759.467435178214,
+            "life_years": 11,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 97,
+            "facility": 9,
+            "alternative_group": 3,
+            "cost": 31589.0,
+            "annual_saving": 3154.403856773023,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 98,
+            "facility": 9,
+            "alternative_group": 4,
+            "cost": 16231.0,
+            "annual_saving": 8492.316508144073,
+            "life_years": 6,
+            "labor_hours": 76.0
+          },
+          {
+            "id": 99,
+            "facility": 9,
+            "alternative_group": 4,
+            "cost": 14995.0,
+            "annual_saving": 10401.211586708238,
+            "life_years": 6,
+            "labor_hours": 94.0
+          }
+        ],
+        "budget": 465404.4,
+        "labor_budget": 1226.25,
+        "solver": {
+          "status": "optimal",
+          "solver_status": 0,
+          "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+          "mip_gap": 0.0,
+          "variables": 133,
+          "constraints": 84,
+          "selected_ids": [
+            1,
+            2,
+            4,
+            7,
+            8,
+            13,
+            20,
+            23,
+            24,
+            29,
+            30,
+            33,
+            40,
+            45,
+            48,
+            53,
+            59,
+            60,
+            66,
+            69,
+            70,
+            72,
+            79,
+            83,
+            84,
+            89,
+            91,
+            94
+          ],
+          "cost": 453013.0,
+          "labor_hours": 1191.0,
+          "training_mean_npv": 2017967.7674265627,
+          "training_lower_cvar": 1498924.3898626056,
+          "training_utility": 2767429.9623578656
+        },
+        "baseline_selected_ids": [
+          1,
+          2,
+          4,
+          8,
+          13,
+          23,
+          24,
+          29,
+          30,
+          33,
+          34,
+          40,
+          45,
+          53,
+          59,
+          60,
+          67,
+          69,
+          70,
+          75,
+          79,
+          84,
+          87,
+          89,
+          91,
+          94
+        ],
+        "heldout": {
+          "baseline_mean_npv": 1758652.7165341754,
+          "optimized_mean_npv": 1994920.1102531923,
+          "baseline_lower_cvar": 1233068.3393825227,
+          "optimized_lower_cvar": 1384014.00474879,
+          "optimized_minus_baseline_npv": {
+            "mean": 236267.39371901666,
+            "lower_95": 232370.40387343193,
+            "upper_95": 240164.3835646014,
+            "n": 1000,
+            "method": "paired replication Student-t"
+          },
+          "optimized_probability_negative_npv": 0.0
+        },
+        "evaluated_measure_scenarios": 100000,
+        "evidence": {
+          "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+          "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+          "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+          "logical_cpus": 9,
+          "cpu_affinity_count": 9,
+          "cgroup_limits": {
+            "cpu.max": "800000 100000",
+            "memory.max": "8589934592"
+          },
+          "versions": {
+            "numpy": "1.26.4",
+            "scipy": "1.13.1",
+            "simpy": "4.1.1"
+          },
+          "thread_environment": {
+            "OMP_NUM_THREADS": "1",
+            "OPENBLAS_NUM_THREADS": "1",
+            "MKL_NUM_THREADS": "1"
+          },
+          "config": {
+            "n": 100,
+            "train_scenarios": 32,
+            "test_scenarios": 1000,
+            "budget_fraction": 0.2,
+            "hours_fraction": 0.25,
+            "risk_aversion": 0.5,
+            "alpha": 0.1,
+            "discount": 0.07,
+            "time_limit": 5,
+            "seed": 20260929,
+            "csv_path": null
+          },
+          "config_sha256": "c3f41ea96fee6ffefb879aed0148b83d280d287357400b1e02486f11a2be610d",
+          "status": "executed",
+          "runtime_seconds": 0.018740043999969203,
+          "peak_rss_mib": 91.06640625,
+          "memory_method": "process peak RSS via getrusage; unavailable on Windows",
+          "throughput_per_second": 5336166.766746351,
+          "throughput_unit": "heldout measure-scenario pairs",
+          "throughput_note": "Derived from executed runtime; numerator is a project-specific work count, not solver-only speed"
+        },
+        "work_units": {
+          "count": 100000,
+          "unit": "heldout measure-scenario pairs"
+        }
+      }
+    },
+    {
+      "case": 2,
+      "cold_process_seconds": 0.4116622169999573,
+      "exit_code": 0,
+      "config": {
+        "n": 400,
+        "train_scenarios": 32,
+        "test_scenarios": 1000,
+        "budget_fraction": 0.2,
+        "hours_fraction": 0.25,
+        "risk_aversion": 0.5,
+        "alpha": 0.1,
+        "discount": 0.07,
+        "time_limit": 5,
+        "seed": 20260929,
+        "csv_path": null
+      },
+      "result": {
+        "project": "energyplan",
+        "data": "synthetic industrial measures; no empirical savings claims",
+        "seeds": {
+          "data": 470115297,
+          "training": 331731721,
+          "evaluation": 1895186004
+        },
+        "measures": [
+          {
+            "id": 0,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 37557.0,
+            "annual_saving": 9525.26468815573,
+            "life_years": 9,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 1,
+            "facility": 0,
+            "alternative_group": 0,
+            "cost": 9098.0,
+            "annual_saving": 6015.323632929208,
+            "life_years": 11,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 2,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 8442.0,
+            "annual_saving": 13398.298516798824,
+            "life_years": 9,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 3,
+            "facility": 0,
+            "alternative_group": 1,
+            "cost": 35782.0,
+            "annual_saving": 6258.497819804357,
+            "life_years": 10,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 4,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 35283.0,
+            "annual_saving": 15300.48539324438,
+            "life_years": 12,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 5,
+            "facility": 0,
+            "alternative_group": 2,
+            "cost": 30179.0,
+            "annual_saving": 14198.942643551141,
+            "life_years": 10,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 6,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 31041.0,
+            "annual_saving": 14297.082648785186,
+            "life_years": 5,
+            "labor_hours": 49.0
+          },
+          {
+            "id": 7,
+            "facility": 0,
+            "alternative_group": 3,
+            "cost": 25052.0,
+            "annual_saving": 13608.513953198744,
+            "life_years": 12,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 8,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 19075.0,
+            "annual_saving": 12118.56136452421,
+            "life_years": 11,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 9,
+            "facility": 0,
+            "alternative_group": 4,
+            "cost": 28674.0,
+            "annual_saving": 12556.512891267312,
+            "life_years": 11,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 10,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 23900.0,
+            "annual_saving": 9309.141018921207,
+            "life_years": 7,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 11,
+            "facility": 1,
+            "alternative_group": 0,
+            "cost": 37054.0,
+            "annual_saving": 6459.356202692599,
+            "life_years": 10,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 12,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 36962.0,
+            "annual_saving": 2571.050150017587,
+            "life_years": 9,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 13,
+            "facility": 1,
+            "alternative_group": 1,
+            "cost": 17872.0,
+            "annual_saving": 15921.903369639133,
+            "life_years": 9,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 14,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 21169.0,
+            "annual_saving": 2630.874569701492,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 15,
+            "facility": 1,
+            "alternative_group": 2,
+            "cost": 35814.0,
+            "annual_saving": 11075.232304707324,
+            "life_years": 11,
+            "labor_hours": 27.0
+          },
+          {
+            "id": 16,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 38018.0,
+            "annual_saving": 12873.63565428963,
+            "life_years": 5,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 17,
+            "facility": 1,
+            "alternative_group": 3,
+            "cost": 32833.0,
+            "annual_saving": 2203.2320009109685,
+            "life_years": 7,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 18,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 36483.0,
+            "annual_saving": 4375.511231203991,
+            "life_years": 5,
+            "labor_hours": 51.0
+          },
+          {
+            "id": 19,
+            "facility": 1,
+            "alternative_group": 4,
+            "cost": 30703.0,
+            "annual_saving": 5806.302253095617,
+            "life_years": 7,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 20,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 11999.0,
+            "annual_saving": 8065.473553675944,
+            "life_years": 9,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 21,
+            "facility": 2,
+            "alternative_group": 0,
+            "cost": 28580.0,
+            "annual_saving": 9921.343949162017,
+            "life_years": 12,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 22,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 33533.0,
+            "annual_saving": 2257.0699755275764,
+            "life_years": 12,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 23,
+            "facility": 2,
+            "alternative_group": 1,
+            "cost": 12685.0,
+            "annual_saving": 10583.351837175032,
+            "life_years": 8,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 24,
+            "facility": 2,
+            "alternative_group": 2,
+            "cost": 13834.0,
+            "annual_saving": 12312.208666148916,
+            "life_years": 11,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 25,
+            "facility": 2,
+            "alternative_group": 2,
+            "cost": 34246.0,
+            "annual_saving": 6690.607449716949,
+            "life_years": 11,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 26,
+            "facility": 2,
+            "alternative_group": 3,
+            "cost": 23160.0,
+            "annual_saving": 11895.474839366958,
+            "life_years": 5,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 27,
+            "facility": 2,
+            "alternative_group": 3,
+            "cost": 37270.0,
+            "annual_saving": 12941.72706143599,
+            "life_years": 11,
+            "labor_hours": 64.0
+          },
+          {
+            "id": 28,
+            "facility": 2,
+            "alternative_group": 4,
+            "cost": 21600.0,
+            "annual_saving": 2248.275533377214,
+            "life_years": 8,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 29,
+            "facility": 2,
+            "alternative_group": 4,
+            "cost": 10742.0,
+            "annual_saving": 9757.164430537578,
+            "life_years": 11,
+            "labor_hours": 69.0
+          },
+          {
+            "id": 30,
+            "facility": 3,
+            "alternative_group": 0,
+            "cost": 10626.0,
+            "annual_saving": 10760.264533988084,
+            "life_years": 7,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 31,
+            "facility": 3,
+            "alternative_group": 0,
+            "cost": 27667.0,
+            "annual_saving": 7644.438288397289,
+            "life_years": 11,
+            "labor_hours": 25.0
+          },
+          {
+            "id": 32,
+            "facility": 3,
+            "alternative_group": 1,
+            "cost": 6949.0,
+            "annual_saving": 12955.297007412402,
+            "life_years": 8,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 33,
+            "facility": 3,
+            "alternative_group": 1,
+            "cost": 7705.0,
+            "annual_saving": 14493.782230025807,
+            "life_years": 11,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 34,
+            "facility": 3,
+            "alternative_group": 2,
+            "cost": 9501.0,
+            "annual_saving": 8992.86514654561,
+            "life_years": 6,
+            "labor_hours": 66.0
+          },
+          {
+            "id": 35,
+            "facility": 3,
+            "alternative_group": 2,
+            "cost": 33692.0,
+            "annual_saving": 13346.500649872785,
+            "life_years": 7,
+            "labor_hours": 39.0
+          },
+          {
+            "id": 36,
+            "facility": 3,
+            "alternative_group": 3,
+            "cost": 39391.0,
+            "annual_saving": 3217.702678485277,
+            "life_years": 11,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 37,
+            "facility": 3,
+            "alternative_group": 3,
+            "cost": 20235.0,
+            "annual_saving": 8243.844863365315,
+            "life_years": 8,
+            "labor_hours": 94.0
+          },
+          {
+            "id": 38,
+            "facility": 3,
+            "alternative_group": 4,
+            "cost": 26837.0,
+            "annual_saving": 4252.580438029033,
+            "life_years": 7,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 39,
+            "facility": 3,
+            "alternative_group": 4,
+            "cost": 8433.0,
+            "annual_saving": 3309.9946314725603,
+            "life_years": 8,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 40,
+            "facility": 4,
+            "alternative_group": 0,
+            "cost": 17000.0,
+            "annual_saving": 15283.56960683497,
+            "life_years": 11,
+            "labor_hours": 94.0
+          },
+          {
+            "id": 41,
+            "facility": 4,
+            "alternative_group": 0,
+            "cost": 35873.0,
+            "annual_saving": 4066.40330064321,
+            "life_years": 8,
+            "labor_hours": 38.0
+          },
+          {
+            "id": 42,
+            "facility": 4,
+            "alternative_group": 1,
+            "cost": 11520.0,
+            "annual_saving": 3496.0359721575505,
+            "life_years": 6,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 43,
+            "facility": 4,
+            "alternative_group": 1,
+            "cost": 23289.0,
+            "annual_saving": 2648.267543934626,
+            "life_years": 5,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 44,
+            "facility": 4,
+            "alternative_group": 2,
+            "cost": 37164.0,
+            "annual_saving": 8487.22693017235,
+            "life_years": 8,
+            "labor_hours": 89.0
+          },
+          {
+            "id": 45,
+            "facility": 4,
+            "alternative_group": 2,
+            "cost": 23407.0,
+            "annual_saving": 14655.117917035976,
+            "life_years": 10,
+            "labor_hours": 39.0
+          },
+          {
+            "id": 46,
+            "facility": 4,
+            "alternative_group": 3,
+            "cost": 28250.0,
+            "annual_saving": 15252.237462591309,
+            "life_years": 7,
+            "labor_hours": 84.0
+          },
+          {
+            "id": 47,
+            "facility": 4,
+            "alternative_group": 3,
+            "cost": 28486.0,
+            "annual_saving": 7534.648535682132,
+            "life_years": 7,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 48,
+            "facility": 4,
+            "alternative_group": 4,
+            "cost": 18852.0,
+            "annual_saving": 14879.150219984529,
+            "life_years": 6,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 49,
+            "facility": 4,
+            "alternative_group": 4,
+            "cost": 33336.0,
+            "annual_saving": 10958.761090097434,
+            "life_years": 8,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 50,
+            "facility": 5,
+            "alternative_group": 0,
+            "cost": 23831.0,
+            "annual_saving": 8441.020080392449,
+            "life_years": 9,
+            "labor_hours": 74.0
+          },
+          {
+            "id": 51,
+            "facility": 5,
+            "alternative_group": 0,
+            "cost": 38463.0,
+            "annual_saving": 7685.507126502919,
+            "life_years": 6,
+            "labor_hours": 14.0
+          },
+          {
+            "id": 52,
+            "facility": 5,
+            "alternative_group": 1,
+            "cost": 12131.0,
+            "annual_saving": 2865.2665991451563,
+            "life_years": 12,
+            "labor_hours": 79.0
+          },
+          {
+            "id": 53,
+            "facility": 5,
+            "alternative_group": 1,
+            "cost": 18484.0,
+            "annual_saving": 14559.139611229357,
+            "life_years": 12,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 54,
+            "facility": 5,
+            "alternative_group": 2,
+            "cost": 35675.0,
+            "annual_saving": 9232.048119785855,
+            "life_years": 6,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 55,
+            "facility": 5,
+            "alternative_group": 2,
+            "cost": 25267.0,
+            "annual_saving": 4820.652174969709,
+            "life_years": 11,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 56,
+            "facility": 5,
+            "alternative_group": 3,
+            "cost": 20354.0,
+            "annual_saving": 9549.103972753508,
+            "life_years": 6,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 57,
+            "facility": 5,
+            "alternative_group": 3,
+            "cost": 33981.0,
+            "annual_saving": 5529.4448354447,
+            "life_years": 6,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 58,
+            "facility": 5,
+            "alternative_group": 4,
+            "cost": 17930.0,
+            "annual_saving": 4997.473018198098,
+            "life_years": 12,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 59,
+            "facility": 5,
+            "alternative_group": 4,
+            "cost": 11811.0,
+            "annual_saving": 12645.803232676688,
+            "life_years": 11,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 60,
+            "facility": 6,
+            "alternative_group": 0,
+            "cost": 6252.0,
+            "annual_saving": 13976.702157416681,
+            "life_years": 11,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 61,
+            "facility": 6,
+            "alternative_group": 0,
+            "cost": 28407.0,
+            "annual_saving": 9867.021821305032,
+            "life_years": 12,
+            "labor_hours": 47.0
+          },
+          {
+            "id": 62,
+            "facility": 6,
+            "alternative_group": 1,
+            "cost": 5907.0,
+            "annual_saving": 3589.7013064815014,
+            "life_years": 7,
+            "labor_hours": 48.0
+          },
+          {
+            "id": 63,
+            "facility": 6,
+            "alternative_group": 1,
+            "cost": 37288.0,
+            "annual_saving": 5698.9125895334,
+            "life_years": 5,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 64,
+            "facility": 6,
+            "alternative_group": 2,
+            "cost": 18128.0,
+            "annual_saving": 7078.403427319574,
+            "life_years": 12,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 65,
+            "facility": 6,
+            "alternative_group": 2,
+            "cost": 17229.0,
+            "annual_saving": 3615.1579497840485,
+            "life_years": 12,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 66,
+            "facility": 6,
+            "alternative_group": 3,
+            "cost": 20194.0,
+            "annual_saving": 12562.913118615726,
+            "life_years": 11,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 67,
+            "facility": 6,
+            "alternative_group": 3,
+            "cost": 9189.0,
+            "annual_saving": 7429.532362112702,
+            "life_years": 10,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 68,
+            "facility": 6,
+            "alternative_group": 4,
+            "cost": 39128.0,
+            "annual_saving": 6172.6512394035635,
+            "life_years": 12,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 69,
+            "facility": 6,
+            "alternative_group": 4,
+            "cost": 22590.0,
+            "annual_saving": 14059.924871489007,
+            "life_years": 9,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 70,
+            "facility": 7,
+            "alternative_group": 0,
+            "cost": 21228.0,
+            "annual_saving": 14968.724996983818,
+            "life_years": 9,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 71,
+            "facility": 7,
+            "alternative_group": 0,
+            "cost": 37348.0,
+            "annual_saving": 6028.736941187935,
+            "life_years": 9,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 72,
+            "facility": 7,
+            "alternative_group": 1,
+            "cost": 26898.0,
+            "annual_saving": 15302.650180172584,
+            "life_years": 9,
+            "labor_hours": 25.0
+          },
+          {
+            "id": 73,
+            "facility": 7,
+            "alternative_group": 1,
+            "cost": 34324.0,
+            "annual_saving": 2486.4123298897784,
+            "life_years": 11,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 74,
+            "facility": 7,
+            "alternative_group": 2,
+            "cost": 39476.0,
+            "annual_saving": 10811.248859526162,
+            "life_years": 10,
+            "labor_hours": 10.0
+          },
+          {
+            "id": 75,
+            "facility": 7,
+            "alternative_group": 2,
+            "cost": 7361.0,
+            "annual_saving": 8631.38819658929,
+            "life_years": 5,
+            "labor_hours": 91.0
+          },
+          {
+            "id": 76,
+            "facility": 7,
+            "alternative_group": 3,
+            "cost": 26397.0,
+            "annual_saving": 3611.308755100562,
+            "life_years": 12,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 77,
+            "facility": 7,
+            "alternative_group": 3,
+            "cost": 26093.0,
+            "annual_saving": 4443.909673248127,
+            "life_years": 10,
+            "labor_hours": 24.0
+          },
+          {
+            "id": 78,
+            "facility": 7,
+            "alternative_group": 4,
+            "cost": 32758.0,
+            "annual_saving": 7457.277891848179,
+            "life_years": 11,
+            "labor_hours": 10.0
+          },
+          {
+            "id": 79,
+            "facility": 7,
+            "alternative_group": 4,
+            "cost": 13915.0,
+            "annual_saving": 13069.798736735656,
+            "life_years": 9,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 80,
+            "facility": 8,
+            "alternative_group": 0,
+            "cost": 19229.0,
+            "annual_saving": 3335.4452188697323,
+            "life_years": 12,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 81,
+            "facility": 8,
+            "alternative_group": 0,
+            "cost": 18680.0,
+            "annual_saving": 9847.451602986464,
+            "life_years": 6,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 82,
+            "facility": 8,
+            "alternative_group": 1,
+            "cost": 15932.0,
+            "annual_saving": 9549.970524517641,
+            "life_years": 8,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 83,
+            "facility": 8,
+            "alternative_group": 1,
+            "cost": 24412.0,
+            "annual_saving": 14248.113822035572,
+            "life_years": 6,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 84,
+            "facility": 8,
+            "alternative_group": 2,
+            "cost": 12761.0,
+            "annual_saving": 11424.098434377082,
+            "life_years": 11,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 85,
+            "facility": 8,
+            "alternative_group": 2,
+            "cost": 39665.0,
+            "annual_saving": 9469.661389948504,
+            "life_years": 8,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 86,
+            "facility": 8,
+            "alternative_group": 3,
+            "cost": 22382.0,
+            "annual_saving": 2343.718937813662,
+            "life_years": 10,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 87,
+            "facility": 8,
+            "alternative_group": 3,
+            "cost": 5336.0,
+            "annual_saving": 5512.337244037377,
+            "life_years": 7,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 88,
+            "facility": 8,
+            "alternative_group": 4,
+            "cost": 25678.0,
+            "annual_saving": 3077.868337323578,
+            "life_years": 7,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 89,
+            "facility": 8,
+            "alternative_group": 4,
+            "cost": 11268.0,
+            "annual_saving": 10512.07444350938,
+            "life_years": 10,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 90,
+            "facility": 9,
+            "alternative_group": 0,
+            "cost": 24749.0,
+            "annual_saving": 8914.961130786232,
+            "life_years": 5,
+            "labor_hours": 42.0
+          },
+          {
+            "id": 91,
+            "facility": 9,
+            "alternative_group": 0,
+            "cost": 13569.0,
+            "annual_saving": 7418.473947157506,
+            "life_years": 12,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 92,
+            "facility": 9,
+            "alternative_group": 1,
+            "cost": 6172.0,
+            "annual_saving": 3666.6313996172757,
+            "life_years": 6,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 93,
+            "facility": 9,
+            "alternative_group": 1,
+            "cost": 25871.0,
+            "annual_saving": 4947.9238334801985,
+            "life_years": 8,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 94,
+            "facility": 9,
+            "alternative_group": 2,
+            "cost": 7959.0,
+            "annual_saving": 12809.6235346463,
+            "life_years": 9,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 95,
+            "facility": 9,
+            "alternative_group": 2,
+            "cost": 10386.0,
+            "annual_saving": 4355.051195991557,
+            "life_years": 6,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 96,
+            "facility": 9,
+            "alternative_group": 3,
+            "cost": 25268.0,
+            "annual_saving": 4759.467435178214,
+            "life_years": 11,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 97,
+            "facility": 9,
+            "alternative_group": 3,
+            "cost": 31589.0,
+            "annual_saving": 3154.403856773023,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 98,
+            "facility": 9,
+            "alternative_group": 4,
+            "cost": 16231.0,
+            "annual_saving": 8492.316508144073,
+            "life_years": 6,
+            "labor_hours": 76.0
+          },
+          {
+            "id": 99,
+            "facility": 9,
+            "alternative_group": 4,
+            "cost": 14995.0,
+            "annual_saving": 10401.211586708238,
+            "life_years": 6,
+            "labor_hours": 94.0
+          },
+          {
+            "id": 100,
+            "facility": 10,
+            "alternative_group": 0,
+            "cost": 31802.0,
+            "annual_saving": 13106.11832720629,
+            "life_years": 12,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 101,
+            "facility": 10,
+            "alternative_group": 0,
+            "cost": 13006.0,
+            "annual_saving": 14064.98974523588,
+            "life_years": 11,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 102,
+            "facility": 10,
+            "alternative_group": 1,
+            "cost": 33456.0,
+            "annual_saving": 6585.575156369781,
+            "life_years": 5,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 103,
+            "facility": 10,
+            "alternative_group": 1,
+            "cost": 29422.0,
+            "annual_saving": 3414.8092575780556,
+            "life_years": 7,
+            "labor_hours": 60.0
+          },
+          {
+            "id": 104,
+            "facility": 10,
+            "alternative_group": 2,
+            "cost": 15768.0,
+            "annual_saving": 10874.79138080942,
+            "life_years": 5,
+            "labor_hours": 54.0
+          },
+          {
+            "id": 105,
+            "facility": 10,
+            "alternative_group": 2,
+            "cost": 32974.0,
+            "annual_saving": 6210.632498074858,
+            "life_years": 9,
+            "labor_hours": 24.0
+          },
+          {
+            "id": 106,
+            "facility": 10,
+            "alternative_group": 3,
+            "cost": 13760.0,
+            "annual_saving": 14620.872928446335,
+            "life_years": 10,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 107,
+            "facility": 10,
+            "alternative_group": 3,
+            "cost": 31936.0,
+            "annual_saving": 7236.542415525872,
+            "life_years": 11,
+            "labor_hours": 76.0
+          },
+          {
+            "id": 108,
+            "facility": 10,
+            "alternative_group": 4,
+            "cost": 16295.0,
+            "annual_saving": 11632.96639873387,
+            "life_years": 12,
+            "labor_hours": 58.0
+          },
+          {
+            "id": 109,
+            "facility": 10,
+            "alternative_group": 4,
+            "cost": 31570.0,
+            "annual_saving": 4769.893498605891,
+            "life_years": 12,
+            "labor_hours": 15.0
+          },
+          {
+            "id": 110,
+            "facility": 11,
+            "alternative_group": 0,
+            "cost": 32380.0,
+            "annual_saving": 14667.576506485539,
+            "life_years": 10,
+            "labor_hours": 55.0
+          },
+          {
+            "id": 111,
+            "facility": 11,
+            "alternative_group": 0,
+            "cost": 9636.0,
+            "annual_saving": 4209.199475719695,
+            "life_years": 6,
+            "labor_hours": 57.0
+          },
+          {
+            "id": 112,
+            "facility": 11,
+            "alternative_group": 1,
+            "cost": 22132.0,
+            "annual_saving": 7766.618600072681,
+            "life_years": 6,
+            "labor_hours": 43.0
+          },
+          {
+            "id": 113,
+            "facility": 11,
+            "alternative_group": 1,
+            "cost": 34665.0,
+            "annual_saving": 10869.793215471032,
+            "life_years": 12,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 114,
+            "facility": 11,
+            "alternative_group": 2,
+            "cost": 22857.0,
+            "annual_saving": 7448.587943047368,
+            "life_years": 10,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 115,
+            "facility": 11,
+            "alternative_group": 2,
+            "cost": 35598.0,
+            "annual_saving": 12451.367988994534,
+            "life_years": 6,
+            "labor_hours": 24.0
+          },
+          {
+            "id": 116,
+            "facility": 11,
+            "alternative_group": 3,
+            "cost": 7097.0,
+            "annual_saving": 15670.190838899844,
+            "life_years": 10,
+            "labor_hours": 28.0
+          },
+          {
+            "id": 117,
+            "facility": 11,
+            "alternative_group": 3,
+            "cost": 33353.0,
+            "annual_saving": 13180.524490764265,
+            "life_years": 12,
+            "labor_hours": 38.0
+          },
+          {
+            "id": 118,
+            "facility": 11,
+            "alternative_group": 4,
+            "cost": 20200.0,
+            "annual_saving": 11435.809139970213,
+            "life_years": 6,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 119,
+            "facility": 11,
+            "alternative_group": 4,
+            "cost": 28610.0,
+            "annual_saving": 8806.764407890803,
+            "life_years": 8,
+            "labor_hours": 16.0
+          },
+          {
+            "id": 120,
+            "facility": 12,
+            "alternative_group": 0,
+            "cost": 11665.0,
+            "annual_saving": 3157.509773398946,
+            "life_years": 11,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 121,
+            "facility": 12,
+            "alternative_group": 0,
+            "cost": 25908.0,
+            "annual_saving": 6981.366260302842,
+            "life_years": 7,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 122,
+            "facility": 12,
+            "alternative_group": 1,
+            "cost": 19987.0,
+            "annual_saving": 6928.888285687582,
+            "life_years": 6,
+            "labor_hours": 33.0
+          },
+          {
+            "id": 123,
+            "facility": 12,
+            "alternative_group": 1,
+            "cost": 6200.0,
+            "annual_saving": 4940.241576636194,
+            "life_years": 6,
+            "labor_hours": 84.0
+          },
+          {
+            "id": 124,
+            "facility": 12,
+            "alternative_group": 2,
+            "cost": 14855.0,
+            "annual_saving": 11942.412050087187,
+            "life_years": 7,
+            "labor_hours": 26.0
+          },
+          {
+            "id": 125,
+            "facility": 12,
+            "alternative_group": 2,
+            "cost": 23354.0,
+            "annual_saving": 6941.825305733874,
+            "life_years": 9,
+            "labor_hours": 69.0
+          },
+          {
+            "id": 126,
+            "facility": 12,
+            "alternative_group": 3,
+            "cost": 34099.0,
+            "annual_saving": 6201.17447958758,
+            "life_years": 6,
+            "labor_hours": 69.0
+          },
+          {
+            "id": 127,
+            "facility": 12,
+            "alternative_group": 3,
+            "cost": 7313.0,
+            "annual_saving": 3156.5249955333957,
+            "life_years": 6,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 128,
+            "facility": 12,
+            "alternative_group": 4,
+            "cost": 38093.0,
+            "annual_saving": 15944.738756407534,
+            "life_years": 6,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 129,
+            "facility": 12,
+            "alternative_group": 4,
+            "cost": 38327.0,
+            "annual_saving": 7021.797056097369,
+            "life_years": 6,
+            "labor_hours": 66.0
+          },
+          {
+            "id": 130,
+            "facility": 13,
+            "alternative_group": 0,
+            "cost": 39419.0,
+            "annual_saving": 2594.923493557387,
+            "life_years": 5,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 131,
+            "facility": 13,
+            "alternative_group": 0,
+            "cost": 34879.0,
+            "annual_saving": 3572.3426010705343,
+            "life_years": 9,
+            "labor_hours": 16.0
+          },
+          {
+            "id": 132,
+            "facility": 13,
+            "alternative_group": 1,
+            "cost": 29223.0,
+            "annual_saving": 12957.000446922726,
+            "life_years": 7,
+            "labor_hours": 81.0
+          },
+          {
+            "id": 133,
+            "facility": 13,
+            "alternative_group": 1,
+            "cost": 19031.0,
+            "annual_saving": 5631.923983089235,
+            "life_years": 11,
+            "labor_hours": 17.0
+          },
+          {
+            "id": 134,
+            "facility": 13,
+            "alternative_group": 2,
+            "cost": 32689.0,
+            "annual_saving": 3955.149907518538,
+            "life_years": 11,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 135,
+            "facility": 13,
+            "alternative_group": 2,
+            "cost": 28199.0,
+            "annual_saving": 4624.232625309541,
+            "life_years": 12,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 136,
+            "facility": 13,
+            "alternative_group": 3,
+            "cost": 12710.0,
+            "annual_saving": 14987.234258513305,
+            "life_years": 11,
+            "labor_hours": 43.0
+          },
+          {
+            "id": 137,
+            "facility": 13,
+            "alternative_group": 3,
+            "cost": 29360.0,
+            "annual_saving": 14595.805290072907,
+            "life_years": 5,
+            "labor_hours": 43.0
+          },
+          {
+            "id": 138,
+            "facility": 13,
+            "alternative_group": 4,
+            "cost": 30358.0,
+            "annual_saving": 7022.718512173738,
+            "life_years": 11,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 139,
+            "facility": 13,
+            "alternative_group": 4,
+            "cost": 37463.0,
+            "annual_saving": 12310.299912411052,
+            "life_years": 10,
+            "labor_hours": 90.0
+          },
+          {
+            "id": 140,
+            "facility": 14,
+            "alternative_group": 0,
+            "cost": 34203.0,
+            "annual_saving": 15021.621864631416,
+            "life_years": 8,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 141,
+            "facility": 14,
+            "alternative_group": 0,
+            "cost": 9551.0,
+            "annual_saving": 2866.751669264507,
+            "life_years": 8,
+            "labor_hours": 54.0
+          },
+          {
+            "id": 142,
+            "facility": 14,
+            "alternative_group": 1,
+            "cost": 24853.0,
+            "annual_saving": 12287.52987178086,
+            "life_years": 5,
+            "labor_hours": 98.0
+          },
+          {
+            "id": 143,
+            "facility": 14,
+            "alternative_group": 1,
+            "cost": 14625.0,
+            "annual_saving": 7112.046236692793,
+            "life_years": 10,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 144,
+            "facility": 14,
+            "alternative_group": 2,
+            "cost": 27879.0,
+            "annual_saving": 3419.045398504074,
+            "life_years": 6,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 145,
+            "facility": 14,
+            "alternative_group": 2,
+            "cost": 31327.0,
+            "annual_saving": 2516.268566488754,
+            "life_years": 9,
+            "labor_hours": 54.0
+          },
+          {
+            "id": 146,
+            "facility": 14,
+            "alternative_group": 3,
+            "cost": 9957.0,
+            "annual_saving": 14499.522815082482,
+            "life_years": 10,
+            "labor_hours": 91.0
+          },
+          {
+            "id": 147,
+            "facility": 14,
+            "alternative_group": 3,
+            "cost": 14674.0,
+            "annual_saving": 13976.933965862745,
+            "life_years": 11,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 148,
+            "facility": 14,
+            "alternative_group": 4,
+            "cost": 38359.0,
+            "annual_saving": 8409.62086951077,
+            "life_years": 5,
+            "labor_hours": 78.0
+          },
+          {
+            "id": 149,
+            "facility": 14,
+            "alternative_group": 4,
+            "cost": 14947.0,
+            "annual_saving": 10724.927869880647,
+            "life_years": 5,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 150,
+            "facility": 15,
+            "alternative_group": 0,
+            "cost": 17553.0,
+            "annual_saving": 12675.565539658819,
+            "life_years": 12,
+            "labor_hours": 64.0
+          },
+          {
+            "id": 151,
+            "facility": 15,
+            "alternative_group": 0,
+            "cost": 21432.0,
+            "annual_saving": 5774.5675163636615,
+            "life_years": 10,
+            "labor_hours": 82.0
+          },
+          {
+            "id": 152,
+            "facility": 15,
+            "alternative_group": 1,
+            "cost": 28940.0,
+            "annual_saving": 13281.0416080732,
+            "life_years": 7,
+            "labor_hours": 29.0
+          },
+          {
+            "id": 153,
+            "facility": 15,
+            "alternative_group": 1,
+            "cost": 16693.0,
+            "annual_saving": 7538.323654078801,
+            "life_years": 7,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 154,
+            "facility": 15,
+            "alternative_group": 2,
+            "cost": 15994.0,
+            "annual_saving": 7180.1909316942265,
+            "life_years": 9,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 155,
+            "facility": 15,
+            "alternative_group": 2,
+            "cost": 28630.0,
+            "annual_saving": 11529.509161601132,
+            "life_years": 9,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 156,
+            "facility": 15,
+            "alternative_group": 3,
+            "cost": 8099.0,
+            "annual_saving": 2174.3157472399566,
+            "life_years": 8,
+            "labor_hours": 64.0
+          },
+          {
+            "id": 157,
+            "facility": 15,
+            "alternative_group": 3,
+            "cost": 9890.0,
+            "annual_saving": 3406.4239867323668,
+            "life_years": 12,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 158,
+            "facility": 15,
+            "alternative_group": 4,
+            "cost": 18100.0,
+            "annual_saving": 7306.860027909543,
+            "life_years": 9,
+            "labor_hours": 79.0
+          },
+          {
+            "id": 159,
+            "facility": 15,
+            "alternative_group": 4,
+            "cost": 28783.0,
+            "annual_saving": 5865.360872564697,
+            "life_years": 7,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 160,
+            "facility": 16,
+            "alternative_group": 0,
+            "cost": 25704.0,
+            "annual_saving": 3200.657045518632,
+            "life_years": 7,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 161,
+            "facility": 16,
+            "alternative_group": 0,
+            "cost": 34181.0,
+            "annual_saving": 6938.801182984069,
+            "life_years": 10,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 162,
+            "facility": 16,
+            "alternative_group": 1,
+            "cost": 15467.0,
+            "annual_saving": 15659.883034271435,
+            "life_years": 6,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 163,
+            "facility": 16,
+            "alternative_group": 1,
+            "cost": 36453.0,
+            "annual_saving": 5543.812050026214,
+            "life_years": 12,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 164,
+            "facility": 16,
+            "alternative_group": 2,
+            "cost": 31869.0,
+            "annual_saving": 8524.621079806446,
+            "life_years": 5,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 165,
+            "facility": 16,
+            "alternative_group": 2,
+            "cost": 19025.0,
+            "annual_saving": 4357.941836993364,
+            "life_years": 6,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 166,
+            "facility": 16,
+            "alternative_group": 3,
+            "cost": 11537.0,
+            "annual_saving": 6809.055396343702,
+            "life_years": 6,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 167,
+            "facility": 16,
+            "alternative_group": 3,
+            "cost": 12282.0,
+            "annual_saving": 15579.535479992712,
+            "life_years": 10,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 168,
+            "facility": 16,
+            "alternative_group": 4,
+            "cost": 29162.0,
+            "annual_saving": 15165.238554840169,
+            "life_years": 6,
+            "labor_hours": 57.0
+          },
+          {
+            "id": 169,
+            "facility": 16,
+            "alternative_group": 4,
+            "cost": 7808.0,
+            "annual_saving": 9201.00121355937,
+            "life_years": 9,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 170,
+            "facility": 17,
+            "alternative_group": 0,
+            "cost": 22058.0,
+            "annual_saving": 11739.608609135455,
+            "life_years": 5,
+            "labor_hours": 68.0
+          },
+          {
+            "id": 171,
+            "facility": 17,
+            "alternative_group": 0,
+            "cost": 37029.0,
+            "annual_saving": 11514.091059089991,
+            "life_years": 5,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 172,
+            "facility": 17,
+            "alternative_group": 1,
+            "cost": 25954.0,
+            "annual_saving": 4071.597007442547,
+            "life_years": 11,
+            "labor_hours": 56.0
+          },
+          {
+            "id": 173,
+            "facility": 17,
+            "alternative_group": 1,
+            "cost": 23865.0,
+            "annual_saving": 3021.2481452217953,
+            "life_years": 12,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 174,
+            "facility": 17,
+            "alternative_group": 2,
+            "cost": 33859.0,
+            "annual_saving": 2203.4287173258654,
+            "life_years": 6,
+            "labor_hours": 17.0
+          },
+          {
+            "id": 175,
+            "facility": 17,
+            "alternative_group": 2,
+            "cost": 27177.0,
+            "annual_saving": 3935.1081023631796,
+            "life_years": 5,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 176,
+            "facility": 17,
+            "alternative_group": 3,
+            "cost": 35464.0,
+            "annual_saving": 3240.9482802509337,
+            "life_years": 12,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 177,
+            "facility": 17,
+            "alternative_group": 3,
+            "cost": 25077.0,
+            "annual_saving": 14283.49045621037,
+            "life_years": 6,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 178,
+            "facility": 17,
+            "alternative_group": 4,
+            "cost": 31218.0,
+            "annual_saving": 7591.731980858256,
+            "life_years": 12,
+            "labor_hours": 79.0
+          },
+          {
+            "id": 179,
+            "facility": 17,
+            "alternative_group": 4,
+            "cost": 8203.0,
+            "annual_saving": 15060.414486035308,
+            "life_years": 8,
+            "labor_hours": 9.0
+          },
+          {
+            "id": 180,
+            "facility": 18,
+            "alternative_group": 0,
+            "cost": 32963.0,
+            "annual_saving": 2978.105361633169,
+            "life_years": 11,
+            "labor_hours": 76.0
+          },
+          {
+            "id": 181,
+            "facility": 18,
+            "alternative_group": 0,
+            "cost": 32171.0,
+            "annual_saving": 15810.534216217822,
+            "life_years": 11,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 182,
+            "facility": 18,
+            "alternative_group": 1,
+            "cost": 13315.0,
+            "annual_saving": 9539.978575655772,
+            "life_years": 5,
+            "labor_hours": 44.0
+          },
+          {
+            "id": 183,
+            "facility": 18,
+            "alternative_group": 1,
+            "cost": 17700.0,
+            "annual_saving": 2208.4710623923684,
+            "life_years": 10,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 184,
+            "facility": 18,
+            "alternative_group": 2,
+            "cost": 22472.0,
+            "annual_saving": 6518.629478963719,
+            "life_years": 12,
+            "labor_hours": 55.0
+          },
+          {
+            "id": 185,
+            "facility": 18,
+            "alternative_group": 2,
+            "cost": 5264.0,
+            "annual_saving": 5247.375186021163,
+            "life_years": 12,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 186,
+            "facility": 18,
+            "alternative_group": 3,
+            "cost": 18592.0,
+            "annual_saving": 8965.59363130412,
+            "life_years": 6,
+            "labor_hours": 84.0
+          },
+          {
+            "id": 187,
+            "facility": 18,
+            "alternative_group": 3,
+            "cost": 39830.0,
+            "annual_saving": 15590.140527555479,
+            "life_years": 5,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 188,
+            "facility": 18,
+            "alternative_group": 4,
+            "cost": 28991.0,
+            "annual_saving": 11798.639971745766,
+            "life_years": 6,
+            "labor_hours": 39.0
+          },
+          {
+            "id": 189,
+            "facility": 18,
+            "alternative_group": 4,
+            "cost": 33994.0,
+            "annual_saving": 8618.313079266783,
+            "life_years": 11,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 190,
+            "facility": 19,
+            "alternative_group": 0,
+            "cost": 6563.0,
+            "annual_saving": 10960.181863920643,
+            "life_years": 6,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 191,
+            "facility": 19,
+            "alternative_group": 0,
+            "cost": 30509.0,
+            "annual_saving": 11124.352609592115,
+            "life_years": 10,
+            "labor_hours": 50.0
+          },
+          {
+            "id": 192,
+            "facility": 19,
+            "alternative_group": 1,
+            "cost": 13374.0,
+            "annual_saving": 4510.007030118627,
+            "life_years": 5,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 193,
+            "facility": 19,
+            "alternative_group": 1,
+            "cost": 34169.0,
+            "annual_saving": 13774.710256148292,
+            "life_years": 10,
+            "labor_hours": 90.0
+          },
+          {
+            "id": 194,
+            "facility": 19,
+            "alternative_group": 2,
+            "cost": 35876.0,
+            "annual_saving": 11692.101187619615,
+            "life_years": 9,
+            "labor_hours": 66.0
+          },
+          {
+            "id": 195,
+            "facility": 19,
+            "alternative_group": 2,
+            "cost": 10583.0,
+            "annual_saving": 10753.372857194421,
+            "life_years": 5,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 196,
+            "facility": 19,
+            "alternative_group": 3,
+            "cost": 30086.0,
+            "annual_saving": 7206.778020628263,
+            "life_years": 11,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 197,
+            "facility": 19,
+            "alternative_group": 3,
+            "cost": 27879.0,
+            "annual_saving": 15016.578548815176,
+            "life_years": 6,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 198,
+            "facility": 19,
+            "alternative_group": 4,
+            "cost": 19317.0,
+            "annual_saving": 12822.06947723231,
+            "life_years": 5,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 199,
+            "facility": 19,
+            "alternative_group": 4,
+            "cost": 24264.0,
+            "annual_saving": 14059.426527055999,
+            "life_years": 8,
+            "labor_hours": 33.0
+          },
+          {
+            "id": 200,
+            "facility": 20,
+            "alternative_group": 0,
+            "cost": 34114.0,
+            "annual_saving": 12299.82728238349,
+            "life_years": 9,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 201,
+            "facility": 20,
+            "alternative_group": 0,
+            "cost": 21092.0,
+            "annual_saving": 14137.445436709542,
+            "life_years": 6,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 202,
+            "facility": 20,
+            "alternative_group": 1,
+            "cost": 17194.0,
+            "annual_saving": 8484.418720459082,
+            "life_years": 12,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 203,
+            "facility": 20,
+            "alternative_group": 1,
+            "cost": 10254.0,
+            "annual_saving": 14171.10137195999,
+            "life_years": 5,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 204,
+            "facility": 20,
+            "alternative_group": 2,
+            "cost": 11979.0,
+            "annual_saving": 12017.618243661325,
+            "life_years": 9,
+            "labor_hours": 76.0
+          },
+          {
+            "id": 205,
+            "facility": 20,
+            "alternative_group": 2,
+            "cost": 9113.0,
+            "annual_saving": 6844.299913689507,
+            "life_years": 11,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 206,
+            "facility": 20,
+            "alternative_group": 3,
+            "cost": 24027.0,
+            "annual_saving": 14428.935975513456,
+            "life_years": 5,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 207,
+            "facility": 20,
+            "alternative_group": 3,
+            "cost": 27414.0,
+            "annual_saving": 8753.656019353613,
+            "life_years": 11,
+            "labor_hours": 27.0
+          },
+          {
+            "id": 208,
+            "facility": 20,
+            "alternative_group": 4,
+            "cost": 31982.0,
+            "annual_saving": 2132.6948741807714,
+            "life_years": 5,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 209,
+            "facility": 20,
+            "alternative_group": 4,
+            "cost": 13147.0,
+            "annual_saving": 4636.47622178926,
+            "life_years": 8,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 210,
+            "facility": 21,
+            "alternative_group": 0,
+            "cost": 33765.0,
+            "annual_saving": 14591.805785767603,
+            "life_years": 5,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 211,
+            "facility": 21,
+            "alternative_group": 0,
+            "cost": 35078.0,
+            "annual_saving": 9567.355977118134,
+            "life_years": 8,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 212,
+            "facility": 21,
+            "alternative_group": 1,
+            "cost": 24927.0,
+            "annual_saving": 9111.221154063289,
+            "life_years": 10,
+            "labor_hours": 29.0
+          },
+          {
+            "id": 213,
+            "facility": 21,
+            "alternative_group": 1,
+            "cost": 37892.0,
+            "annual_saving": 3187.768354672042,
+            "life_years": 9,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 214,
+            "facility": 21,
+            "alternative_group": 2,
+            "cost": 19499.0,
+            "annual_saving": 15910.571379987266,
+            "life_years": 10,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 215,
+            "facility": 21,
+            "alternative_group": 2,
+            "cost": 20044.0,
+            "annual_saving": 7673.810045296756,
+            "life_years": 10,
+            "labor_hours": 44.0
+          },
+          {
+            "id": 216,
+            "facility": 21,
+            "alternative_group": 3,
+            "cost": 36126.0,
+            "annual_saving": 3658.259698108997,
+            "life_years": 11,
+            "labor_hours": 28.0
+          },
+          {
+            "id": 217,
+            "facility": 21,
+            "alternative_group": 3,
+            "cost": 30230.0,
+            "annual_saving": 10471.964210683716,
+            "life_years": 7,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 218,
+            "facility": 21,
+            "alternative_group": 4,
+            "cost": 22730.0,
+            "annual_saving": 4212.838717811226,
+            "life_years": 9,
+            "labor_hours": 50.0
+          },
+          {
+            "id": 219,
+            "facility": 21,
+            "alternative_group": 4,
+            "cost": 24779.0,
+            "annual_saving": 10135.587704335925,
+            "life_years": 10,
+            "labor_hours": 17.0
+          },
+          {
+            "id": 220,
+            "facility": 22,
+            "alternative_group": 0,
+            "cost": 39723.0,
+            "annual_saving": 15721.996197253811,
+            "life_years": 6,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 221,
+            "facility": 22,
+            "alternative_group": 0,
+            "cost": 32416.0,
+            "annual_saving": 7800.944399450903,
+            "life_years": 9,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 222,
+            "facility": 22,
+            "alternative_group": 1,
+            "cost": 6743.0,
+            "annual_saving": 3963.9921321359802,
+            "life_years": 11,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 223,
+            "facility": 22,
+            "alternative_group": 1,
+            "cost": 31251.0,
+            "annual_saving": 3833.251308919973,
+            "life_years": 6,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 224,
+            "facility": 22,
+            "alternative_group": 2,
+            "cost": 7542.0,
+            "annual_saving": 2965.3657902712835,
+            "life_years": 9,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 225,
+            "facility": 22,
+            "alternative_group": 2,
+            "cost": 30859.0,
+            "annual_saving": 2296.134026470515,
+            "life_years": 7,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 226,
+            "facility": 22,
+            "alternative_group": 3,
+            "cost": 31561.0,
+            "annual_saving": 8217.218429666502,
+            "life_years": 7,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 227,
+            "facility": 22,
+            "alternative_group": 3,
+            "cost": 17003.0,
+            "annual_saving": 4331.707647833541,
+            "life_years": 11,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 228,
+            "facility": 22,
+            "alternative_group": 4,
+            "cost": 13692.0,
+            "annual_saving": 12611.69675770674,
+            "life_years": 6,
+            "labor_hours": 11.0
+          },
+          {
+            "id": 229,
+            "facility": 22,
+            "alternative_group": 4,
+            "cost": 23691.0,
+            "annual_saving": 9887.242845717054,
+            "life_years": 8,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 230,
+            "facility": 23,
+            "alternative_group": 0,
+            "cost": 23159.0,
+            "annual_saving": 15552.357961792328,
+            "life_years": 10,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 231,
+            "facility": 23,
+            "alternative_group": 0,
+            "cost": 27821.0,
+            "annual_saving": 10563.341045271529,
+            "life_years": 9,
+            "labor_hours": 8.0
+          },
+          {
+            "id": 232,
+            "facility": 23,
+            "alternative_group": 1,
+            "cost": 29910.0,
+            "annual_saving": 4694.15319922245,
+            "life_years": 6,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 233,
+            "facility": 23,
+            "alternative_group": 1,
+            "cost": 35222.0,
+            "annual_saving": 5163.307007163352,
+            "life_years": 11,
+            "labor_hours": 90.0
+          },
+          {
+            "id": 234,
+            "facility": 23,
+            "alternative_group": 2,
+            "cost": 39841.0,
+            "annual_saving": 14054.298266233971,
+            "life_years": 7,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 235,
+            "facility": 23,
+            "alternative_group": 2,
+            "cost": 35828.0,
+            "annual_saving": 12537.167780528443,
+            "life_years": 9,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 236,
+            "facility": 23,
+            "alternative_group": 3,
+            "cost": 30535.0,
+            "annual_saving": 6506.858739261618,
+            "life_years": 9,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 237,
+            "facility": 23,
+            "alternative_group": 3,
+            "cost": 35832.0,
+            "annual_saving": 8789.119619708326,
+            "life_years": 11,
+            "labor_hours": 68.0
+          },
+          {
+            "id": 238,
+            "facility": 23,
+            "alternative_group": 4,
+            "cost": 33772.0,
+            "annual_saving": 2518.723403886902,
+            "life_years": 11,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 239,
+            "facility": 23,
+            "alternative_group": 4,
+            "cost": 34480.0,
+            "annual_saving": 5361.5801940706715,
+            "life_years": 9,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 240,
+            "facility": 24,
+            "alternative_group": 0,
+            "cost": 34076.0,
+            "annual_saving": 6016.140356647117,
+            "life_years": 5,
+            "labor_hours": 77.0
+          },
+          {
+            "id": 241,
+            "facility": 24,
+            "alternative_group": 0,
+            "cost": 34909.0,
+            "annual_saving": 4269.4001950645925,
+            "life_years": 7,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 242,
+            "facility": 24,
+            "alternative_group": 1,
+            "cost": 34206.0,
+            "annual_saving": 5713.288179923118,
+            "life_years": 9,
+            "labor_hours": 48.0
+          },
+          {
+            "id": 243,
+            "facility": 24,
+            "alternative_group": 1,
+            "cost": 35405.0,
+            "annual_saving": 4430.834662420119,
+            "life_years": 5,
+            "labor_hours": 91.0
+          },
+          {
+            "id": 244,
+            "facility": 24,
+            "alternative_group": 2,
+            "cost": 20529.0,
+            "annual_saving": 2488.0617821011288,
+            "life_years": 10,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 245,
+            "facility": 24,
+            "alternative_group": 2,
+            "cost": 27595.0,
+            "annual_saving": 7668.242933304226,
+            "life_years": 5,
+            "labor_hours": 38.0
+          },
+          {
+            "id": 246,
+            "facility": 24,
+            "alternative_group": 3,
+            "cost": 33068.0,
+            "annual_saving": 11023.876771949355,
+            "life_years": 7,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 247,
+            "facility": 24,
+            "alternative_group": 3,
+            "cost": 26777.0,
+            "annual_saving": 10025.026053791818,
+            "life_years": 8,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 248,
+            "facility": 24,
+            "alternative_group": 4,
+            "cost": 28071.0,
+            "annual_saving": 4654.951171013425,
+            "life_years": 10,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 249,
+            "facility": 24,
+            "alternative_group": 4,
+            "cost": 9104.0,
+            "annual_saving": 8451.20065532336,
+            "life_years": 6,
+            "labor_hours": 99.0
+          },
+          {
+            "id": 250,
+            "facility": 25,
+            "alternative_group": 0,
+            "cost": 21097.0,
+            "annual_saving": 15620.382705469001,
+            "life_years": 7,
+            "labor_hours": 9.0
+          },
+          {
+            "id": 251,
+            "facility": 25,
+            "alternative_group": 0,
+            "cost": 10105.0,
+            "annual_saving": 7717.426128825696,
+            "life_years": 10,
+            "labor_hours": 49.0
+          },
+          {
+            "id": 252,
+            "facility": 25,
+            "alternative_group": 1,
+            "cost": 37615.0,
+            "annual_saving": 5084.547896084374,
+            "life_years": 6,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 253,
+            "facility": 25,
+            "alternative_group": 1,
+            "cost": 28919.0,
+            "annual_saving": 12552.370745398654,
+            "life_years": 12,
+            "labor_hours": 74.0
+          },
+          {
+            "id": 254,
+            "facility": 25,
+            "alternative_group": 2,
+            "cost": 19905.0,
+            "annual_saving": 6259.749668123037,
+            "life_years": 8,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 255,
+            "facility": 25,
+            "alternative_group": 2,
+            "cost": 28188.0,
+            "annual_saving": 9334.299034325586,
+            "life_years": 5,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 256,
+            "facility": 25,
+            "alternative_group": 3,
+            "cost": 17773.0,
+            "annual_saving": 8589.834041422702,
+            "life_years": 5,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 257,
+            "facility": 25,
+            "alternative_group": 3,
+            "cost": 12914.0,
+            "annual_saving": 9758.292715971776,
+            "life_years": 9,
+            "labor_hours": 13.0
+          },
+          {
+            "id": 258,
+            "facility": 25,
+            "alternative_group": 4,
+            "cost": 24496.0,
+            "annual_saving": 4518.86939838706,
+            "life_years": 7,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 259,
+            "facility": 25,
+            "alternative_group": 4,
+            "cost": 32447.0,
+            "annual_saving": 5860.635230640512,
+            "life_years": 11,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 260,
+            "facility": 26,
+            "alternative_group": 0,
+            "cost": 22361.0,
+            "annual_saving": 6905.642788017606,
+            "life_years": 7,
+            "labor_hours": 78.0
+          },
+          {
+            "id": 261,
+            "facility": 26,
+            "alternative_group": 0,
+            "cost": 24382.0,
+            "annual_saving": 3735.355105812316,
+            "life_years": 10,
+            "labor_hours": 87.0
+          },
+          {
+            "id": 262,
+            "facility": 26,
+            "alternative_group": 1,
+            "cost": 19486.0,
+            "annual_saving": 10601.92823977412,
+            "life_years": 9,
+            "labor_hours": 93.0
+          },
+          {
+            "id": 263,
+            "facility": 26,
+            "alternative_group": 1,
+            "cost": 21463.0,
+            "annual_saving": 13070.599652485213,
+            "life_years": 11,
+            "labor_hours": 43.0
+          },
+          {
+            "id": 264,
+            "facility": 26,
+            "alternative_group": 2,
+            "cost": 11160.0,
+            "annual_saving": 2590.5505680310516,
+            "life_years": 12,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 265,
+            "facility": 26,
+            "alternative_group": 2,
+            "cost": 34064.0,
+            "annual_saving": 9541.553308186954,
+            "life_years": 7,
+            "labor_hours": 17.0
+          },
+          {
+            "id": 266,
+            "facility": 26,
+            "alternative_group": 3,
+            "cost": 16506.0,
+            "annual_saving": 4145.931010867224,
+            "life_years": 9,
+            "labor_hours": 99.0
+          },
+          {
+            "id": 267,
+            "facility": 26,
+            "alternative_group": 3,
+            "cost": 26647.0,
+            "annual_saving": 12957.44812999981,
+            "life_years": 12,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 268,
+            "facility": 26,
+            "alternative_group": 4,
+            "cost": 9069.0,
+            "annual_saving": 9362.020080044884,
+            "life_years": 9,
+            "labor_hours": 82.0
+          },
+          {
+            "id": 269,
+            "facility": 26,
+            "alternative_group": 4,
+            "cost": 30181.0,
+            "annual_saving": 14922.403327343702,
+            "life_years": 9,
+            "labor_hours": 16.0
+          },
+          {
+            "id": 270,
+            "facility": 27,
+            "alternative_group": 0,
+            "cost": 5710.0,
+            "annual_saving": 9102.92114177125,
+            "life_years": 9,
+            "labor_hours": 75.0
+          },
+          {
+            "id": 271,
+            "facility": 27,
+            "alternative_group": 0,
+            "cost": 21253.0,
+            "annual_saving": 15932.49453203426,
+            "life_years": 12,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 272,
+            "facility": 27,
+            "alternative_group": 1,
+            "cost": 37882.0,
+            "annual_saving": 3721.1286166990785,
+            "life_years": 12,
+            "labor_hours": 64.0
+          },
+          {
+            "id": 273,
+            "facility": 27,
+            "alternative_group": 1,
+            "cost": 12291.0,
+            "annual_saving": 2200.259958569561,
+            "life_years": 9,
+            "labor_hours": 9.0
+          },
+          {
+            "id": 274,
+            "facility": 27,
+            "alternative_group": 2,
+            "cost": 6491.0,
+            "annual_saving": 11363.014486077922,
+            "life_years": 6,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 275,
+            "facility": 27,
+            "alternative_group": 2,
+            "cost": 39773.0,
+            "annual_saving": 6760.00010357255,
+            "life_years": 11,
+            "labor_hours": 58.0
+          },
+          {
+            "id": 276,
+            "facility": 27,
+            "alternative_group": 3,
+            "cost": 8426.0,
+            "annual_saving": 4038.8622432202396,
+            "life_years": 7,
+            "labor_hours": 52.0
+          },
+          {
+            "id": 277,
+            "facility": 27,
+            "alternative_group": 3,
+            "cost": 23397.0,
+            "annual_saving": 4976.410369148728,
+            "life_years": 6,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 278,
+            "facility": 27,
+            "alternative_group": 4,
+            "cost": 29026.0,
+            "annual_saving": 13584.161407313351,
+            "life_years": 5,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 279,
+            "facility": 27,
+            "alternative_group": 4,
+            "cost": 19440.0,
+            "annual_saving": 9994.547908767861,
+            "life_years": 9,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 280,
+            "facility": 28,
+            "alternative_group": 0,
+            "cost": 26729.0,
+            "annual_saving": 11779.778678830535,
+            "life_years": 10,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 281,
+            "facility": 28,
+            "alternative_group": 0,
+            "cost": 39162.0,
+            "annual_saving": 2293.400597441495,
+            "life_years": 10,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 282,
+            "facility": 28,
+            "alternative_group": 1,
+            "cost": 21194.0,
+            "annual_saving": 9672.40432189592,
+            "life_years": 10,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 283,
+            "facility": 28,
+            "alternative_group": 1,
+            "cost": 9743.0,
+            "annual_saving": 11323.462109451286,
+            "life_years": 12,
+            "labor_hours": 9.0
+          },
+          {
+            "id": 284,
+            "facility": 28,
+            "alternative_group": 2,
+            "cost": 23451.0,
+            "annual_saving": 14792.96742890144,
+            "life_years": 5,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 285,
+            "facility": 28,
+            "alternative_group": 2,
+            "cost": 20049.0,
+            "annual_saving": 12582.9385628226,
+            "life_years": 7,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 286,
+            "facility": 28,
+            "alternative_group": 3,
+            "cost": 9847.0,
+            "annual_saving": 3239.9795631448824,
+            "life_years": 5,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 287,
+            "facility": 28,
+            "alternative_group": 3,
+            "cost": 18668.0,
+            "annual_saving": 10765.78511488882,
+            "life_years": 8,
+            "labor_hours": 85.0
+          },
+          {
+            "id": 288,
+            "facility": 28,
+            "alternative_group": 4,
+            "cost": 34080.0,
+            "annual_saving": 12756.979702021843,
+            "life_years": 8,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 289,
+            "facility": 28,
+            "alternative_group": 4,
+            "cost": 31434.0,
+            "annual_saving": 2110.609789211798,
+            "life_years": 9,
+            "labor_hours": 56.0
+          },
+          {
+            "id": 290,
+            "facility": 29,
+            "alternative_group": 0,
+            "cost": 16049.0,
+            "annual_saving": 3739.0586276816684,
+            "life_years": 11,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 291,
+            "facility": 29,
+            "alternative_group": 0,
+            "cost": 27956.0,
+            "annual_saving": 15308.945865850783,
+            "life_years": 10,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 292,
+            "facility": 29,
+            "alternative_group": 1,
+            "cost": 36249.0,
+            "annual_saving": 5240.255793687081,
+            "life_years": 5,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 293,
+            "facility": 29,
+            "alternative_group": 1,
+            "cost": 16555.0,
+            "annual_saving": 8684.400501869266,
+            "life_years": 8,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 294,
+            "facility": 29,
+            "alternative_group": 2,
+            "cost": 24796.0,
+            "annual_saving": 8665.185651712876,
+            "life_years": 12,
+            "labor_hours": 81.0
+          },
+          {
+            "id": 295,
+            "facility": 29,
+            "alternative_group": 2,
+            "cost": 15485.0,
+            "annual_saving": 7259.261777688971,
+            "life_years": 8,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 296,
+            "facility": 29,
+            "alternative_group": 3,
+            "cost": 7903.0,
+            "annual_saving": 13860.050552440156,
+            "life_years": 8,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 297,
+            "facility": 29,
+            "alternative_group": 3,
+            "cost": 31999.0,
+            "annual_saving": 9949.299741006584,
+            "life_years": 9,
+            "labor_hours": 65.0
+          },
+          {
+            "id": 298,
+            "facility": 29,
+            "alternative_group": 4,
+            "cost": 15217.0,
+            "annual_saving": 11122.225384854613,
+            "life_years": 9,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 299,
+            "facility": 29,
+            "alternative_group": 4,
+            "cost": 12669.0,
+            "annual_saving": 8860.313816801718,
+            "life_years": 6,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 300,
+            "facility": 30,
+            "alternative_group": 0,
+            "cost": 28608.0,
+            "annual_saving": 14073.398954468335,
+            "life_years": 9,
+            "labor_hours": 99.0
+          },
+          {
+            "id": 301,
+            "facility": 30,
+            "alternative_group": 0,
+            "cost": 21727.0,
+            "annual_saving": 11543.673376448223,
+            "life_years": 8,
+            "labor_hours": 38.0
+          },
+          {
+            "id": 302,
+            "facility": 30,
+            "alternative_group": 1,
+            "cost": 32495.0,
+            "annual_saving": 15714.280016195138,
+            "life_years": 7,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 303,
+            "facility": 30,
+            "alternative_group": 1,
+            "cost": 13003.0,
+            "annual_saving": 6585.725644996841,
+            "life_years": 7,
+            "labor_hours": 53.0
+          },
+          {
+            "id": 304,
+            "facility": 30,
+            "alternative_group": 2,
+            "cost": 22675.0,
+            "annual_saving": 13265.467229793661,
+            "life_years": 6,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 305,
+            "facility": 30,
+            "alternative_group": 2,
+            "cost": 12801.0,
+            "annual_saving": 10194.635735811751,
+            "life_years": 5,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 306,
+            "facility": 30,
+            "alternative_group": 3,
+            "cost": 22318.0,
+            "annual_saving": 9078.539954438347,
+            "life_years": 12,
+            "labor_hours": 84.0
+          },
+          {
+            "id": 307,
+            "facility": 30,
+            "alternative_group": 3,
+            "cost": 22149.0,
+            "annual_saving": 14525.538146312569,
+            "life_years": 9,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 308,
+            "facility": 30,
+            "alternative_group": 4,
+            "cost": 23621.0,
+            "annual_saving": 5457.442262652896,
+            "life_years": 10,
+            "labor_hours": 57.0
+          },
+          {
+            "id": 309,
+            "facility": 30,
+            "alternative_group": 4,
+            "cost": 33373.0,
+            "annual_saving": 3789.2632783690487,
+            "life_years": 8,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 310,
+            "facility": 31,
+            "alternative_group": 0,
+            "cost": 30431.0,
+            "annual_saving": 5399.240401877789,
+            "life_years": 12,
+            "labor_hours": 73.0
+          },
+          {
+            "id": 311,
+            "facility": 31,
+            "alternative_group": 0,
+            "cost": 16268.0,
+            "annual_saving": 4050.433679998835,
+            "life_years": 11,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 312,
+            "facility": 31,
+            "alternative_group": 1,
+            "cost": 18314.0,
+            "annual_saving": 12655.030911500466,
+            "life_years": 12,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 313,
+            "facility": 31,
+            "alternative_group": 1,
+            "cost": 16580.0,
+            "annual_saving": 13196.708523817051,
+            "life_years": 8,
+            "labor_hours": 57.0
+          },
+          {
+            "id": 314,
+            "facility": 31,
+            "alternative_group": 2,
+            "cost": 20738.0,
+            "annual_saving": 14344.092507636527,
+            "life_years": 10,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 315,
+            "facility": 31,
+            "alternative_group": 2,
+            "cost": 38314.0,
+            "annual_saving": 15032.843153105383,
+            "life_years": 9,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 316,
+            "facility": 31,
+            "alternative_group": 3,
+            "cost": 31857.0,
+            "annual_saving": 2458.2806549842503,
+            "life_years": 11,
+            "labor_hours": 22.0
+          },
+          {
+            "id": 317,
+            "facility": 31,
+            "alternative_group": 3,
+            "cost": 15749.0,
+            "annual_saving": 3863.2760640316083,
+            "life_years": 11,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 318,
+            "facility": 31,
+            "alternative_group": 4,
+            "cost": 17345.0,
+            "annual_saving": 12467.453270650876,
+            "life_years": 5,
+            "labor_hours": 47.0
+          },
+          {
+            "id": 319,
+            "facility": 31,
+            "alternative_group": 4,
+            "cost": 32224.0,
+            "annual_saving": 13244.517884720673,
+            "life_years": 5,
+            "labor_hours": 90.0
+          },
+          {
+            "id": 320,
+            "facility": 32,
+            "alternative_group": 0,
+            "cost": 6947.0,
+            "annual_saving": 8126.371905222013,
+            "life_years": 11,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 321,
+            "facility": 32,
+            "alternative_group": 0,
+            "cost": 13429.0,
+            "annual_saving": 9780.440720875435,
+            "life_years": 12,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 322,
+            "facility": 32,
+            "alternative_group": 1,
+            "cost": 10888.0,
+            "annual_saving": 6559.568884272435,
+            "life_years": 9,
+            "labor_hours": 36.0
+          },
+          {
+            "id": 323,
+            "facility": 32,
+            "alternative_group": 1,
+            "cost": 19968.0,
+            "annual_saving": 2394.1436218601307,
+            "life_years": 10,
+            "labor_hours": 83.0
+          },
+          {
+            "id": 324,
+            "facility": 32,
+            "alternative_group": 2,
+            "cost": 25573.0,
+            "annual_saving": 15341.84489300124,
+            "life_years": 6,
+            "labor_hours": 37.0
+          },
+          {
+            "id": 325,
+            "facility": 32,
+            "alternative_group": 2,
+            "cost": 16876.0,
+            "annual_saving": 8469.756754184222,
+            "life_years": 7,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 326,
+            "facility": 32,
+            "alternative_group": 3,
+            "cost": 14888.0,
+            "annual_saving": 14382.391133987869,
+            "life_years": 5,
+            "labor_hours": 55.0
+          },
+          {
+            "id": 327,
+            "facility": 32,
+            "alternative_group": 3,
+            "cost": 15460.0,
+            "annual_saving": 14671.792904732436,
+            "life_years": 8,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 328,
+            "facility": 32,
+            "alternative_group": 4,
+            "cost": 16057.0,
+            "annual_saving": 11716.387216965048,
+            "life_years": 5,
+            "labor_hours": 56.0
+          },
+          {
+            "id": 329,
+            "facility": 32,
+            "alternative_group": 4,
+            "cost": 20769.0,
+            "annual_saving": 14696.139971965202,
+            "life_years": 10,
+            "labor_hours": 50.0
+          },
+          {
+            "id": 330,
+            "facility": 33,
+            "alternative_group": 0,
+            "cost": 15203.0,
+            "annual_saving": 10648.67379968701,
+            "life_years": 7,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 331,
+            "facility": 33,
+            "alternative_group": 0,
+            "cost": 30499.0,
+            "annual_saving": 2695.007503122799,
+            "life_years": 5,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 332,
+            "facility": 33,
+            "alternative_group": 1,
+            "cost": 14773.0,
+            "annual_saving": 4064.3806959586886,
+            "life_years": 11,
+            "labor_hours": 20.0
+          },
+          {
+            "id": 333,
+            "facility": 33,
+            "alternative_group": 1,
+            "cost": 10855.0,
+            "annual_saving": 14834.860986227379,
+            "life_years": 10,
+            "labor_hours": 92.0
+          },
+          {
+            "id": 334,
+            "facility": 33,
+            "alternative_group": 2,
+            "cost": 36345.0,
+            "annual_saving": 15599.747390318318,
+            "life_years": 12,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 335,
+            "facility": 33,
+            "alternative_group": 2,
+            "cost": 14886.0,
+            "annual_saving": 9958.757028351361,
+            "life_years": 7,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 336,
+            "facility": 33,
+            "alternative_group": 3,
+            "cost": 12235.0,
+            "annual_saving": 4709.184830615302,
+            "life_years": 9,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 337,
+            "facility": 33,
+            "alternative_group": 3,
+            "cost": 17069.0,
+            "annual_saving": 2916.7000033225145,
+            "life_years": 11,
+            "labor_hours": 62.0
+          },
+          {
+            "id": 338,
+            "facility": 33,
+            "alternative_group": 4,
+            "cost": 12004.0,
+            "annual_saving": 5530.517390358464,
+            "life_years": 10,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 339,
+            "facility": 33,
+            "alternative_group": 4,
+            "cost": 19553.0,
+            "annual_saving": 11875.248885929857,
+            "life_years": 8,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 340,
+            "facility": 34,
+            "alternative_group": 0,
+            "cost": 29052.0,
+            "annual_saving": 11580.022860055724,
+            "life_years": 11,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 341,
+            "facility": 34,
+            "alternative_group": 0,
+            "cost": 30778.0,
+            "annual_saving": 4962.977225577079,
+            "life_years": 12,
+            "labor_hours": 71.0
+          },
+          {
+            "id": 342,
+            "facility": 34,
+            "alternative_group": 1,
+            "cost": 27062.0,
+            "annual_saving": 9605.52273731242,
+            "life_years": 6,
+            "labor_hours": 95.0
+          },
+          {
+            "id": 343,
+            "facility": 34,
+            "alternative_group": 1,
+            "cost": 20301.0,
+            "annual_saving": 14445.399705810642,
+            "life_years": 9,
+            "labor_hours": 86.0
+          },
+          {
+            "id": 344,
+            "facility": 34,
+            "alternative_group": 2,
+            "cost": 27652.0,
+            "annual_saving": 15281.599076334149,
+            "life_years": 8,
+            "labor_hours": 34.0
+          },
+          {
+            "id": 345,
+            "facility": 34,
+            "alternative_group": 2,
+            "cost": 23825.0,
+            "annual_saving": 3659.463988095865,
+            "life_years": 8,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 346,
+            "facility": 34,
+            "alternative_group": 3,
+            "cost": 21682.0,
+            "annual_saving": 14522.31468740416,
+            "life_years": 10,
+            "labor_hours": 44.0
+          },
+          {
+            "id": 347,
+            "facility": 34,
+            "alternative_group": 3,
+            "cost": 31543.0,
+            "annual_saving": 11953.106165751298,
+            "life_years": 6,
+            "labor_hours": 21.0
+          },
+          {
+            "id": 348,
+            "facility": 34,
+            "alternative_group": 4,
+            "cost": 29633.0,
+            "annual_saving": 3722.4183620356894,
+            "life_years": 12,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 349,
+            "facility": 34,
+            "alternative_group": 4,
+            "cost": 21833.0,
+            "annual_saving": 5072.049838467921,
+            "life_years": 7,
+            "labor_hours": 32.0
+          },
+          {
+            "id": 350,
+            "facility": 35,
+            "alternative_group": 0,
+            "cost": 7738.0,
+            "annual_saving": 13685.744563073027,
+            "life_years": 11,
+            "labor_hours": 29.0
+          },
+          {
+            "id": 351,
+            "facility": 35,
+            "alternative_group": 0,
+            "cost": 6008.0,
+            "annual_saving": 4833.699397719856,
+            "life_years": 11,
+            "labor_hours": 72.0
+          },
+          {
+            "id": 352,
+            "facility": 35,
+            "alternative_group": 1,
+            "cost": 12000.0,
+            "annual_saving": 14576.770222840583,
+            "life_years": 10,
+            "labor_hours": 59.0
+          },
+          {
+            "id": 353,
+            "facility": 35,
+            "alternative_group": 1,
+            "cost": 9013.0,
+            "annual_saving": 4376.297414986093,
+            "life_years": 10,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 354,
+            "facility": 35,
+            "alternative_group": 2,
+            "cost": 29393.0,
+            "annual_saving": 8949.791229617636,
+            "life_years": 9,
+            "labor_hours": 19.0
+          },
+          {
+            "id": 355,
+            "facility": 35,
+            "alternative_group": 2,
+            "cost": 25709.0,
+            "annual_saving": 3191.2571107733866,
+            "life_years": 7,
+            "labor_hours": 50.0
+          },
+          {
+            "id": 356,
+            "facility": 35,
+            "alternative_group": 3,
+            "cost": 22764.0,
+            "annual_saving": 3580.3401384264835,
+            "life_years": 5,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 357,
+            "facility": 35,
+            "alternative_group": 3,
+            "cost": 24085.0,
+            "annual_saving": 5197.032342800938,
+            "life_years": 9,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 358,
+            "facility": 35,
+            "alternative_group": 4,
+            "cost": 25030.0,
+            "annual_saving": 4330.366109295728,
+            "life_years": 6,
+            "labor_hours": 80.0
+          },
+          {
+            "id": 359,
+            "facility": 35,
+            "alternative_group": 4,
+            "cost": 14169.0,
+            "annual_saving": 12809.674464767282,
+            "life_years": 10,
+            "labor_hours": 45.0
+          },
+          {
+            "id": 360,
+            "facility": 36,
+            "alternative_group": 0,
+            "cost": 27693.0,
+            "annual_saving": 7567.974701394652,
+            "life_years": 9,
+            "labor_hours": 40.0
+          },
+          {
+            "id": 361,
+            "facility": 36,
+            "alternative_group": 0,
+            "cost": 14777.0,
+            "annual_saving": 13621.772400895139,
+            "life_years": 5,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 362,
+            "facility": 36,
+            "alternative_group": 1,
+            "cost": 6551.0,
+            "annual_saving": 10145.926010055988,
+            "life_years": 9,
+            "labor_hours": 91.0
+          },
+          {
+            "id": 363,
+            "facility": 36,
+            "alternative_group": 1,
+            "cost": 21630.0,
+            "annual_saving": 9093.465523600484,
+            "life_years": 6,
+            "labor_hours": 49.0
+          },
+          {
+            "id": 364,
+            "facility": 36,
+            "alternative_group": 2,
+            "cost": 26405.0,
+            "annual_saving": 4963.475934914174,
+            "life_years": 6,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 365,
+            "facility": 36,
+            "alternative_group": 2,
+            "cost": 32583.0,
+            "annual_saving": 11785.54101544177,
+            "life_years": 10,
+            "labor_hours": 44.0
+          },
+          {
+            "id": 366,
+            "facility": 36,
+            "alternative_group": 3,
+            "cost": 20274.0,
+            "annual_saving": 2753.2475474270714,
+            "life_years": 10,
+            "labor_hours": 56.0
+          },
+          {
+            "id": 367,
+            "facility": 36,
+            "alternative_group": 3,
+            "cost": 20851.0,
+            "annual_saving": 10539.266720739082,
+            "life_years": 9,
+            "labor_hours": 55.0
+          },
+          {
+            "id": 368,
+            "facility": 36,
+            "alternative_group": 4,
+            "cost": 6981.0,
+            "annual_saving": 4128.915298181635,
+            "life_years": 12,
+            "labor_hours": 54.0
+          },
+          {
+            "id": 369,
+            "facility": 36,
+            "alternative_group": 4,
+            "cost": 29983.0,
+            "annual_saving": 3957.7546477491114,
+            "life_years": 5,
+            "labor_hours": 66.0
+          },
+          {
+            "id": 370,
+            "facility": 37,
+            "alternative_group": 0,
+            "cost": 39959.0,
+            "annual_saving": 8518.216909353589,
+            "life_years": 5,
+            "labor_hours": 17.0
+          },
+          {
+            "id": 371,
+            "facility": 37,
+            "alternative_group": 0,
+            "cost": 25850.0,
+            "annual_saving": 12647.812004524285,
+            "life_years": 10,
+            "labor_hours": 67.0
+          },
+          {
+            "id": 372,
+            "facility": 37,
+            "alternative_group": 1,
+            "cost": 33625.0,
+            "annual_saving": 10945.366296162862,
+            "life_years": 10,
+            "labor_hours": 96.0
+          },
+          {
+            "id": 373,
+            "facility": 37,
+            "alternative_group": 1,
+            "cost": 19232.0,
+            "annual_saving": 9856.06340194729,
+            "life_years": 10,
+            "labor_hours": 61.0
+          },
+          {
+            "id": 374,
+            "facility": 37,
+            "alternative_group": 2,
+            "cost": 22722.0,
+            "annual_saving": 5250.913040590987,
+            "life_years": 11,
+            "labor_hours": 31.0
+          },
+          {
+            "id": 375,
+            "facility": 37,
+            "alternative_group": 2,
+            "cost": 19541.0,
+            "annual_saving": 4559.555890290845,
+            "life_years": 6,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 376,
+            "facility": 37,
+            "alternative_group": 3,
+            "cost": 35632.0,
+            "annual_saving": 14086.919215529497,
+            "life_years": 11,
+            "labor_hours": 81.0
+          },
+          {
+            "id": 377,
+            "facility": 37,
+            "alternative_group": 3,
+            "cost": 32887.0,
+            "annual_saving": 2504.8238087266445,
+            "life_years": 5,
+            "labor_hours": 18.0
+          },
+          {
+            "id": 378,
+            "facility": 37,
+            "alternative_group": 4,
+            "cost": 29336.0,
+            "annual_saving": 14065.372108218393,
+            "life_years": 10,
+            "labor_hours": 78.0
+          },
+          {
+            "id": 379,
+            "facility": 37,
+            "alternative_group": 4,
+            "cost": 16694.0,
+            "annual_saving": 15652.362184385302,
+            "life_years": 10,
+            "labor_hours": 28.0
+          },
+          {
+            "id": 380,
+            "facility": 38,
+            "alternative_group": 0,
+            "cost": 25896.0,
+            "annual_saving": 7789.745976641156,
+            "life_years": 9,
+            "labor_hours": 35.0
+          },
+          {
+            "id": 381,
+            "facility": 38,
+            "alternative_group": 0,
+            "cost": 37765.0,
+            "annual_saving": 5416.097490429822,
+            "life_years": 12,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 382,
+            "facility": 38,
+            "alternative_group": 1,
+            "cost": 33499.0,
+            "annual_saving": 8604.91043122681,
+            "life_years": 7,
+            "labor_hours": 27.0
+          },
+          {
+            "id": 383,
+            "facility": 38,
+            "alternative_group": 1,
+            "cost": 25073.0,
+            "annual_saving": 6313.078268873572,
+            "life_years": 9,
+            "labor_hours": 12.0
+          },
+          {
+            "id": 384,
+            "facility": 38,
+            "alternative_group": 2,
+            "cost": 11359.0,
+            "annual_saving": 2289.316072326016,
+            "life_years": 8,
+            "labor_hours": 63.0
+          },
+          {
+            "id": 385,
+            "facility": 38,
+            "alternative_group": 2,
+            "cost": 28689.0,
+            "annual_saving": 14198.114254319447,
+            "life_years": 12,
+            "labor_hours": 42.0
+          },
+          {
+            "id": 386,
+            "facility": 38,
+            "alternative_group": 3,
+            "cost": 18538.0,
+            "annual_saving": 2426.2013758947996,
+            "life_years": 8,
+            "labor_hours": 26.0
+          },
+          {
+            "id": 387,
+            "facility": 38,
+            "alternative_group": 3,
+            "cost": 29072.0,
+            "annual_saving": 3118.8343775951926,
+            "life_years": 9,
+            "labor_hours": 70.0
+          },
+          {
+            "id": 388,
+            "facility": 38,
+            "alternative_group": 4,
+            "cost": 25421.0,
+            "annual_saving": 9636.274917146977,
+            "life_years": 6,
+            "labor_hours": 97.0
+          },
+          {
+            "id": 389,
+            "facility": 38,
+            "alternative_group": 4,
+            "cost": 32096.0,
+            "annual_saving": 7623.427902140551,
+            "life_years": 5,
+            "labor_hours": 59.0
+          },
+          {
+            "id": 390,
+            "facility": 39,
+            "alternative_group": 0,
+            "cost": 29814.0,
+            "annual_saving": 8693.16277710781,
+            "life_years": 11,
+            "labor_hours": 46.0
+          },
+          {
+            "id": 391,
+            "facility": 39,
+            "alternative_group": 0,
+            "cost": 10057.0,
+            "annual_saving": 4321.153993834561,
+            "life_years": 7,
+            "labor_hours": 47.0
+          },
+          {
+            "id": 392,
+            "facility": 39,
+            "alternative_group": 1,
+            "cost": 32754.0,
+            "annual_saving": 12277.360247055172,
+            "life_years": 5,
+            "labor_hours": 60.0
+          },
+          {
+            "id": 393,
+            "facility": 39,
+            "alternative_group": 1,
+            "cost": 12715.0,
+            "annual_saving": 5516.316320499176,
+            "life_years": 9,
+            "labor_hours": 23.0
+          },
+          {
+            "id": 394,
+            "facility": 39,
+            "alternative_group": 2,
+            "cost": 18000.0,
+            "annual_saving": 15024.399882901344,
+            "life_years": 6,
+            "labor_hours": 42.0
+          },
+          {
+            "id": 395,
+            "facility": 39,
+            "alternative_group": 2,
+            "cost": 39687.0,
+            "annual_saving": 11884.535372465883,
+            "life_years": 7,
+            "labor_hours": 30.0
+          },
+          {
+            "id": 396,
+            "facility": 39,
+            "alternative_group": 3,
+            "cost": 37930.0,
+            "annual_saving": 11369.397646699641,
+            "life_years": 12,
+            "labor_hours": 89.0
+          },
+          {
+            "id": 397,
+            "facility": 39,
+            "alternative_group": 3,
+            "cost": 37539.0,
+            "annual_saving": 2914.3328353293386,
+            "life_years": 7,
+            "labor_hours": 88.0
+          },
+          {
+            "id": 398,
+            "facility": 39,
+            "alternative_group": 4,
+            "cost": 5389.0,
+            "annual_saving": 8442.876252782997,
+            "life_years": 8,
+            "labor_hours": 29.0
+          },
+          {
+            "id": 399,
+            "facility": 39,
+            "alternative_group": 4,
+            "cost": 12523.0,
+            "annual_saving": 6479.1736968779305,
+            "life_years": 9,
+            "labor_hours": 90.0
+          }
+        ],
+        "budget": 1877066.4000000001,
+        "labor_budget": 5325.5,
+        "solver": {
+          "status": "optimal",
+          "solver_status": 0,
+          "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+          "mip_gap": 0.0,
+          "variables": 433,
+          "constraints": 234,
+          "selected_ids": [
+            1,
+            2,
+            4,
+            7,
+            8,
+            13,
+            20,
+            23,
+            24,
+            29,
+            30,
+            33,
+            34,
+            40,
+            45,
+            48,
+            53,
+            59,
+            60,
+            64,
+            66,
+            69,
+            70,
+            72,
+            75,
+            79,
+            83,
+            84,
+            87,
+            89,
+            91,
+            94,
+            101,
+            106,
+            108,
+            110,
+            116,
+            124,
+            136,
+            143,
+            146,
+            150,
+            152,
+            154,
+            162,
+            167,
+            169,
+            177,
+            179,
+            181,
+            185,
+            190,
+            195,
+            199,
+            203,
+            204,
+            214,
+            219,
+            222,
+            228,
+            230,
+            250,
+            253,
+            257,
+            263,
+            267,
+            268,
+            271,
+            274,
+            279,
+            283,
+            285,
+            287,
+            291,
+            293,
+            296,
+            298,
+            301,
+            302,
+            305,
+            307,
+            312,
+            314,
+            321,
+            322,
+            324,
+            327,
+            329,
+            330,
+            333,
+            334,
+            339,
+            340,
+            343,
+            344,
+            346,
+            350,
+            352,
+            359,
+            361,
+            362,
+            367,
+            368,
+            371,
+            373,
+            376,
+            379,
+            385,
+            394,
+            398
+          ],
+          "cost": 1859221.0,
+          "labor_hours": 5313.0,
+          "training_mean_npv": 7243313.667784084,
+          "training_lower_cvar": 5835486.771532593,
+          "training_utility": 10161057.053550381
+        },
+        "baseline_selected_ids": [
+          1,
+          2,
+          4,
+          7,
+          8,
+          13,
+          20,
+          23,
+          24,
+          29,
+          30,
+          33,
+          34,
+          40,
+          45,
+          48,
+          53,
+          59,
+          60,
+          62,
+          67,
+          69,
+          70,
+          72,
+          75,
+          79,
+          82,
+          84,
+          87,
+          89,
+          91,
+          94,
+          99,
+          101,
+          106,
+          108,
+          116,
+          123,
+          124,
+          136,
+          143,
+          146,
+          149,
+          150,
+          162,
+          167,
+          169,
+          179,
+          181,
+          185,
+          190,
+          195,
+          199,
+          203,
+          204,
+          214,
+          222,
+          228,
+          230,
+          249,
+          251,
+          253,
+          257,
+          263,
+          267,
+          268,
+          270,
+          274,
+          279,
+          283,
+          285,
+          291,
+          293,
+          296,
+          298,
+          307,
+          312,
+          314,
+          320,
+          322,
+          327,
+          329,
+          330,
+          333,
+          335,
+          339,
+          343,
+          346,
+          350,
+          352,
+          359,
+          361,
+          362,
+          368,
+          371,
+          373,
+          379,
+          385,
+          394,
+          398
+        ],
+        "heldout": {
+          "baseline_mean_npv": 6314240.847307377,
+          "optimized_mean_npv": 7086554.023083325,
+          "baseline_lower_cvar": 4560871.239602037,
+          "optimized_lower_cvar": 5073526.920767396,
+          "optimized_minus_baseline_npv": {
+            "mean": 772313.1757759479,
+            "lower_95": 761085.8342910822,
+            "upper_95": 783540.5172608135,
+            "n": 1000,
+            "method": "paired replication Student-t"
+          },
+          "optimized_probability_negative_npv": 0.0
+        },
+        "evaluated_measure_scenarios": 400000,
+        "evidence": {
+          "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+          "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+          "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+          "logical_cpus": 9,
+          "cpu_affinity_count": 9,
+          "cgroup_limits": {
+            "cpu.max": "800000 100000",
+            "memory.max": "8589934592"
+          },
+          "versions": {
+            "numpy": "1.26.4",
+            "scipy": "1.13.1",
+            "simpy": "4.1.1"
+          },
+          "thread_environment": {
+            "OMP_NUM_THREADS": "1",
+            "OPENBLAS_NUM_THREADS": "1",
+            "MKL_NUM_THREADS": "1"
+          },
+          "config": {
+            "n": 400,
+            "train_scenarios": 32,
+            "test_scenarios": 1000,
+            "budget_fraction": 0.2,
+            "hours_fraction": 0.25,
+            "risk_aversion": 0.5,
+            "alpha": 0.1,
+            "discount": 0.07,
+            "time_limit": 5,
+            "seed": 20260929,
+            "csv_path": null
+          },
+          "config_sha256": "08ab717ced34a3f1af78809d43aa39a908a6046dc6d30142b9343a4e737ae594",
+          "status": "executed",
+          "runtime_seconds": 0.0821397810000235,
+          "peak_rss_mib": 103.21484375,
+          "memory_method": "process peak RSS via getrusage; unavailable on Windows",
+          "throughput_per_second": 4869747.583085053,
+          "throughput_unit": "heldout measure-scenario pairs",
+          "throughput_note": "Derived from executed runtime; numerator is a project-specific work count, not solver-only speed"
+        },
+        "work_units": {
+          "count": 400000,
+          "unit": "heldout measure-scenario pairs"
+        }
+      }
+    }
+  ]
+}

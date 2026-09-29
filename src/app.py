@@ -1,5 +1,5 @@
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
+from pathlib import Path
+import re
 from nltk.stem import PorterStemmer
 import dash
 from dash import dcc, html, dash_table
@@ -12,10 +12,11 @@ import math
 import warnings
 
 
-ASSESS_df=pd.read_csv('ASSESS_df.csv')
+DATA_DIR = Path(__file__).resolve().parent
+ASSESS_df=pd.read_csv(DATA_DIR / 'ASSESS_df.csv')
 ASSESS_df=ASSESS_df[ASSESS_df['FY']>=2000]
-RECC_df=pd.read_csv('RECC_df.csv')
-ISADS=pd.read_csv('ISAD.csv')
+RECC_df=pd.read_csv(DATA_DIR / 'RECC_df.csv')
+ISADS=pd.read_csv(DATA_DIR / 'ISAD.csv')
 options_df= None
 
 
@@ -85,8 +86,11 @@ def update_output_div(n_clicks, keyword):
         return update_output_for_keywords(keyword)
 def update_output_for_keywords(input_keyword):
     
+    if input_keyword is None or not str(input_keyword).strip():
+        return []
+    input_keyword = str(input_keyword).strip()
     # Read the CSV file
-    df=pd.read_csv('sic_desc.csv')
+    df=pd.read_csv(DATA_DIR / 'sic_desc.csv')
     df=df[df['SIC Code']>1000]
     print(type(input_keyword))
     if input_keyword.isdigit():
@@ -107,10 +111,10 @@ def update_output_for_keywords(input_keyword):
     # Preprocess the data
     def preprocess_text(text):
         # Tokenize the text
-        tokens = word_tokenize(text)
+        tokens = re.findall(r'[A-Za-z0-9]+', str(text))
 
         # Remove stopwords
-        stop_words = set(stopwords.words('english'))
+        stop_words = {'a', 'an', 'and', 'the', 'of', 'for', 'to', 'in'}
         tokens = [token for token in tokens if token.lower() not in stop_words]
 
         # Stemming
@@ -124,7 +128,9 @@ def update_output_for_keywords(input_keyword):
     # Function to find matching descriptions based on keywords
     def find_matching_descriptions(keyword, df):
         keyword = preprocess_text(keyword)
-        matches = df[df['processed_description'].str.contains(keyword, case=False)]
+        if not keyword:
+            return df.iloc[0:0]
+        matches = df[df['processed_description'].str.contains(keyword, case=False, regex=False, na=False)]
         return matches
     matching_info = find_matching_descriptions(input_keyword, df)
     # Accessing SIC numbers from matching_info
@@ -148,7 +154,7 @@ def update_output_for_keywords(input_keyword):
 def update_output_for_sic(sic_input):
     print(sic_input)
     print(type(sic_input))
-    if sic_input is None:
+    if not sic_input or not ASSESS_df['SIC'].isin(sic_input).any():
         return px.scatter(), px.scatter(), [], []  # Return default scatter plots if SIC is not valid
 
     # Filter DataFrame based on input SIC for Plot 1
@@ -156,6 +162,8 @@ def update_output_for_sic(sic_input):
     filtered_df_1['EC_plant_usage'] = filtered_df_1['EC_plant_usage'].fillna(0).astype(int)
     z1=len(filtered_df_1[filtered_df_1['EC_plant_usage']==0])
     filtered_df_1=filtered_df_1[filtered_df_1['EC_plant_usage']!=0]
+    if filtered_df_1.empty:
+        return px.scatter(title='No valid energy observations'), px.scatter(), [], []
     # Calculate every 33% and get values as a NumPy array
     quartiles_1 = filtered_df_1['EC_plant_usage'].quantile([1/3, 2/3, 1]).values
 
@@ -232,6 +240,8 @@ def update_output_for_sic(sic_input):
     filtered_df_2['E2_plant_usage'] = filtered_df_2['E2_plant_usage'].fillna(0).astype(int)
     z2=len(filtered_df_2[filtered_df_2['E2_plant_usage']==0])
     filtered_df_2=filtered_df_2[filtered_df_2['E2_plant_usage']!=0]
+    if filtered_df_2.empty:
+        return fig_1, px.scatter(title='No valid second energy observations'), [], []
     # Calculate every 33% and get values as a NumPy array
     quartiles_2 = filtered_df_2['E2_plant_usage'].quantile([1/3, 2/3, 1]).values
 
